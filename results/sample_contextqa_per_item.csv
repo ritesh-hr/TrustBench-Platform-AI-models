@@ -1,0 +1,4 @@
+id,exact,fuzzy,faithfulness_proxy,citation_present,citation_grounded,consistency,confidence
+ctxqa_001,1,1,1.0,1,1,1.0,0.9
+ctxqa_002,0,1,0.8,1,1,1.0,0.8
+ctxqa_003,0,1,1.0,1,1,1.0,0.7

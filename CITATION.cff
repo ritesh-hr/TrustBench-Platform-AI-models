@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "TrustBench-Platform: Beyond Accuracy — Evaluating Trust, Faithfulness, and Grounding Across Conversational AI Platforms"
+message: "If you use this benchmark repo, please cite it."
+type: software
+authors:
+  - family-names: Ruparel
+    given-names: Ritesh
+year: 2025
+license: MIT
+repository-code: "https://github.com/<org-or-user>/trustbench-platform"
+doi: "10.5281/zenodo.<PLACEHOLDER>"
+version: "0.1.0"
+date-released: "2025-12-15"
+keywords:
+  - "LLM evaluation"
+  - "faithfulness"
+  - "grounding"
+  - "citations"
+  - "safety"
+  - "calibration"

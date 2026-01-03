@@ -1,0 +1,3 @@
+{"id":"ctxqa_001","prediction":"CSG was founded in 1982. [ctx:doc1]","citations":["ctx:doc1"],"confidence":0.90,"run_id":"r1"}
+{"id":"ctxqa_002","prediction":"The metric is MRR (Mean Reciprocal Rank). [ctx:doc2]","citations":["ctx:doc2"],"confidence":0.80,"run_id":"r1"}
+{"id":"ctxqa_003","prediction":"Not in context. [ctx:doc3]","citations":["ctx:doc3"],"confidence":0.70,"run_id":"r1"}

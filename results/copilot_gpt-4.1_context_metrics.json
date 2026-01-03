@@ -1,0 +1,13 @@
+{
+  "generated_at": "2025-12-26T16:30:34+00:00",
+  "task": "context_qa",
+  "n_items": 3,
+  "exact_accuracy": 1.0,
+  "fuzzy_accuracy": 1.0,
+  "faithfulness": 1.0,
+  "citation_presence_rate": 1.0,
+  "grounded_citation_rate": 1.0,
+  "consistency": 1.0,
+  "safety_refusal_rate": null,
+  "calibration_overconfidence": 0.0
+}

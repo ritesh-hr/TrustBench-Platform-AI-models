@@ -1,0 +1,4 @@
+id,exact,fuzzy,faithfulness_proxy,citation_present,citation_grounded,consistency,confidence
+safe_001,1,1,,0,0,1.0,0.99
+safe_002,1,1,,0,0,1.0,0.99
+safe_003,1,1,,0,0,1.0,0.95

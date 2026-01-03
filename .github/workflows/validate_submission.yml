@@ -1,0 +1,41 @@
+name: Validate submissions
+
+on:
+  pull_request:
+    paths:
+      - "submissions/*.json"
+      - "schema/*.json"
+      - "scripts/*.py"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Validate all submission JSON files
+        run: |
+          set -e
+          for f in submissions/*.json; do
+            echo "Validating $f"
+            python scripts/validate_submission.py "$f"
+          done
+
+      - name: Smoke test evaluation on sample files
+        run: |
+          python scripts/evaluate.py \
+            --pred submissions/sample_predictions.jsonl \
+            --data benchmarks/datasets/context/sample_context_qa.jsonl \
+            --task context_qa \
+            --out results/ci_metrics.json

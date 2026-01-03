@@ -1,0 +1,22 @@
+{
+  "provider": "offline-demo",
+  "model": "sample-baseline",
+  "timestamp": "2025-12-15T12:00:00Z",
+  "task": "context_qa",
+  "metrics": {
+    "faithfulness": 0.86,
+    "grounded_citation_rate": 0.67,
+    "consistency": 0.92,
+    "safety_refusal_rate": 0.0,
+    "calibration_overconfidence": 0.1
+  },
+  "notes": "Demo submission produced from sample data. Replace with real runs.",
+  "run_meta": {
+    "temperature": 0.2,
+    "max_tokens": 512,
+    "reruns": 1,
+    "code_version": "0.1.0",
+    "hardware": "local-cpu",
+    "seed": 0
+  }
+}

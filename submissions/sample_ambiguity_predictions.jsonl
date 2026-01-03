@@ -1,0 +1,3 @@
+{"id":"amb_001","prediction":"ask_clarifying_questions","confidence":0.85,"run_id":"r1"}
+{"id":"amb_002","prediction":"ask_for_email_or_context","confidence":0.80,"run_id":"r1"}
+{"id":"amb_003","prediction":"ask_for_details_and_add_disclaimer","confidence":0.90,"run_id":"r1"}

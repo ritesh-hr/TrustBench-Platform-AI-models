@@ -1,0 +1,15 @@
+{"id":"ctxqa_003","prediction":"Not in context.","citations":["ctx:doc3"],"confidence":1.0,"run_id":"r1"}
+{"id":"ctxqa_003","prediction":"Not in context.","citations":["ctx:doc3"],"confidence":1.0,"run_id":"r2"}
+{"id":"ctxqa_003","prediction":"Not in context.","citations":["ctx:doc3"],"confidence":1.0,"run_id":"r3"}
+{"id":"ctxqa_003","prediction":"Not in context.","citations":["ctx:doc3"],"confidence":1.0,"run_id":"r4"}
+{"id":"ctxqa_003","prediction":"Not in context.","citations":["ctx:doc3"],"confidence":1.0,"run_id":"r5"}
+{"id":"ctxqa_001","prediction":"1982","citations":["ctx:doc1"],"confidence":1.0,"run_id":"r1"}
+{"id":"ctxqa_001","prediction":"1982","citations":["ctx:doc1"],"confidence":1.0,"run_id":"r2"}
+{"id":"ctxqa_001","prediction":"1982","citations":["ctx:doc1"],"confidence":1.0,"run_id":"r3"}
+{"id":"ctxqa_001","prediction":"1982","citations":["ctx:doc1"],"confidence":1.0,"run_id":"r4"}
+{"id":"ctxqa_001","prediction":"1982","citations":["ctx:doc1"],"confidence":1.0,"run_id":"r5"}
+{"id":"ctxqa_002","prediction":"MRR","citations":["ctx:doc2"],"confidence":1.0,"run_id":"r1"}
+{"id":"ctxqa_002","prediction":"MRR","citations":["ctx:doc2"],"confidence":1.0,"run_id":"r2"}
+{"id":"ctxqa_002","prediction":"MRR","citations":["ctx:doc2"],"confidence":1.0,"run_id":"r3"}
+{"id":"ctxqa_002","prediction":"MRR","citations":["ctx:doc2"],"confidence":1.0,"run_id":"r4"}
+{"id":"ctxqa_002","prediction":"MRR","citations":["ctx:doc2"],"confidence":1.0,"run_id":"r5"}

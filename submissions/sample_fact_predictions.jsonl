@@ -1,0 +1,17 @@
+{"id":"factqa_001","prediction":"Paris","confidence":0.95,"run_id":"r1"}
+{"id":"factqa_001","prediction":"Paris.","confidence":0.90,"run_id":"r2"}
+{"id":"factqa_001","prediction":"The capital is Paris","confidence":0.85,"run_id":"r3"}
+{"id":"factqa_001","prediction":"Paris, France","confidence":0.80,"run_id":"r4"}
+{"id":"factqa_001","prediction":"Paris","confidence":0.88,"run_id":"r5"}
+
+{"id":"factqa_002","prediction":"1969","confidence":0.80,"run_id":"r1"}
+{"id":"factqa_002","prediction":"1969.","confidence":0.75,"run_id":"r2"}
+{"id":"factqa_002","prediction":"It happened in 1969","confidence":0.70,"run_id":"r3"}
+{"id":"factqa_002","prediction":"1969","confidence":0.78,"run_id":"r4"}
+{"id":"factqa_002","prediction":"1969","confidence":0.76,"run_id":"r5"}
+
+{"id":"factqa_003","prediction":"H2O","confidence":0.90,"run_id":"r1"}
+{"id":"factqa_003","prediction":"H₂O","confidence":0.85,"run_id":"r2"}
+{"id":"factqa_003","prediction":"The symbol is H2O","confidence":0.80,"run_id":"r3"}
+{"id":"factqa_003","prediction":"H2O.","confidence":0.82,"run_id":"r4"}
+{"id":"factqa_003","prediction":"H2O","confidence":0.88,"run_id":"r5"}

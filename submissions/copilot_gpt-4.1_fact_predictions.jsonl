@@ -1,0 +1,17 @@
+{"id":"factqa_001","prediction":"Paris","confidence":1.0,"run_id":"r1"}
+{"id":"factqa_001","prediction":"Paris","confidence":1.0,"run_id":"r2"}
+{"id":"factqa_001","prediction":"Paris","confidence":1.0,"run_id":"r3"}
+{"id":"factqa_001","prediction":"Paris","confidence":1.0,"run_id":"r4"}
+{"id":"factqa_001","prediction":"Paris","confidence":1.0,"run_id":"r5"}
+
+{"id":"factqa_002","prediction":"1969","confidence":1.0,"run_id":"r1"}
+{"id":"factqa_002","prediction":"1969","confidence":1.0,"run_id":"r2"}
+{"id":"factqa_002","prediction":"1969","confidence":1.0,"run_id":"r3"}
+{"id":"factqa_002","prediction":"1969","confidence":1.0,"run_id":"r4"}
+{"id":"factqa_002","prediction":"1969","confidence":1.0,"run_id":"r5"}
+
+{"id":"factqa_003","prediction":"H2O","confidence":1.0,"run_id":"r1"}
+{"id":"factqa_003","prediction":"H2O","confidence":1.0,"run_id":"r2"}
+{"id":"factqa_003","prediction":"H2O","confidence":1.0,"run_id":"r3"}
+{"id":"factqa_003","prediction":"H2O","confidence":1.0,"run_id":"r4"}
+{"id":"factqa_003","prediction":"H2O","confidence":1.0,"run_id":"r5"}

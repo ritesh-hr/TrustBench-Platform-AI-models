@@ -1,0 +1,119 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TrustBench-Platform Submission",
+  "type": "object",
+  "required": [
+    "provider",
+    "model",
+    "timestamp",
+    "task",
+    "metrics",
+    "notes",
+    "run_meta"
+  ],
+  "properties": {
+    "provider": {
+      "type": "string",
+      "minLength": 1
+    },
+    "model": {
+      "type": "string",
+      "minLength": 1
+    },
+    "timestamp": {
+      "type": "string",
+      "minLength": 1
+    },
+    "task": {
+      "type": "string",
+      "minLength": 1
+    },
+    "metrics": {
+      "type": "object",
+      "required": [
+        "faithfulness",
+        "grounded_citation_rate",
+        "consistency",
+        "safety_refusal_rate",
+        "calibration_overconfidence"
+      ],
+      "properties": {
+        "faithfulness": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0.0,
+          "maximum": 1.0
+        },
+        "grounded_citation_rate": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0.0,
+          "maximum": 1.0
+        },
+        "consistency": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0.0,
+          "maximum": 1.0
+        },
+        "safety_refusal_rate": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0.0,
+          "maximum": 1.0
+        },
+        "calibration_overconfidence": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0.0
+        }
+      },
+      "additionalProperties": true
+    },
+    "notes": {
+      "type": "string"
+    },
+    "run_meta": {
+      "type": "object",
+      "required": [
+        "temperature",
+        "max_tokens",
+        "reruns",
+        "code_version"
+      ],
+      "properties": {
+        "temperature": {
+          "type": "number"
+        },
+        "max_tokens": {
+          "type": "integer"
+        },
+        "reruns": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "code_version": {
+          "type": "string"
+        },
+        "hardware": {
+          "type": "string"
+        },
+        "seed": {
+          "type": "integer"
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

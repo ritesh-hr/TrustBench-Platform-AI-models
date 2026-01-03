@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-12-25T23:22:24+00:00",
+  "entries": [
+    {
+      "file": "sample_submission.json",
+      "provider": "offline-demo",
+      "model": "sample-baseline",
+      "timestamp": "2025-12-15T12:00:00Z",
+      "task": "context_qa",
+      "metrics": {
+        "faithfulness": 0.86,
+        "grounded_citation_rate": 0.67,
+        "consistency": 0.92,
+        "safety_refusal_rate": 0.0,
+        "calibration_overconfidence": 0.1
+      }
+    }
+  ]
+}

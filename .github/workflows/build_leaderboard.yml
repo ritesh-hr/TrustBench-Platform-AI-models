@@ -1,0 +1,47 @@
+name: Build leaderboard
+
+on:
+  push:
+    paths:
+      - "submissions/*.json"
+      - "scripts/*.py"
+      - "schema/*.json"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Rebuild leaderboard
+        run: |
+          python scripts/build_leaderboard.py --submissions submissions --out leaderboard/leaderboard.json
+
+      - name: Commit leaderboard if changed
+        run: |
+          set -e
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add leaderboard/leaderboard.json
+          if git diff --cached --quiet; then
+            echo "No leaderboard changes."
+            exit 0
+          fi
+          git commit -m "Update leaderboard"
+          git push
