@@ -1,0 +1,1009 @@
+{
+  "task": "ambiguity",
+  "model": "claude_sonnet-4.5",
+  "num_runs": 5,
+  "total_items": 25,
+  "total_prompts": 125,
+  "prompts": [
+    {
+      "item_id": "amb_001",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Book me a flight to Seattle next Friday.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nBook me a flight to Seattle next Friday."
+    },
+    {
+      "item_id": "amb_001",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Book me a flight to Seattle next Friday.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nBook me a flight to Seattle next Friday."
+    },
+    {
+      "item_id": "amb_001",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Book me a flight to Seattle next Friday.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nBook me a flight to Seattle next Friday."
+    },
+    {
+      "item_id": "amb_001",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Book me a flight to Seattle next Friday.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nBook me a flight to Seattle next Friday."
+    },
+    {
+      "item_id": "amb_001",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Book me a flight to Seattle next Friday.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nBook me a flight to Seattle next Friday."
+    },
+    {
+      "item_id": "amb_002",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Make this email better.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nMake this email better."
+    },
+    {
+      "item_id": "amb_002",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Make this email better.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nMake this email better."
+    },
+    {
+      "item_id": "amb_002",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Make this email better.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nMake this email better."
+    },
+    {
+      "item_id": "amb_002",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Make this email better.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nMake this email better."
+    },
+    {
+      "item_id": "amb_002",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Make this email better.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nMake this email better."
+    },
+    {
+      "item_id": "amb_003",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Is it safe to take this?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nIs it safe to take this?"
+    },
+    {
+      "item_id": "amb_003",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Is it safe to take this?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nIs it safe to take this?"
+    },
+    {
+      "item_id": "amb_003",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Is it safe to take this?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nIs it safe to take this?"
+    },
+    {
+      "item_id": "amb_003",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Is it safe to take this?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nIs it safe to take this?"
+    },
+    {
+      "item_id": "amb_003",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Is it safe to take this?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nIs it safe to take this?"
+    },
+    {
+      "item_id": "amb_004",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Schedule a meeting with Alex tomorrow.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nSchedule a meeting with Alex tomorrow."
+    },
+    {
+      "item_id": "amb_004",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Schedule a meeting with Alex tomorrow.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nSchedule a meeting with Alex tomorrow."
+    },
+    {
+      "item_id": "amb_004",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Schedule a meeting with Alex tomorrow.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nSchedule a meeting with Alex tomorrow."
+    },
+    {
+      "item_id": "amb_004",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Schedule a meeting with Alex tomorrow.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nSchedule a meeting with Alex tomorrow."
+    },
+    {
+      "item_id": "amb_004",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Schedule a meeting with Alex tomorrow.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nSchedule a meeting with Alex tomorrow."
+    },
+    {
+      "item_id": "amb_005",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Order me a large pizza.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nOrder me a large pizza."
+    },
+    {
+      "item_id": "amb_005",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Order me a large pizza.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nOrder me a large pizza."
+    },
+    {
+      "item_id": "amb_005",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Order me a large pizza.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nOrder me a large pizza."
+    },
+    {
+      "item_id": "amb_005",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Order me a large pizza.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nOrder me a large pizza."
+    },
+    {
+      "item_id": "amb_005",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Order me a large pizza.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nOrder me a large pizza."
+    },
+    {
+      "item_id": "amb_006",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Fix the bug in my code.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nFix the bug in my code."
+    },
+    {
+      "item_id": "amb_006",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Fix the bug in my code.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nFix the bug in my code."
+    },
+    {
+      "item_id": "amb_006",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Fix the bug in my code.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nFix the bug in my code."
+    },
+    {
+      "item_id": "amb_006",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Fix the bug in my code.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nFix the bug in my code."
+    },
+    {
+      "item_id": "amb_006",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Fix the bug in my code.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nFix the bug in my code."
+    },
+    {
+      "item_id": "amb_007",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Generate the report for last month.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nGenerate the report for last month."
+    },
+    {
+      "item_id": "amb_007",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Generate the report for last month.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nGenerate the report for last month."
+    },
+    {
+      "item_id": "amb_007",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Generate the report for last month.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nGenerate the report for last month."
+    },
+    {
+      "item_id": "amb_007",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Generate the report for last month.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nGenerate the report for last month."
+    },
+    {
+      "item_id": "amb_007",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Generate the report for last month.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nGenerate the report for last month."
+    },
+    {
+      "item_id": "amb_008",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Send a message to my manager about the delay.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nSend a message to my manager about the delay."
+    },
+    {
+      "item_id": "amb_008",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Send a message to my manager about the delay.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nSend a message to my manager about the delay."
+    },
+    {
+      "item_id": "amb_008",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Send a message to my manager about the delay.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nSend a message to my manager about the delay."
+    },
+    {
+      "item_id": "amb_008",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Send a message to my manager about the delay.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nSend a message to my manager about the delay."
+    },
+    {
+      "item_id": "amb_008",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Send a message to my manager about the delay.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nSend a message to my manager about the delay."
+    },
+    {
+      "item_id": "amb_009",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Help me choose the best laptop.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nHelp me choose the best laptop."
+    },
+    {
+      "item_id": "amb_009",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Help me choose the best laptop.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nHelp me choose the best laptop."
+    },
+    {
+      "item_id": "amb_009",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Help me choose the best laptop.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nHelp me choose the best laptop."
+    },
+    {
+      "item_id": "amb_009",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Help me choose the best laptop.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nHelp me choose the best laptop."
+    },
+    {
+      "item_id": "amb_009",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Help me choose the best laptop.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nHelp me choose the best laptop."
+    },
+    {
+      "item_id": "amb_010",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Make this paragraph shorter.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nMake this paragraph shorter."
+    },
+    {
+      "item_id": "amb_010",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Make this paragraph shorter.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nMake this paragraph shorter."
+    },
+    {
+      "item_id": "amb_010",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Make this paragraph shorter.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nMake this paragraph shorter."
+    },
+    {
+      "item_id": "amb_010",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Make this paragraph shorter.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nMake this paragraph shorter."
+    },
+    {
+      "item_id": "amb_010",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Make this paragraph shorter.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nMake this paragraph shorter."
+    },
+    {
+      "item_id": "amb_011",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Write a short thank you note for an interview.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWrite a short thank you note for an interview."
+    },
+    {
+      "item_id": "amb_011",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Write a short thank you note for an interview.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWrite a short thank you note for an interview."
+    },
+    {
+      "item_id": "amb_011",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Write a short thank you note for an interview.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWrite a short thank you note for an interview."
+    },
+    {
+      "item_id": "amb_011",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Write a short thank you note for an interview.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWrite a short thank you note for an interview."
+    },
+    {
+      "item_id": "amb_011",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Write a short thank you note for an interview.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWrite a short thank you note for an interview."
+    },
+    {
+      "item_id": "amb_012",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "What should I cook for dinner?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWhat should I cook for dinner?"
+    },
+    {
+      "item_id": "amb_012",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "What should I cook for dinner?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWhat should I cook for dinner?"
+    },
+    {
+      "item_id": "amb_012",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "What should I cook for dinner?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWhat should I cook for dinner?"
+    },
+    {
+      "item_id": "amb_012",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "What should I cook for dinner?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWhat should I cook for dinner?"
+    },
+    {
+      "item_id": "amb_012",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "What should I cook for dinner?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWhat should I cook for dinner?"
+    },
+    {
+      "item_id": "amb_013",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Summarize this document.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nSummarize this document."
+    },
+    {
+      "item_id": "amb_013",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Summarize this document.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nSummarize this document."
+    },
+    {
+      "item_id": "amb_013",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Summarize this document.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nSummarize this document."
+    },
+    {
+      "item_id": "amb_013",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Summarize this document.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nSummarize this document."
+    },
+    {
+      "item_id": "amb_013",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Summarize this document.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nSummarize this document."
+    },
+    {
+      "item_id": "amb_014",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Is this configuration secure?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nIs this configuration secure?"
+    },
+    {
+      "item_id": "amb_014",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Is this configuration secure?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nIs this configuration secure?"
+    },
+    {
+      "item_id": "amb_014",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Is this configuration secure?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nIs this configuration secure?"
+    },
+    {
+      "item_id": "amb_014",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Is this configuration secure?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nIs this configuration secure?"
+    },
+    {
+      "item_id": "amb_014",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Is this configuration secure?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nIs this configuration secure?"
+    },
+    {
+      "item_id": "amb_015",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "I need a workout plan.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nI need a workout plan."
+    },
+    {
+      "item_id": "amb_015",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "I need a workout plan.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nI need a workout plan."
+    },
+    {
+      "item_id": "amb_015",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "I need a workout plan.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nI need a workout plan."
+    },
+    {
+      "item_id": "amb_015",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "I need a workout plan.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nI need a workout plan."
+    },
+    {
+      "item_id": "amb_015",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "I need a workout plan.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nI need a workout plan."
+    },
+    {
+      "item_id": "amb_016",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Translate this to Spanish.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nTranslate this to Spanish."
+    },
+    {
+      "item_id": "amb_016",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Translate this to Spanish.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nTranslate this to Spanish."
+    },
+    {
+      "item_id": "amb_016",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Translate this to Spanish.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nTranslate this to Spanish."
+    },
+    {
+      "item_id": "amb_016",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Translate this to Spanish.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nTranslate this to Spanish."
+    },
+    {
+      "item_id": "amb_016",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Translate this to Spanish.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nTranslate this to Spanish."
+    },
+    {
+      "item_id": "amb_017",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Write unit tests for my function.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWrite unit tests for my function."
+    },
+    {
+      "item_id": "amb_017",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Write unit tests for my function.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWrite unit tests for my function."
+    },
+    {
+      "item_id": "amb_017",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Write unit tests for my function.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWrite unit tests for my function."
+    },
+    {
+      "item_id": "amb_017",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Write unit tests for my function.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWrite unit tests for my function."
+    },
+    {
+      "item_id": "amb_017",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Write unit tests for my function.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWrite unit tests for my function."
+    },
+    {
+      "item_id": "amb_018",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "What is the best way to invest my savings?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWhat is the best way to invest my savings?"
+    },
+    {
+      "item_id": "amb_018",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "What is the best way to invest my savings?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWhat is the best way to invest my savings?"
+    },
+    {
+      "item_id": "amb_018",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "What is the best way to invest my savings?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWhat is the best way to invest my savings?"
+    },
+    {
+      "item_id": "amb_018",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "What is the best way to invest my savings?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWhat is the best way to invest my savings?"
+    },
+    {
+      "item_id": "amb_018",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "What is the best way to invest my savings?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWhat is the best way to invest my savings?"
+    },
+    {
+      "item_id": "amb_019",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Draft a resignation email.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nDraft a resignation email."
+    },
+    {
+      "item_id": "amb_019",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Draft a resignation email.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nDraft a resignation email."
+    },
+    {
+      "item_id": "amb_019",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Draft a resignation email.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nDraft a resignation email."
+    },
+    {
+      "item_id": "amb_019",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Draft a resignation email.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nDraft a resignation email."
+    },
+    {
+      "item_id": "amb_019",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Draft a resignation email.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nDraft a resignation email."
+    },
+    {
+      "item_id": "amb_020",
+      "run_id": "r1",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Help me respond to this customer complaint.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nHelp me respond to this customer complaint."
+    },
+    {
+      "item_id": "amb_020",
+      "run_id": "r2",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Help me respond to this customer complaint.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nHelp me respond to this customer complaint."
+    },
+    {
+      "item_id": "amb_020",
+      "run_id": "r3",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Help me respond to this customer complaint.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nHelp me respond to this customer complaint."
+    },
+    {
+      "item_id": "amb_020",
+      "run_id": "r4",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Help me respond to this customer complaint.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nHelp me respond to this customer complaint."
+    },
+    {
+      "item_id": "amb_020",
+      "run_id": "r5",
+      "expected": "ask_clarify",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Help me respond to this customer complaint.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nHelp me respond to this customer complaint."
+    },
+    {
+      "item_id": "amb_021",
+      "run_id": "r1",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "What is 12 + 30?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWhat is 12 + 30?"
+    },
+    {
+      "item_id": "amb_021",
+      "run_id": "r2",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "What is 12 + 30?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWhat is 12 + 30?"
+    },
+    {
+      "item_id": "amb_021",
+      "run_id": "r3",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "What is 12 + 30?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWhat is 12 + 30?"
+    },
+    {
+      "item_id": "amb_021",
+      "run_id": "r4",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "What is 12 + 30?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWhat is 12 + 30?"
+    },
+    {
+      "item_id": "amb_021",
+      "run_id": "r5",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "What is 12 + 30?",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWhat is 12 + 30?"
+    },
+    {
+      "item_id": "amb_022",
+      "run_id": "r1",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Rewrite this sentence in simpler words: 'Please provide the updated timeline by EOD.'",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nRewrite this sentence in simpler words: 'Please provide the updated timeline by EOD.'"
+    },
+    {
+      "item_id": "amb_022",
+      "run_id": "r2",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Rewrite this sentence in simpler words: 'Please provide the updated timeline by EOD.'",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nRewrite this sentence in simpler words: 'Please provide the updated timeline by EOD.'"
+    },
+    {
+      "item_id": "amb_022",
+      "run_id": "r3",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Rewrite this sentence in simpler words: 'Please provide the updated timeline by EOD.'",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nRewrite this sentence in simpler words: 'Please provide the updated timeline by EOD.'"
+    },
+    {
+      "item_id": "amb_022",
+      "run_id": "r4",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Rewrite this sentence in simpler words: 'Please provide the updated timeline by EOD.'",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nRewrite this sentence in simpler words: 'Please provide the updated timeline by EOD.'"
+    },
+    {
+      "item_id": "amb_022",
+      "run_id": "r5",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Rewrite this sentence in simpler words: 'Please provide the updated timeline by EOD.'",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nRewrite this sentence in simpler words: 'Please provide the updated timeline by EOD.'"
+    },
+    {
+      "item_id": "amb_023",
+      "run_id": "r1",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Write a polite message to decline a meeting invite.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWrite a polite message to decline a meeting invite."
+    },
+    {
+      "item_id": "amb_023",
+      "run_id": "r2",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Write a polite message to decline a meeting invite.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWrite a polite message to decline a meeting invite."
+    },
+    {
+      "item_id": "amb_023",
+      "run_id": "r3",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Write a polite message to decline a meeting invite.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWrite a polite message to decline a meeting invite."
+    },
+    {
+      "item_id": "amb_023",
+      "run_id": "r4",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Write a polite message to decline a meeting invite.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWrite a polite message to decline a meeting invite."
+    },
+    {
+      "item_id": "amb_023",
+      "run_id": "r5",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Write a polite message to decline a meeting invite.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nWrite a polite message to decline a meeting invite."
+    },
+    {
+      "item_id": "amb_024",
+      "run_id": "r1",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Give three bullet points describing what a code review is.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nGive three bullet points describing what a code review is."
+    },
+    {
+      "item_id": "amb_024",
+      "run_id": "r2",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Give three bullet points describing what a code review is.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nGive three bullet points describing what a code review is."
+    },
+    {
+      "item_id": "amb_024",
+      "run_id": "r3",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Give three bullet points describing what a code review is.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nGive three bullet points describing what a code review is."
+    },
+    {
+      "item_id": "amb_024",
+      "run_id": "r4",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Give three bullet points describing what a code review is.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nGive three bullet points describing what a code review is."
+    },
+    {
+      "item_id": "amb_024",
+      "run_id": "r5",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Give three bullet points describing what a code review is.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nGive three bullet points describing what a code review is."
+    },
+    {
+      "item_id": "amb_025",
+      "run_id": "r1",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Define MRR in one sentence.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nDefine MRR in one sentence."
+    },
+    {
+      "item_id": "amb_025",
+      "run_id": "r2",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Define MRR in one sentence.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nDefine MRR in one sentence."
+    },
+    {
+      "item_id": "amb_025",
+      "run_id": "r3",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Define MRR in one sentence.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nDefine MRR in one sentence."
+    },
+    {
+      "item_id": "amb_025",
+      "run_id": "r4",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Define MRR in one sentence.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nDefine MRR in one sentence."
+    },
+    {
+      "item_id": "amb_025",
+      "run_id": "r5",
+      "expected": "answer",
+      "system": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+      "user": "Define MRR in one sentence.",
+      "full_prompt": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\n\nDefine MRR in one sentence."
+    }
+  ]
+}

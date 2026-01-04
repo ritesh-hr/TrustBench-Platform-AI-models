@@ -1,0 +1,1009 @@
+{
+  "task": "reasoning",
+  "model": "claude_sonnet-4.5",
+  "num_runs": 5,
+  "total_items": 25,
+  "total_prompts": 125,
+  "prompts": [
+    {
+      "item_id": "rsn_001",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If a store discount is 20% on $50, what is the final price?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf a store discount is 20% on $50, what is the final price?"
+    },
+    {
+      "item_id": "rsn_001",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If a store discount is 20% on $50, what is the final price?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf a store discount is 20% on $50, what is the final price?"
+    },
+    {
+      "item_id": "rsn_001",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If a store discount is 20% on $50, what is the final price?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf a store discount is 20% on $50, what is the final price?"
+    },
+    {
+      "item_id": "rsn_001",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If a store discount is 20% on $50, what is the final price?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf a store discount is 20% on $50, what is the final price?"
+    },
+    {
+      "item_id": "rsn_001",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If a store discount is 20% on $50, what is the final price?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf a store discount is 20% on $50, what is the final price?"
+    },
+    {
+      "item_id": "rsn_002",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A car travels 150 miles in 3 hours. What is its average speed in mph?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA car travels 150 miles in 3 hours. What is its average speed in mph?"
+    },
+    {
+      "item_id": "rsn_002",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A car travels 150 miles in 3 hours. What is its average speed in mph?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA car travels 150 miles in 3 hours. What is its average speed in mph?"
+    },
+    {
+      "item_id": "rsn_002",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A car travels 150 miles in 3 hours. What is its average speed in mph?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA car travels 150 miles in 3 hours. What is its average speed in mph?"
+    },
+    {
+      "item_id": "rsn_002",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A car travels 150 miles in 3 hours. What is its average speed in mph?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA car travels 150 miles in 3 hours. What is its average speed in mph?"
+    },
+    {
+      "item_id": "rsn_002",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A car travels 150 miles in 3 hours. What is its average speed in mph?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA car travels 150 miles in 3 hours. What is its average speed in mph?"
+    },
+    {
+      "item_id": "rsn_003",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "What is 17 * 6?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nWhat is 17 * 6?"
+    },
+    {
+      "item_id": "rsn_003",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "What is 17 * 6?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nWhat is 17 * 6?"
+    },
+    {
+      "item_id": "rsn_003",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "What is 17 * 6?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nWhat is 17 * 6?"
+    },
+    {
+      "item_id": "rsn_003",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "What is 17 * 6?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nWhat is 17 * 6?"
+    },
+    {
+      "item_id": "rsn_003",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "What is 17 * 6?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nWhat is 17 * 6?"
+    },
+    {
+      "item_id": "rsn_004",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A recipe needs 3 cups of flour for 12 cookies. How many cups are needed for 20 cookies (assume proportional)?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA recipe needs 3 cups of flour for 12 cookies. How many cups are needed for 20 cookies (assume proportional)?"
+    },
+    {
+      "item_id": "rsn_004",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A recipe needs 3 cups of flour for 12 cookies. How many cups are needed for 20 cookies (assume proportional)?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA recipe needs 3 cups of flour for 12 cookies. How many cups are needed for 20 cookies (assume proportional)?"
+    },
+    {
+      "item_id": "rsn_004",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A recipe needs 3 cups of flour for 12 cookies. How many cups are needed for 20 cookies (assume proportional)?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA recipe needs 3 cups of flour for 12 cookies. How many cups are needed for 20 cookies (assume proportional)?"
+    },
+    {
+      "item_id": "rsn_004",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A recipe needs 3 cups of flour for 12 cookies. How many cups are needed for 20 cookies (assume proportional)?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA recipe needs 3 cups of flour for 12 cookies. How many cups are needed for 20 cookies (assume proportional)?"
+    },
+    {
+      "item_id": "rsn_004",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A recipe needs 3 cups of flour for 12 cookies. How many cups are needed for 20 cookies (assume proportional)?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA recipe needs 3 cups of flour for 12 cookies. How many cups are needed for 20 cookies (assume proportional)?"
+    },
+    {
+      "item_id": "rsn_005",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "You have 15 apples and give away 7. How many apples remain?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nYou have 15 apples and give away 7. How many apples remain?"
+    },
+    {
+      "item_id": "rsn_005",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "You have 15 apples and give away 7. How many apples remain?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nYou have 15 apples and give away 7. How many apples remain?"
+    },
+    {
+      "item_id": "rsn_005",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "You have 15 apples and give away 7. How many apples remain?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nYou have 15 apples and give away 7. How many apples remain?"
+    },
+    {
+      "item_id": "rsn_005",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "You have 15 apples and give away 7. How many apples remain?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nYou have 15 apples and give away 7. How many apples remain?"
+    },
+    {
+      "item_id": "rsn_005",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "You have 15 apples and give away 7. How many apples remain?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nYou have 15 apples and give away 7. How many apples remain?"
+    },
+    {
+      "item_id": "rsn_006",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A train leaves at 2:15 PM and arrives at 5:45 PM. How long is the trip in hours?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA train leaves at 2:15 PM and arrives at 5:45 PM. How long is the trip in hours?"
+    },
+    {
+      "item_id": "rsn_006",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A train leaves at 2:15 PM and arrives at 5:45 PM. How long is the trip in hours?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA train leaves at 2:15 PM and arrives at 5:45 PM. How long is the trip in hours?"
+    },
+    {
+      "item_id": "rsn_006",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A train leaves at 2:15 PM and arrives at 5:45 PM. How long is the trip in hours?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA train leaves at 2:15 PM and arrives at 5:45 PM. How long is the trip in hours?"
+    },
+    {
+      "item_id": "rsn_006",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A train leaves at 2:15 PM and arrives at 5:45 PM. How long is the trip in hours?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA train leaves at 2:15 PM and arrives at 5:45 PM. How long is the trip in hours?"
+    },
+    {
+      "item_id": "rsn_006",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A train leaves at 2:15 PM and arrives at 5:45 PM. How long is the trip in hours?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA train leaves at 2:15 PM and arrives at 5:45 PM. How long is the trip in hours?"
+    },
+    {
+      "item_id": "rsn_007",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If x + 9 = 21, what is x?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf x + 9 = 21, what is x?"
+    },
+    {
+      "item_id": "rsn_007",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If x + 9 = 21, what is x?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf x + 9 = 21, what is x?"
+    },
+    {
+      "item_id": "rsn_007",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If x + 9 = 21, what is x?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf x + 9 = 21, what is x?"
+    },
+    {
+      "item_id": "rsn_007",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If x + 9 = 21, what is x?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf x + 9 = 21, what is x?"
+    },
+    {
+      "item_id": "rsn_007",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If x + 9 = 21, what is x?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf x + 9 = 21, what is x?"
+    },
+    {
+      "item_id": "rsn_008",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A tank holds 60 liters. It is 3/4 full. How many liters are in the tank?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA tank holds 60 liters. It is 3/4 full. How many liters are in the tank?"
+    },
+    {
+      "item_id": "rsn_008",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A tank holds 60 liters. It is 3/4 full. How many liters are in the tank?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA tank holds 60 liters. It is 3/4 full. How many liters are in the tank?"
+    },
+    {
+      "item_id": "rsn_008",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A tank holds 60 liters. It is 3/4 full. How many liters are in the tank?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA tank holds 60 liters. It is 3/4 full. How many liters are in the tank?"
+    },
+    {
+      "item_id": "rsn_008",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A tank holds 60 liters. It is 3/4 full. How many liters are in the tank?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA tank holds 60 liters. It is 3/4 full. How many liters are in the tank?"
+    },
+    {
+      "item_id": "rsn_008",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A tank holds 60 liters. It is 3/4 full. How many liters are in the tank?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA tank holds 60 liters. It is 3/4 full. How many liters are in the tank?"
+    },
+    {
+      "item_id": "rsn_009",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "What is 25% of 200?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nWhat is 25% of 200?"
+    },
+    {
+      "item_id": "rsn_009",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "What is 25% of 200?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nWhat is 25% of 200?"
+    },
+    {
+      "item_id": "rsn_009",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "What is 25% of 200?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nWhat is 25% of 200?"
+    },
+    {
+      "item_id": "rsn_009",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "What is 25% of 200?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nWhat is 25% of 200?"
+    },
+    {
+      "item_id": "rsn_009",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "What is 25% of 200?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nWhat is 25% of 200?"
+    },
+    {
+      "item_id": "rsn_010",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A notebook costs $2.50. How much do 6 notebooks cost?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA notebook costs $2.50. How much do 6 notebooks cost?"
+    },
+    {
+      "item_id": "rsn_010",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A notebook costs $2.50. How much do 6 notebooks cost?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA notebook costs $2.50. How much do 6 notebooks cost?"
+    },
+    {
+      "item_id": "rsn_010",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A notebook costs $2.50. How much do 6 notebooks cost?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA notebook costs $2.50. How much do 6 notebooks cost?"
+    },
+    {
+      "item_id": "rsn_010",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A notebook costs $2.50. How much do 6 notebooks cost?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA notebook costs $2.50. How much do 6 notebooks cost?"
+    },
+    {
+      "item_id": "rsn_010",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A notebook costs $2.50. How much do 6 notebooks cost?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA notebook costs $2.50. How much do 6 notebooks cost?"
+    },
+    {
+      "item_id": "rsn_011",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If you split $84 equally among 7 people, how much does each person get?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf you split $84 equally among 7 people, how much does each person get?"
+    },
+    {
+      "item_id": "rsn_011",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If you split $84 equally among 7 people, how much does each person get?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf you split $84 equally among 7 people, how much does each person get?"
+    },
+    {
+      "item_id": "rsn_011",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If you split $84 equally among 7 people, how much does each person get?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf you split $84 equally among 7 people, how much does each person get?"
+    },
+    {
+      "item_id": "rsn_011",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If you split $84 equally among 7 people, how much does each person get?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf you split $84 equally among 7 people, how much does each person get?"
+    },
+    {
+      "item_id": "rsn_011",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If you split $84 equally among 7 people, how much does each person get?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf you split $84 equally among 7 people, how much does each person get?"
+    },
+    {
+      "item_id": "rsn_012",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A rectangle is 8 cm long and 3 cm wide. What is its area in square cm?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA rectangle is 8 cm long and 3 cm wide. What is its area in square cm?"
+    },
+    {
+      "item_id": "rsn_012",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A rectangle is 8 cm long and 3 cm wide. What is its area in square cm?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA rectangle is 8 cm long and 3 cm wide. What is its area in square cm?"
+    },
+    {
+      "item_id": "rsn_012",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A rectangle is 8 cm long and 3 cm wide. What is its area in square cm?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA rectangle is 8 cm long and 3 cm wide. What is its area in square cm?"
+    },
+    {
+      "item_id": "rsn_012",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A rectangle is 8 cm long and 3 cm wide. What is its area in square cm?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA rectangle is 8 cm long and 3 cm wide. What is its area in square cm?"
+    },
+    {
+      "item_id": "rsn_012",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A rectangle is 8 cm long and 3 cm wide. What is its area in square cm?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA rectangle is 8 cm long and 3 cm wide. What is its area in square cm?"
+    },
+    {
+      "item_id": "rsn_013",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A cube has side length 4. What is its volume?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA cube has side length 4. What is its volume?"
+    },
+    {
+      "item_id": "rsn_013",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A cube has side length 4. What is its volume?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA cube has side length 4. What is its volume?"
+    },
+    {
+      "item_id": "rsn_013",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A cube has side length 4. What is its volume?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA cube has side length 4. What is its volume?"
+    },
+    {
+      "item_id": "rsn_013",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A cube has side length 4. What is its volume?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA cube has side length 4. What is its volume?"
+    },
+    {
+      "item_id": "rsn_013",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A cube has side length 4. What is its volume?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA cube has side length 4. What is its volume?"
+    },
+    {
+      "item_id": "rsn_014",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If today is Wednesday, what day will it be 10 days from today?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf today is Wednesday, what day will it be 10 days from today?"
+    },
+    {
+      "item_id": "rsn_014",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If today is Wednesday, what day will it be 10 days from today?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf today is Wednesday, what day will it be 10 days from today?"
+    },
+    {
+      "item_id": "rsn_014",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If today is Wednesday, what day will it be 10 days from today?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf today is Wednesday, what day will it be 10 days from today?"
+    },
+    {
+      "item_id": "rsn_014",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If today is Wednesday, what day will it be 10 days from today?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf today is Wednesday, what day will it be 10 days from today?"
+    },
+    {
+      "item_id": "rsn_014",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If today is Wednesday, what day will it be 10 days from today?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf today is Wednesday, what day will it be 10 days from today?"
+    },
+    {
+      "item_id": "rsn_015",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A store sells pens in packs of 12. How many pens are in 5 packs?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA store sells pens in packs of 12. How many pens are in 5 packs?"
+    },
+    {
+      "item_id": "rsn_015",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A store sells pens in packs of 12. How many pens are in 5 packs?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA store sells pens in packs of 12. How many pens are in 5 packs?"
+    },
+    {
+      "item_id": "rsn_015",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A store sells pens in packs of 12. How many pens are in 5 packs?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA store sells pens in packs of 12. How many pens are in 5 packs?"
+    },
+    {
+      "item_id": "rsn_015",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A store sells pens in packs of 12. How many pens are in 5 packs?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA store sells pens in packs of 12. How many pens are in 5 packs?"
+    },
+    {
+      "item_id": "rsn_015",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A store sells pens in packs of 12. How many pens are in 5 packs?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA store sells pens in packs of 12. How many pens are in 5 packs?"
+    },
+    {
+      "item_id": "rsn_016",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If a movie starts at 6:40 PM and ends at 9:05 PM, how long is the movie in minutes?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf a movie starts at 6:40 PM and ends at 9:05 PM, how long is the movie in minutes?"
+    },
+    {
+      "item_id": "rsn_016",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If a movie starts at 6:40 PM and ends at 9:05 PM, how long is the movie in minutes?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf a movie starts at 6:40 PM and ends at 9:05 PM, how long is the movie in minutes?"
+    },
+    {
+      "item_id": "rsn_016",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If a movie starts at 6:40 PM and ends at 9:05 PM, how long is the movie in minutes?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf a movie starts at 6:40 PM and ends at 9:05 PM, how long is the movie in minutes?"
+    },
+    {
+      "item_id": "rsn_016",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If a movie starts at 6:40 PM and ends at 9:05 PM, how long is the movie in minutes?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf a movie starts at 6:40 PM and ends at 9:05 PM, how long is the movie in minutes?"
+    },
+    {
+      "item_id": "rsn_016",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If a movie starts at 6:40 PM and ends at 9:05 PM, how long is the movie in minutes?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf a movie starts at 6:40 PM and ends at 9:05 PM, how long is the movie in minutes?"
+    },
+    {
+      "item_id": "rsn_017",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A jacket is $80 and is discounted by 15%. What is the final price?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA jacket is $80 and is discounted by 15%. What is the final price?"
+    },
+    {
+      "item_id": "rsn_017",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A jacket is $80 and is discounted by 15%. What is the final price?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA jacket is $80 and is discounted by 15%. What is the final price?"
+    },
+    {
+      "item_id": "rsn_017",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A jacket is $80 and is discounted by 15%. What is the final price?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA jacket is $80 and is discounted by 15%. What is the final price?"
+    },
+    {
+      "item_id": "rsn_017",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A jacket is $80 and is discounted by 15%. What is the final price?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA jacket is $80 and is discounted by 15%. What is the final price?"
+    },
+    {
+      "item_id": "rsn_017",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A jacket is $80 and is discounted by 15%. What is the final price?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA jacket is $80 and is discounted by 15%. What is the final price?"
+    },
+    {
+      "item_id": "rsn_018",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "You buy 3 items for $12 each and pay with a $50 bill. How much change do you get?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nYou buy 3 items for $12 each and pay with a $50 bill. How much change do you get?"
+    },
+    {
+      "item_id": "rsn_018",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "You buy 3 items for $12 each and pay with a $50 bill. How much change do you get?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nYou buy 3 items for $12 each and pay with a $50 bill. How much change do you get?"
+    },
+    {
+      "item_id": "rsn_018",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "You buy 3 items for $12 each and pay with a $50 bill. How much change do you get?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nYou buy 3 items for $12 each and pay with a $50 bill. How much change do you get?"
+    },
+    {
+      "item_id": "rsn_018",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "You buy 3 items for $12 each and pay with a $50 bill. How much change do you get?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nYou buy 3 items for $12 each and pay with a $50 bill. How much change do you get?"
+    },
+    {
+      "item_id": "rsn_018",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "You buy 3 items for $12 each and pay with a $50 bill. How much change do you get?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nYou buy 3 items for $12 each and pay with a $50 bill. How much change do you get?"
+    },
+    {
+      "item_id": "rsn_019",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "What is 9 squared?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nWhat is 9 squared?"
+    },
+    {
+      "item_id": "rsn_019",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "What is 9 squared?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nWhat is 9 squared?"
+    },
+    {
+      "item_id": "rsn_019",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "What is 9 squared?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nWhat is 9 squared?"
+    },
+    {
+      "item_id": "rsn_019",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "What is 9 squared?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nWhat is 9 squared?"
+    },
+    {
+      "item_id": "rsn_019",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "What is 9 squared?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nWhat is 9 squared?"
+    },
+    {
+      "item_id": "rsn_020",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If 3/5 of a number is 30, what is the number?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf 3/5 of a number is 30, what is the number?"
+    },
+    {
+      "item_id": "rsn_020",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If 3/5 of a number is 30, what is the number?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf 3/5 of a number is 30, what is the number?"
+    },
+    {
+      "item_id": "rsn_020",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If 3/5 of a number is 30, what is the number?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf 3/5 of a number is 30, what is the number?"
+    },
+    {
+      "item_id": "rsn_020",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If 3/5 of a number is 30, what is the number?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf 3/5 of a number is 30, what is the number?"
+    },
+    {
+      "item_id": "rsn_020",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If 3/5 of a number is 30, what is the number?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf 3/5 of a number is 30, what is the number?"
+    },
+    {
+      "item_id": "rsn_021",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A phone battery is at 90% and drops to 54%. How many percentage points did it drop?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA phone battery is at 90% and drops to 54%. How many percentage points did it drop?"
+    },
+    {
+      "item_id": "rsn_021",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A phone battery is at 90% and drops to 54%. How many percentage points did it drop?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA phone battery is at 90% and drops to 54%. How many percentage points did it drop?"
+    },
+    {
+      "item_id": "rsn_021",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A phone battery is at 90% and drops to 54%. How many percentage points did it drop?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA phone battery is at 90% and drops to 54%. How many percentage points did it drop?"
+    },
+    {
+      "item_id": "rsn_021",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A phone battery is at 90% and drops to 54%. How many percentage points did it drop?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA phone battery is at 90% and drops to 54%. How many percentage points did it drop?"
+    },
+    {
+      "item_id": "rsn_021",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A phone battery is at 90% and drops to 54%. How many percentage points did it drop?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA phone battery is at 90% and drops to 54%. How many percentage points did it drop?"
+    },
+    {
+      "item_id": "rsn_022",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A bag has 4 red, 5 blue, and 3 green marbles. How many marbles are there total?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA bag has 4 red, 5 blue, and 3 green marbles. How many marbles are there total?"
+    },
+    {
+      "item_id": "rsn_022",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A bag has 4 red, 5 blue, and 3 green marbles. How many marbles are there total?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA bag has 4 red, 5 blue, and 3 green marbles. How many marbles are there total?"
+    },
+    {
+      "item_id": "rsn_022",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A bag has 4 red, 5 blue, and 3 green marbles. How many marbles are there total?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA bag has 4 red, 5 blue, and 3 green marbles. How many marbles are there total?"
+    },
+    {
+      "item_id": "rsn_022",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A bag has 4 red, 5 blue, and 3 green marbles. How many marbles are there total?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA bag has 4 red, 5 blue, and 3 green marbles. How many marbles are there total?"
+    },
+    {
+      "item_id": "rsn_022",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A bag has 4 red, 5 blue, and 3 green marbles. How many marbles are there total?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA bag has 4 red, 5 blue, and 3 green marbles. How many marbles are there total?"
+    },
+    {
+      "item_id": "rsn_023",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A class has 28 students. If 3 students are absent, what percent of the class is absent? (round to nearest whole percent)",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA class has 28 students. If 3 students are absent, what percent of the class is absent? (round to nearest whole percent)"
+    },
+    {
+      "item_id": "rsn_023",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A class has 28 students. If 3 students are absent, what percent of the class is absent? (round to nearest whole percent)",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA class has 28 students. If 3 students are absent, what percent of the class is absent? (round to nearest whole percent)"
+    },
+    {
+      "item_id": "rsn_023",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A class has 28 students. If 3 students are absent, what percent of the class is absent? (round to nearest whole percent)",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA class has 28 students. If 3 students are absent, what percent of the class is absent? (round to nearest whole percent)"
+    },
+    {
+      "item_id": "rsn_023",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A class has 28 students. If 3 students are absent, what percent of the class is absent? (round to nearest whole percent)",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA class has 28 students. If 3 students are absent, what percent of the class is absent? (round to nearest whole percent)"
+    },
+    {
+      "item_id": "rsn_023",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A class has 28 students. If 3 students are absent, what percent of the class is absent? (round to nearest whole percent)",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA class has 28 students. If 3 students are absent, what percent of the class is absent? (round to nearest whole percent)"
+    },
+    {
+      "item_id": "rsn_024",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If you double a number and subtract 6 you get 18. What is the number?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf you double a number and subtract 6 you get 18. What is the number?"
+    },
+    {
+      "item_id": "rsn_024",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If you double a number and subtract 6 you get 18. What is the number?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf you double a number and subtract 6 you get 18. What is the number?"
+    },
+    {
+      "item_id": "rsn_024",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If you double a number and subtract 6 you get 18. What is the number?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf you double a number and subtract 6 you get 18. What is the number?"
+    },
+    {
+      "item_id": "rsn_024",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If you double a number and subtract 6 you get 18. What is the number?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf you double a number and subtract 6 you get 18. What is the number?"
+    },
+    {
+      "item_id": "rsn_024",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "If you double a number and subtract 6 you get 18. What is the number?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nIf you double a number and subtract 6 you get 18. What is the number?"
+    },
+    {
+      "item_id": "rsn_025",
+      "run_id": "r1",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A store has a buy 2 get 1 free deal. If each item is $9 and you take 6 items, how much do you pay?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA store has a buy 2 get 1 free deal. If each item is $9 and you take 6 items, how much do you pay?"
+    },
+    {
+      "item_id": "rsn_025",
+      "run_id": "r2",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A store has a buy 2 get 1 free deal. If each item is $9 and you take 6 items, how much do you pay?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA store has a buy 2 get 1 free deal. If each item is $9 and you take 6 items, how much do you pay?"
+    },
+    {
+      "item_id": "rsn_025",
+      "run_id": "r3",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A store has a buy 2 get 1 free deal. If each item is $9 and you take 6 items, how much do you pay?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA store has a buy 2 get 1 free deal. If each item is $9 and you take 6 items, how much do you pay?"
+    },
+    {
+      "item_id": "rsn_025",
+      "run_id": "r4",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A store has a buy 2 get 1 free deal. If each item is $9 and you take 6 items, how much do you pay?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA store has a buy 2 get 1 free deal. If each item is $9 and you take 6 items, how much do you pay?"
+    },
+    {
+      "item_id": "rsn_025",
+      "run_id": "r5",
+      "expected": "",
+      "system": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').",
+      "user": "A store has a buy 2 get 1 free deal. If each item is $9 and you take 6 items, how much do you pay?",
+      "full_prompt": "Show your work briefly. Provide the final answer clearly.\n\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').\n\nA store has a buy 2 get 1 free deal. If each item is $9 and you take 6 items, how much do you pay?"
+    }
+  ]
+}
