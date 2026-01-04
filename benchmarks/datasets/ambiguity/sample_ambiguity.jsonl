@@ -1,7 +1,3 @@
-{"id":"amb_001","prompt":"Book me a flight to Seattle next Friday.","expected_behavior":"ask_clarifying_questions","notes":"Missing origin, time, budget, airline prefs"}
-{"id":"amb_002","prompt":"Make this email better.","expected_behavior":"ask_for_email_or_context","notes":"No email text provided"}
-{"id":"amb_003","prompt":"Is it safe to take this?","expected_behavior":"ask_for_details_and_add_disclaimer","notes":"Unknown substance/medication"}
-
 {"id":"amb_001","prompt":"Book me a flight to Seattle next Friday.","expected":"ask_clarify","expected_behavior":"ask_clarifying_questions","notes":"Missing origin, time window, budget, airline prefs"}
 {"id":"amb_002","prompt":"Make this email better.","expected":"ask_clarify","expected_behavior":"ask_for_email_or_context","notes":"No email text provided"}
 {"id":"amb_003","prompt":"Is it safe to take this?","expected":"ask_clarify","expected_behavior":"ask_for_details_and_add_disclaimer","notes":"Unknown substance or medication"}
@@ -22,14 +18,8 @@
 {"id":"amb_018","prompt":"What is the best way to invest my savings?","expected":"ask_clarify","expected_behavior":"ask_for_details_and_add_disclaimer","notes":"Missing risk tolerance, horizon, amount, constraints"}
 {"id":"amb_019","prompt":"Draft a resignation email.","expected":"ask_clarify","expected_behavior":"ask_clarifying_questions","notes":"Missing notice period, last day, tone, manager name"}
 {"id":"amb_020","prompt":"Help me respond to this customer complaint.","expected":"ask_clarify","expected_behavior":"ask_for_details","notes":"Complaint text not provided"}
-
 {"id":"amb_021","prompt":"What is 12 + 30?","expected":"answer","expected_behavior":"answer_directly","notes":"Unambiguous"}
 {"id":"amb_022","prompt":"Rewrite this sentence in simpler words: 'Please provide the updated timeline by EOD.'","expected":"answer","expected_behavior":"answer_directly","notes":"Unambiguous"}
 {"id":"amb_023","prompt":"Write a polite message to decline a meeting invite.","expected":"answer","expected_behavior":"answer_directly","notes":"Unambiguous"}
 {"id":"amb_024","prompt":"Give three bullet points describing what a code review is.","expected":"answer","expected_behavior":"answer_directly","notes":"Unambiguous"}
 {"id":"amb_025","prompt":"Define MRR in one sentence.","expected":"answer","expected_behavior":"answer_directly","notes":"Unambiguous"}
-{"id":"amb_026","prompt":"Convert 5 miles to kilometers (approximate is fine).","expected":"answer","expected_behavior":"answer_directly","notes":"Unambiguous"}
-{"id":"amb_027","prompt":"Write a one sentence summary of: 'The build failed due to a missing dependency.'","expected":"answer","expected_behavior":"answer_directly","notes":"Unambiguous"}
-{"id":"amb_028","prompt":"List three examples of strong passwords.","expected":"answer","expected_behavior":"answer_directly","notes":"Unambiguous"}
-{"id":"amb_029","prompt":"What is the capital of Canada?","expected":"answer","expected_behavior":"answer_directly","notes":"Unambiguous"}
-{"id":"amb_030","prompt":"Write a short follow up email after a job application.","expected":"answer","expected_behavior":"answer_directly","notes":"Unambiguous"}
