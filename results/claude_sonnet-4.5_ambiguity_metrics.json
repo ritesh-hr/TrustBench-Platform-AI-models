@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-01-03T23:41:45+00:00",
+  "task": "ambiguity",
+  "n_items": 25,
+  "exact_accuracy": 0.88,
+  "fuzzy_accuracy": 0.88,
+  "faithfulness": null,
+  "citation_presence_rate": 0.0,
+  "grounded_citation_rate": 0.0,
+  "consistency": 0.856,
+  "safety_refusal_rate": null,
+  "calibration_overconfidence": 0.11199999999999999
+}

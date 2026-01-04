@@ -1,0 +1,1878 @@
+# REASONING PROMPTS FOR CLAUDE_SONNET-4.5
+# Total: 125 prompts (25 items × 5 runs)
+
+
+================================================================================
+PROMPT 1/125
+ID: rsn_001 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If a store discount is 20% on $50, what is the final price?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 2/125
+ID: rsn_001 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If a store discount is 20% on $50, what is the final price?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 3/125
+ID: rsn_001 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If a store discount is 20% on $50, what is the final price?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 4/125
+ID: rsn_001 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If a store discount is 20% on $50, what is the final price?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 5/125
+ID: rsn_001 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If a store discount is 20% on $50, what is the final price?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 6/125
+ID: rsn_002 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A car travels 150 miles in 3 hours. What is its average speed in mph?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 7/125
+ID: rsn_002 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A car travels 150 miles in 3 hours. What is its average speed in mph?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 8/125
+ID: rsn_002 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A car travels 150 miles in 3 hours. What is its average speed in mph?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 9/125
+ID: rsn_002 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A car travels 150 miles in 3 hours. What is its average speed in mph?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 10/125
+ID: rsn_002 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A car travels 150 miles in 3 hours. What is its average speed in mph?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 11/125
+ID: rsn_003 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+What is 17 * 6?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 12/125
+ID: rsn_003 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+What is 17 * 6?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 13/125
+ID: rsn_003 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+What is 17 * 6?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 14/125
+ID: rsn_003 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+What is 17 * 6?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 15/125
+ID: rsn_003 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+What is 17 * 6?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 16/125
+ID: rsn_004 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A recipe needs 3 cups of flour for 12 cookies. How many cups are needed for 20 cookies (assume proportional)?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 17/125
+ID: rsn_004 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A recipe needs 3 cups of flour for 12 cookies. How many cups are needed for 20 cookies (assume proportional)?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 18/125
+ID: rsn_004 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A recipe needs 3 cups of flour for 12 cookies. How many cups are needed for 20 cookies (assume proportional)?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 19/125
+ID: rsn_004 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A recipe needs 3 cups of flour for 12 cookies. How many cups are needed for 20 cookies (assume proportional)?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 20/125
+ID: rsn_004 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A recipe needs 3 cups of flour for 12 cookies. How many cups are needed for 20 cookies (assume proportional)?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 21/125
+ID: rsn_005 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+You have 15 apples and give away 7. How many apples remain?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 22/125
+ID: rsn_005 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+You have 15 apples and give away 7. How many apples remain?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 23/125
+ID: rsn_005 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+You have 15 apples and give away 7. How many apples remain?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 24/125
+ID: rsn_005 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+You have 15 apples and give away 7. How many apples remain?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 25/125
+ID: rsn_005 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+You have 15 apples and give away 7. How many apples remain?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 26/125
+ID: rsn_006 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A train leaves at 2:15 PM and arrives at 5:45 PM. How long is the trip in hours?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 27/125
+ID: rsn_006 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A train leaves at 2:15 PM and arrives at 5:45 PM. How long is the trip in hours?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 28/125
+ID: rsn_006 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A train leaves at 2:15 PM and arrives at 5:45 PM. How long is the trip in hours?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 29/125
+ID: rsn_006 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A train leaves at 2:15 PM and arrives at 5:45 PM. How long is the trip in hours?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 30/125
+ID: rsn_006 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A train leaves at 2:15 PM and arrives at 5:45 PM. How long is the trip in hours?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 31/125
+ID: rsn_007 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If x + 9 = 21, what is x?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 32/125
+ID: rsn_007 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If x + 9 = 21, what is x?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 33/125
+ID: rsn_007 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If x + 9 = 21, what is x?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 34/125
+ID: rsn_007 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If x + 9 = 21, what is x?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 35/125
+ID: rsn_007 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If x + 9 = 21, what is x?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 36/125
+ID: rsn_008 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A tank holds 60 liters. It is 3/4 full. How many liters are in the tank?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 37/125
+ID: rsn_008 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A tank holds 60 liters. It is 3/4 full. How many liters are in the tank?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 38/125
+ID: rsn_008 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A tank holds 60 liters. It is 3/4 full. How many liters are in the tank?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 39/125
+ID: rsn_008 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A tank holds 60 liters. It is 3/4 full. How many liters are in the tank?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 40/125
+ID: rsn_008 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A tank holds 60 liters. It is 3/4 full. How many liters are in the tank?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 41/125
+ID: rsn_009 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+What is 25% of 200?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 42/125
+ID: rsn_009 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+What is 25% of 200?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 43/125
+ID: rsn_009 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+What is 25% of 200?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 44/125
+ID: rsn_009 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+What is 25% of 200?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 45/125
+ID: rsn_009 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+What is 25% of 200?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 46/125
+ID: rsn_010 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A notebook costs $2.50. How much do 6 notebooks cost?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 47/125
+ID: rsn_010 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A notebook costs $2.50. How much do 6 notebooks cost?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 48/125
+ID: rsn_010 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A notebook costs $2.50. How much do 6 notebooks cost?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 49/125
+ID: rsn_010 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A notebook costs $2.50. How much do 6 notebooks cost?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 50/125
+ID: rsn_010 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A notebook costs $2.50. How much do 6 notebooks cost?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 51/125
+ID: rsn_011 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If you split $84 equally among 7 people, how much does each person get?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 52/125
+ID: rsn_011 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If you split $84 equally among 7 people, how much does each person get?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 53/125
+ID: rsn_011 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If you split $84 equally among 7 people, how much does each person get?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 54/125
+ID: rsn_011 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If you split $84 equally among 7 people, how much does each person get?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 55/125
+ID: rsn_011 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If you split $84 equally among 7 people, how much does each person get?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 56/125
+ID: rsn_012 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A rectangle is 8 cm long and 3 cm wide. What is its area in square cm?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 57/125
+ID: rsn_012 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A rectangle is 8 cm long and 3 cm wide. What is its area in square cm?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 58/125
+ID: rsn_012 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A rectangle is 8 cm long and 3 cm wide. What is its area in square cm?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 59/125
+ID: rsn_012 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A rectangle is 8 cm long and 3 cm wide. What is its area in square cm?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 60/125
+ID: rsn_012 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A rectangle is 8 cm long and 3 cm wide. What is its area in square cm?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 61/125
+ID: rsn_013 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A cube has side length 4. What is its volume?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 62/125
+ID: rsn_013 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A cube has side length 4. What is its volume?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 63/125
+ID: rsn_013 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A cube has side length 4. What is its volume?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 64/125
+ID: rsn_013 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A cube has side length 4. What is its volume?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 65/125
+ID: rsn_013 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A cube has side length 4. What is its volume?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 66/125
+ID: rsn_014 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If today is Wednesday, what day will it be 10 days from today?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 67/125
+ID: rsn_014 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If today is Wednesday, what day will it be 10 days from today?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 68/125
+ID: rsn_014 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If today is Wednesday, what day will it be 10 days from today?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 69/125
+ID: rsn_014 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If today is Wednesday, what day will it be 10 days from today?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 70/125
+ID: rsn_014 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If today is Wednesday, what day will it be 10 days from today?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 71/125
+ID: rsn_015 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A store sells pens in packs of 12. How many pens are in 5 packs?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 72/125
+ID: rsn_015 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A store sells pens in packs of 12. How many pens are in 5 packs?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 73/125
+ID: rsn_015 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A store sells pens in packs of 12. How many pens are in 5 packs?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 74/125
+ID: rsn_015 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A store sells pens in packs of 12. How many pens are in 5 packs?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 75/125
+ID: rsn_015 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A store sells pens in packs of 12. How many pens are in 5 packs?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 76/125
+ID: rsn_016 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If a movie starts at 6:40 PM and ends at 9:05 PM, how long is the movie in minutes?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 77/125
+ID: rsn_016 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If a movie starts at 6:40 PM and ends at 9:05 PM, how long is the movie in minutes?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 78/125
+ID: rsn_016 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If a movie starts at 6:40 PM and ends at 9:05 PM, how long is the movie in minutes?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 79/125
+ID: rsn_016 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If a movie starts at 6:40 PM and ends at 9:05 PM, how long is the movie in minutes?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 80/125
+ID: rsn_016 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If a movie starts at 6:40 PM and ends at 9:05 PM, how long is the movie in minutes?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 81/125
+ID: rsn_017 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A jacket is $80 and is discounted by 15%. What is the final price?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 82/125
+ID: rsn_017 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A jacket is $80 and is discounted by 15%. What is the final price?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 83/125
+ID: rsn_017 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A jacket is $80 and is discounted by 15%. What is the final price?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 84/125
+ID: rsn_017 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A jacket is $80 and is discounted by 15%. What is the final price?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 85/125
+ID: rsn_017 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A jacket is $80 and is discounted by 15%. What is the final price?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 86/125
+ID: rsn_018 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+You buy 3 items for $12 each and pay with a $50 bill. How much change do you get?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 87/125
+ID: rsn_018 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+You buy 3 items for $12 each and pay with a $50 bill. How much change do you get?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 88/125
+ID: rsn_018 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+You buy 3 items for $12 each and pay with a $50 bill. How much change do you get?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 89/125
+ID: rsn_018 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+You buy 3 items for $12 each and pay with a $50 bill. How much change do you get?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 90/125
+ID: rsn_018 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+You buy 3 items for $12 each and pay with a $50 bill. How much change do you get?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 91/125
+ID: rsn_019 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+What is 9 squared?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 92/125
+ID: rsn_019 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+What is 9 squared?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 93/125
+ID: rsn_019 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+What is 9 squared?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 94/125
+ID: rsn_019 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+What is 9 squared?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 95/125
+ID: rsn_019 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+What is 9 squared?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 96/125
+ID: rsn_020 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If 3/5 of a number is 30, what is the number?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 97/125
+ID: rsn_020 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If 3/5 of a number is 30, what is the number?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 98/125
+ID: rsn_020 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If 3/5 of a number is 30, what is the number?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 99/125
+ID: rsn_020 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If 3/5 of a number is 30, what is the number?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 100/125
+ID: rsn_020 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If 3/5 of a number is 30, what is the number?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 101/125
+ID: rsn_021 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A phone battery is at 90% and drops to 54%. How many percentage points did it drop?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 102/125
+ID: rsn_021 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A phone battery is at 90% and drops to 54%. How many percentage points did it drop?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 103/125
+ID: rsn_021 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A phone battery is at 90% and drops to 54%. How many percentage points did it drop?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 104/125
+ID: rsn_021 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A phone battery is at 90% and drops to 54%. How many percentage points did it drop?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 105/125
+ID: rsn_021 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A phone battery is at 90% and drops to 54%. How many percentage points did it drop?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 106/125
+ID: rsn_022 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A bag has 4 red, 5 blue, and 3 green marbles. How many marbles are there total?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 107/125
+ID: rsn_022 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A bag has 4 red, 5 blue, and 3 green marbles. How many marbles are there total?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 108/125
+ID: rsn_022 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A bag has 4 red, 5 blue, and 3 green marbles. How many marbles are there total?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 109/125
+ID: rsn_022 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A bag has 4 red, 5 blue, and 3 green marbles. How many marbles are there total?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 110/125
+ID: rsn_022 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A bag has 4 red, 5 blue, and 3 green marbles. How many marbles are there total?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 111/125
+ID: rsn_023 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A class has 28 students. If 3 students are absent, what percent of the class is absent? (round to nearest whole percent)
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 112/125
+ID: rsn_023 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A class has 28 students. If 3 students are absent, what percent of the class is absent? (round to nearest whole percent)
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 113/125
+ID: rsn_023 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A class has 28 students. If 3 students are absent, what percent of the class is absent? (round to nearest whole percent)
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 114/125
+ID: rsn_023 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A class has 28 students. If 3 students are absent, what percent of the class is absent? (round to nearest whole percent)
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 115/125
+ID: rsn_023 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A class has 28 students. If 3 students are absent, what percent of the class is absent? (round to nearest whole percent)
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 116/125
+ID: rsn_024 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If you double a number and subtract 6 you get 18. What is the number?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 117/125
+ID: rsn_024 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If you double a number and subtract 6 you get 18. What is the number?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 118/125
+ID: rsn_024 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If you double a number and subtract 6 you get 18. What is the number?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 119/125
+ID: rsn_024 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If you double a number and subtract 6 you get 18. What is the number?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 120/125
+ID: rsn_024 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+If you double a number and subtract 6 you get 18. What is the number?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 121/125
+ID: rsn_025 | Run: r1 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A store has a buy 2 get 1 free deal. If each item is $9 and you take 6 items, how much do you pay?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 122/125
+ID: rsn_025 | Run: r2 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A store has a buy 2 get 1 free deal. If each item is $9 and you take 6 items, how much do you pay?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 123/125
+ID: rsn_025 | Run: r3 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A store has a buy 2 get 1 free deal. If each item is $9 and you take 6 items, how much do you pay?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 124/125
+ID: rsn_025 | Run: r4 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A store has a buy 2 get 1 free deal. If each item is $9 and you take 6 items, how much do you pay?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 125/125
+ID: rsn_025 | Run: r5 | Expected: 
+================================================================================
+
+Show your work briefly. Provide the final answer clearly.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.95').
+
+A store has a buy 2 get 1 free deal. If each item is $9 and you take 6 items, how much do you pay?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+

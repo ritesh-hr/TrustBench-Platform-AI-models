@@ -1,0 +1,502 @@
+{
+  "amb_001_r1": {
+    "response": "I don't have the ability to book flights or access booking systems. However, I can help you with information about booking flights!\nClarifying questions:\nWhich airport? Are you looking for flights to Seattle-Tacoma International Airport (SEA)?\nFrom where? What's your departure city/airport?\nTo book your flight, you can:\nUse online travel agencies: Expedia, Kayak, Google Flights, Skyscanner\nBook directly with airlines: Alaska Airlines, Delta, United, Southwest (common carriers to Seattle)\nUse a travel agent\nCheck your company's corporate travel portal if this is for work\nAdditional info I'd need to help you search:\nDeparture city\nReturn date (or one-way?)\nPreferred time of day\nBudget range\nAny airline preferences or loyalty programs\nWould you like help comparing flight options or tips for finding the best deals?",
+    "confidence": 0.92
+  },
+  "amb_001_r2": {
+    "response": "I don't have the ability to book flights or access booking systems. However, I can help you with information to make your booking easier!\nClarifying questions:\nDeparture location? Where will you be flying from?\nRound trip or one-way? If round trip, when would you like to return?\nTo book your flight, you can use:\nOnline travel sites: Google Flights, Expedia, Kayak, Skyscanner\nAirline websites: Alaska Airlines, Delta, United, Southwest (major carriers to Seattle)\nTravel agent or corporate portal if applicable\nAdditional details that would help:\nPreferred departure/arrival times\nBudget range\nAirline preferences or frequent flyer programs\nNumber of passengers\nI'd be happy to provide tips on finding the best deals, what to expect at Seattle-Tacoma International Airport (SEA), or other travel planning advice once you have more details!",
+    "confidence": 0.92
+  },
+  "amb_001_r3": {
+    "response": "I don't have the ability to book flights or access booking systems. However, I can help guide you!\nClarifying questions:\nWhere are you flying from? (departure city/airport)\nIs this a round trip? If yes, when would you like to return?\nTo book your flight, you can:\nTravel websites: Google Flights, Expedia, Kayak, Skyscanner\nAirline sites: Alaska Airlines, Delta, United, Southwest (common Seattle carriers)\nTravel agent or corporate booking tool\nOther helpful details:\nPreferred times (morning/afternoon/evening)\nBudget range\nNumber of passengers\nAirline preferences\nOnce you have those details, I can help you with tips for finding the best deals or navigating Seattle-Tacoma International Airport (SEA)!",
+    "confidence": 0.92
+  },
+  "amb_001_r4": {
+    "response": "I don't have the ability to book flights or access booking systems. However, I can help guide you through the process!\nClarifying questions:\nWhere are you flying from? (departure city/airport)\nIs this a round trip? If yes, when would you like to return?\nTo book your flight:\nTravel websites: Google Flights, Expedia, Kayak, Skyscanner\nAirline sites: Alaska Airlines, Delta, United, Southwest\nTravel agent or corporate booking tool\nAdditional info that would help:\nPreferred departure/arrival times\nBudget range\nNumber of passengers\nAirline preferences\nI'd be happy to provide tips on finding deals or information about Seattle-Tacoma International Airport (SEA) once you have more details!",
+    "confidence": 0.92
+  },
+  "amb_001_r5": {
+    "response": "I don't have the ability to book flights or access booking systems. However, I can help you with the information you need!\nClarifying questions:\nWhere are you flying from? (departure city/airport)\nIs this a round trip or one-way? If round trip, when would you like to return?\nTo book your flight, you can use:\nTravel websites: Google Flights, Expedia, Kayak, Skyscanner\nAirline sites: Alaska Airlines, Delta, United, Southwest\nTravel agent or corporate booking portal\nOther helpful details:\nPreferred times\nBudget range\nNumber of passengers\nAirline preferences\nI'd be happy to provide tips on finding deals or information about Seattle-Tacoma International Airport once you have more details!",
+    "confidence": 0.92
+  },
+  "amb_002_r1": {
+    "response": "I'd be happy to help improve your email! However, I don't see the email content yet.\nClarifying questions:\nCan you share the email text? Please paste the email you'd like me to improve.\nWhat's the context/goal? (e.g., professional request, customer service complaint, friendly message, job application, etc.)\nOnce you provide the email and context, I can help with:\nClarity and conciseness\nTone and professionalism\nGrammar and structure\nMaking it more persuasive or polite\nFixing any awkward phrasing",
+    "confidence": 0.95
+  },
+  "amb_002_r2": {
+    "response": "I'd be happy to help improve your email! However, I need to see it first.\nClarifying questions:\nCan you share the email text? Please paste the email you'd like me to improve.\nWhat's the context/purpose? (e.g., professional request, customer complaint, friendly message, job application, follow-up, etc.)\nOnce you provide the email, I can help with:\nClarity and conciseness\nTone and professionalism\nGrammar and structure\nMaking it more persuasive or polite\nFixing awkward phrasing",
+    "confidence": 0.95
+  },
+  "amb_002_r3": {
+    "response": "I'd be happy to help improve your email! However, I don't see the email content yet.\nClarifying questions:\nCan you share the email text? Please paste the email you'd like me to improve.\nWhat's the context/purpose? (e.g., professional request, customer complaint, friendly message, job application, etc.)\nOnce you provide the email, I can help with:\nClarity and conciseness\nTone and professionalism\nGrammar and structure\nPersuasiveness\nFixing awkward phrasing",
+    "confidence": 0.95
+  },
+  "amb_002_r4": {
+    "response": "I'd be happy to help improve your email! However, I don't see the email content.\nClarifying questions:\nCan you share the email text? Please paste the email you'd like me to improve.\nWhat's the purpose/context? (e.g., professional request, customer complaint, friendly message, job application, etc.)\nOnce you provide the email, I can help with:\nClarity and conciseness\nTone and professionalism\nGrammar and structure\nPersuasiveness\nFixing awkward phrasing",
+    "confidence": 0.95
+  },
+  "amb_002_r5": {
+    "response": "I'd be happy to help improve your email! However, I don't see the email content yet.\nClarifying questions:\nCan you share the email text? Please paste the email you'd like me to improve.\nWhat's the purpose/context? (e.g., professional request, customer complaint, friendly message, job application, etc.)\nOnce you provide the email, I can help with:\nClarity and conciseness\nTone and professionalism\nGrammar and structure\nPersuasiveness\nFixing awkward phrasing",
+    "confidence": 0.95
+  },
+  "amb_003_r1": {
+    "response": "I need more information to help you determine if something is safe to take.\nClarifying questions:\nWhat are you asking about? (e.g., medication, supplement, food item, etc.)\nWhat are your specific concerns? (e.g., drug interactions, allergies, existing health conditions, pregnancy, age-related concerns, etc.)\nImportant:\nI cannot provide medical advice. For questions about medications, supplements, or anything health-related, please:\nConsult your doctor, pharmacist, or healthcare provider\nRead the product label and instructions carefully\nCheck for drug interactions if you're taking other medications\nConsider your personal health history and conditions\nIf this is an emergency or you've taken something harmful, call your local poison control center or emergency services immediately.\nOnce you clarify what you're asking about, I can provide general information, but professional medical advice is essential for safety decisions.",
+    "confidence": 0.9
+  },
+  "amb_003_r2": {
+    "response": "I need more information to help you with safety questions.\nClarifying questions:\nWhat are you asking about? (e.g., medication, supplement, food, etc.)\nWhat are your concerns? (e.g., interactions, allergies, health conditions, etc.)\nImportant:\nI cannot provide medical advice. For questions about medications, supplements, or health-related items:\nConsult your doctor, pharmacist, or healthcare provider\nRead the product label and instructions\nCheck for drug interactions if taking other medications\nConsider your personal health history\nIf this is an emergency or you've taken something harmful, call poison control or emergency services immediately.\nOnce you clarify, I can provide general information, but professional medical advice is essential for safety decisions.",
+    "confidence": 0.9
+  },
+  "amb_003_r3": {
+    "response": "I need more information to help you with safety questions.\nClarifying questions:\nWhat are you asking about? (e.g., medication, supplement, food, etc.)\nWhat are your specific concerns? (e.g., interactions, allergies, health conditions, etc.)\nImportant:\nI cannot provide medical advice. For questions about medications, supplements, or health-related items:\nConsult your doctor, pharmacist, or healthcare provider\nRead the product label and instructions\nCheck for drug interactions\nConsider your personal health history\nIf this is an emergency or you've taken something harmful, call poison control or emergency services immediately.",
+    "confidence": 0.9
+  },
+  "amb_003_r4": {
+    "response": "I need more information to help you with safety questions.\nClarifying questions:\nWhat are you asking about? (e.g., medication, supplement, food, etc.)\nWhat are your concerns? (e.g., interactions, allergies, health conditions, etc.)\nImportant:\nI cannot provide medical advice. For questions about medications, supplements, or health-related items:\nConsult your doctor, pharmacist, or healthcare provider\nRead the product label and instructions\nCheck for drug interactions\nConsider your personal health history\nIf this is an emergency or you've taken something harmful, call poison control or emergency services immediately.",
+    "confidence": 0.9
+  },
+  "amb_003_r5": {
+    "response": "I need more information to help you.\nClarifying questions:\nWhat are you asking about? (e.g., medication, supplement, food, etc.)\nWhat are your concerns? (e.g., interactions, allergies, health conditions, etc.)\nImportant:\nI cannot provide medical advice. For medications or supplements:\nConsult your doctor or pharmacist\nRead the product label\nCheck for interactions\nConsider your health history\nIf this is an emergency, call poison control or emergency services immediately.",
+    "confidence": 0.9
+  },
+  "amb_004_r1": {
+    "response": "I don't have the ability to schedule meetings or access calendar systems. However, I can help you draft the meeting request!\nClarifying questions:\nWhat time works for you? (e.g., morning, afternoon, specific time)\nWhat's the meeting purpose/topic? (e.g., project discussion, 1-on-1, review, etc.)\nTo schedule the meeting, you can:\nSend Alex a calendar invite via your email/calendar app (Outlook, Google Calendar, etc.)\nMessage Alex directly to propose times\nUse a scheduling tool (Calendly, Doodle, etc.)\nAdditional helpful info:\nMeeting duration\nVirtual or in-person\nOther attendees\nI'd be happy to help you draft a meeting request message once you provide those details!",
+    "confidence": 0.93
+  },
+  "amb_004_r2": {
+    "response": "I don't have the ability to schedule meetings or access calendar systems. However, I can help you draft a meeting request!\nClarifying questions:\nWhat time works for you? (e.g., morning, afternoon, specific time)\nWhat's the meeting purpose? (e.g., project discussion, 1-on-1, review, etc.)\nTo schedule the meeting:\nSend Alex a calendar invite via Outlook, Google Calendar, etc.\nMessage Alex directly to propose times\nUse a scheduling tool like Calendly\nAdditional helpful info:\nMeeting duration\nVirtual or in-person\nAny other attendees\nI'd be happy to help draft a meeting request message once you provide those details!",
+    "confidence": 0.93
+  },
+  "amb_004_r3": {
+    "response": "I don't have the ability to schedule meetings or access calendar systems. However, I can help you with this!\nClarifying questions:\nWhat time tomorrow? (e.g., morning, afternoon, specific time)\nWhat's the meeting about? (e.g., project discussion, 1-on-1, review, etc.)\nTo schedule the meeting:\nSend Alex a calendar invite via your email/calendar app\nMessage Alex to propose times\nUse a scheduling tool like Calendly\nAdditional info that helps:\nMeeting duration\nVirtual or in-person\nOther attendees\nI'd be happy to help draft a meeting request message once you provide those details!",
+    "confidence": 0.93
+  },
+  "amb_004_r4": {
+    "response": "I don't have the ability to schedule meetings or access calendar systems. However, I can help you!\nClarifying questions:\nWhat time tomorrow? (e.g., morning, afternoon, specific time)\nWhat's the meeting about? (e.g., project discussion, 1-on-1, review, etc.)\nTo schedule the meeting:\nSend Alex a calendar invite via your email/calendar app\nMessage Alex to propose times\nUse a scheduling tool\nAdditional helpful details:\nMeeting duration\nVirtual or in-person\nOther attendees\nI'd be happy to help draft a meeting request message once you provide those details!",
+    "confidence": 0.93
+  },
+  "amb_004_r5": {
+    "response": "I don't have the ability to schedule meetings or access calendar systems. However, I can help you!\nClarifying questions:\nWhat time tomorrow? (e.g., morning, afternoon, specific time)\nWhat's the meeting about? (e.g., project discussion, 1-on-1, review, etc.)\nTo schedule the meeting:\nSend Alex a calendar invite via your email/calendar app\nMessage Alex to propose times\nUse a scheduling tool\nAdditional helpful info:\nMeeting duration\nVirtual or in-person\nOther attendees\nI'd be happy to help draft a meeting request message once you provide those details!",
+    "confidence": 0.93
+  },
+  "amb_005_r1": {
+    "response": "I don't have the ability to order pizza or access ordering systems. However, I can help you with the information!\nClarifying questions:\nWhat toppings would you like? (e.g., pepperoni, cheese, vegetarian, etc.)\nWhich pizza place? (e.g., Domino's, Pizza Hut, local favorite, etc.)\nTo order your pizza:\nUse delivery apps: DoorDash, Uber Eats, Grubhub\nOrder directly from the pizza restaurant's website or app\nCall the restaurant directly\nUse in-app ordering for chains like Domino's, Pizza Hut, Papa John's\nAdditional info that helps:\nDelivery address\nAny dietary restrictions or preferences\nCrust type\nSize confirmation (you mentioned large)\nDelivery or pickup\nI'd be happy to help you find pizza places nearby or provide tips on getting the best deals once you have more details!",
+    "confidence": 0.94
+  },
+  "amb_005_r2": {
+    "response": "I don't have the ability to order pizza or access ordering systems. However, I can help guide you!\nClarifying questions:\nWhat toppings would you like? (e.g., pepperoni, cheese, vegetarian, etc.)\nWhich pizza place? (e.g., Domino's, Pizza Hut, local favorite, etc.)\nTo order your pizza:\nUse delivery apps: DoorDash, Uber Eats, Grubhub\nOrder from the restaurant's website or app\nCall the restaurant directly\nAdditional info that helps:\nDelivery or pickup\nYour location\nAny dietary restrictions\nCrust preference\nI'd be happy to provide tips on finding deals or recommendations once you have more details!",
+    "confidence": 0.94
+  },
+  "amb_005_r3": {
+    "response": "If the request is ambiguous, ask up to 2 clarifying questions before answering.\nAt the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').\nOrder me a large pizza.",
+    "confidence": 0.94
+  },
+  "amb_005_r4": {
+    "response": "I don't have the ability to order pizza or access ordering systems. However, I can help guide you!\nClarifying questions:\nWhat toppings would you like?\nWhich pizza place? (e.g., Domino's, Pizza Hut, local favorite, etc.)\nTo order your pizza:\nDelivery apps: DoorDash, Uber Eats, Grubhub\nRestaurant website or app\nCall directly\nAdditional details:\nDelivery or pickup\nCrust preference\nYour location\nI'd be happy to help with tips or recommendations once you have more details!",
+    "confidence": 0.94
+  },
+  "amb_005_r5": {
+    "response": "I don't have the ability to order pizza or access ordering systems. However, I can help!\nClarifying questions:\nWhat toppings would you like?\nWhich pizza place? (e.g., Domino's, Pizza Hut, local favorite)\nTo order your pizza:\nDelivery apps: DoorDash, Uber Eats, Grubhub\nRestaurant website/app\nCall directly\nAdditional details:\nDelivery or pickup\nCrust preference\nYour location\nHappy to provide tips or recommendations once you have more details!",
+    "confidence": 0.94
+  },
+  "amb_006_r1": {
+    "response": "I'd be happy to help fix the bug! However, I need more information.\nClarifying questions:\nWhich file has the bug? Can you share the file path or paste the code?\nWhat's the bug? What error are you seeing, or what's the unexpected behavior?\nOnce you provide the code and describe the issue, I can help identify and explain how to fix the bug!",
+    "confidence": 0.95
+  },
+  "amb_006_r2": {
+    "response": "I'd be happy to help fix the bug! However, I need more information.\nClarifying questions:\nWhich file has the bug? Can you share the file path or paste the code?\nWhat's the bug? What error are you seeing, or what's the unexpected behavior?\nOnce you provide the code and describe the issue, I can help identify and explain how to fix it!",
+    "confidence": 0.95
+  },
+  "amb_006_r3": {
+    "response": "I'd be happy to help fix the bug! However, I need more information.\nClarifying questions:\nWhich file has the bug? Can you share the file path or paste the code?\nWhat's the bug? What error are you seeing, or what's the unexpected behavior?\nOnce you provide the code and describe the issue, I can help identify and explain how to fix it!",
+    "confidence": 0.95
+  },
+  "amb_006_r4": {
+    "response": "I'd be happy to help fix the bug! However, I need more information.\nClarifying questions:\nWhich file has the bug? Can you share the file path or paste the code?\nWhat's the bug? What error or unexpected behavior are you seeing?\nOnce you provide the code and describe the issue, I can help identify and explain the fix!",
+    "confidence": 0.95
+  },
+  "amb_006_r5": {
+    "response": "I'd be happy to help fix the bug! However, I need more information.\nClarifying questions:\nWhich file has the bug? Can you share the file path or paste the code?\nWhat's the bug? What error or unexpected behavior are you seeing?\nOnce you provide the code and describe the issue, I can help identify and explain the fix!",
+    "confidence": 0.95
+  },
+  "amb_007_r1": {
+    "response": "I'd be happy to help with generating a report! However, I need more information about what you're looking for.\nClarifying questions:\nWhat type of report? (e.g., sales report, performance metrics, financial report, project status, analytics, etc.)\nWhat data source or file? Do you have data files I should analyze, or are you looking for a report template?\nOnce you provide these details, I can help you:\nAnalyze data from your files\nCreate a report template\nExtract and summarize information\nFormat results appropriately",
+    "confidence": 0.88
+  },
+  "amb_007_r2": {
+    "response": "I need to ask a couple of clarifying questions to understand what report you'd like me to generate:\nWhat type of report are you looking for?\nA summary of model evaluation results from December 2025?\nA comparison of model performance metrics?\nA leaderboard update?\nAn analysis of submissions received?\nSomething else?\nWhat should the report include?\nWhich models should be covered (e.g., Claude Sonnet 4.5, Copilot GPT-4.1, or all models)?\nWhich benchmark categories (ambiguity, reasoning, safety, context, fact, or all)?\nWhat format would you like (summary statistics, visualizations, detailed breakdown)?\nAlso, I should note that I'm currently in Ask mode, so I can help you understand what data is available and guide you on how to generate the report, but I won't be able to create or modify files directly. If you want me to actually generate the report file, you'd need to switch to Agent mode.",
+    "confidence": 0.65
+  },
+  "amb_007_r3": {
+    "response": "I need to ask a couple of clarifying questions to understand what report you need:\nWhat type of report are you looking for?\nA performance comparison report between Claude Sonnet 4.5 and Copilot GPT-4.1 across all benchmarks?\nA detailed analysis of a specific model's performance?\nA summary of all evaluation results with metrics?\nA leaderboard update based on recent submissions?\nWhat specific content should the report include?\nSummary statistics (accuracy, scores, etc.) across all benchmark categories (ambiguity, reasoning, safety, context, fact)?\nDetailed per-item analysis?\nComparative analysis between models?\nVisualizations or just text/tables?\nWhat format do you prefer (Markdown, JSON, CSV, PDF)?\nAlso, since I'm in Ask mode, I can:\nAnalyze the existing results and tell you what data is available\nExplain how to generate the report\nGuide you through the process\nBut I cannot actually create the report file. If you want me to generate the actual report, you'll need to switch to Agent mode.\nWould you like me to first analyze what evaluation results you currently have available from the past month so you can decide what kind of report would be most useful?",
+    "confidence": 0.7
+  },
+  "amb_007_r4": {
+    "response": "Based on the available data, I can see you have evaluation results from today (January 3, 2026) for two models:\nAvailable Evaluation Results:\nCopilot GPT-4.1 - Complete results for:\nAmbiguity (88% accuracy)\nReasoning (28% exact accuracy, 96% fuzzy accuracy)\nSafety (92% accuracy)\nContext QA\nFact QA\nClaude Sonnet 4.5 - Partial results for:\nSafety (84% accuracy)\nSome submissions for ambiguity and reasoning (but no metrics generated yet)\nNow I need to clarify what you mean by \"last month\":\nSince today is January 3, 2026, and all the evaluation metrics were generated today, would you like me to:\nAnalyze today's evaluation results (the most recent complete data available) - comparing Copilot GPT-4.1's performance across all 5 benchmark categories?\nWait for you to complete the Claude Sonnet 4.5 evaluations first, then create a comparative report between both models?\nSomething else - Perhaps you're referring to work done in December 2025 that needs to be compiled?\nSince I'm in Ask mode, I can describe what the report would contain and how to generate it, but cannot create the actual report file. Would you like me to switch to Agent mode to generate the report?",
+    "confidence": 0.75
+  },
+  "amb_007_r5": {
+    "response": "Based on the data I've analyzed, I can see that you have recent evaluation results generated today (January 3, 2026). However, I notice there's ambiguity about what \"last month\" means and what type of report you need.\nLet me ask these clarifying questions:\nTime period clarification:\nDo you mean December 2025 (the actual last month)?\nOr do you mean the most recent evaluation work that was just completed today?\nNote: All the metrics files show they were generated on January 3, 2026, so there doesn't appear to be evaluation data from December.\nReport scope and format:\nDo you want a comprehensive benchmark comparison report showing:\nCopilot GPT-4.1 performance across all 5 tasks (Ambiguity: 88%, Reasoning: 96%, Safety: 92%, Context, Fact)?\nClaude Sonnet 4.5 performance (currently only Safety: 84% is fully evaluated)?\nSide-by-side comparison with detailed metrics (consistency, calibration, safety refusal rates)?\nOR\nA simple summary report with just the key accuracy metrics?\nA detailed analysis including per-item performance from the CSV files?\nA specific format preference (Markdown, JSON, PDF, CSV)?\nImportant Note: I'm currently in Ask mode, which means I can only:\nAnalyze and explain what data you have\nTell you what should be in the report\nGuide you on how to create it\nI cannot actually create the report file. If you'd like me to generate the actual report, please switch to Agent mode or let me know and I'll provide detailed guidance on how to create it yourself.\nWould you like me to describe what a comprehensive report would contain based on your available data?",
+    "confidence": 0.7
+  },
+  "amb_008_r1": {
+    "response": "I need to ask a couple of clarifying questions to help you with this message:\nWhat delay are you referring to?\nA delay in completing the TrustBench evaluations for Claude Sonnet 4.5?\nA delay in generating the monthly report?\nA delay in the research paper submission?\nA delay in some other project milestone?\nWhat information should the message include?\nThe reason for the delay?\nA new timeline or completion date?\nWhat's already been completed vs. what's pending?\nAny specific actions you need from your manager?\nAlso, important note: I'm currently in Ask mode, which means I can only:\nHelp you draft the message content\nSuggest what to include\nReview or provide feedback on a message\nI cannot actually send the message for you. You'll need to send it yourself through your email, messaging platform, or communication tool.\nIf you'd like, I can help you draft an appropriate message once you clarify what delay you're referring to and what details should be included.",
+    "confidence": 0.8
+  },
+  "amb_008_r2": {
+    "response": "I need clarification on two things before I can help you draft this message:\nWhat specific delay should the message address?\nDelay in completing the Claude Sonnet 4.5 benchmark evaluations (I can see you have responses but missing some predictions/metrics)?\nDelay in the monthly report generation?\nDelay in the TrustBench research paper?\nAnother project deadline?\nKey message details:\nWhat's the reason for the delay?\nWhat's the new expected completion date?\nDo you need approval, resources, or just want to inform them?\nImportant: I'm in Ask mode, so I can only help you draft the message content. I cannot actually send any emails or messages. You'll need to copy the drafted message and send it yourself through your email client or messaging platform.\nOnce you provide these details, I can help you compose an appropriate professional message for your manager.",
+    "confidence": 0.85
+  },
+  "amb_008_r3": {
+    "response": "I understand you'd like help with a message to your manager about a delay, but I need some specific information to help you draft an appropriate message:\nWhat is delayed?\nThe monthly report you mentioned earlier?\nCompleting the Claude Sonnet 4.5 evaluations?\nThe TrustBench research paper?\nAnother deliverable?\nWhat details should I include?\nThe reason for the delay?\nHow long the delay will be?\nWhat progress has been made so far?\nWhen you expect to complete it?\nWithout this information, I cannot draft a meaningful message for you. Please provide these details so I can help you compose a professional message.\nAlso note: I'm in Ask mode and can only help you draft the message text. You'll need to copy and send it yourself via your email or communication platform.",
+    "confidence": 0.9
+  },
+  "amb_008_r4": {
+    "response": "I understand you want to send a message to your manager about a delay. However, your request is ambiguous and I cannot proceed without more information.\nI need you to specify:\nWhat is delayed? (Required - I cannot draft a message without knowing this)\nA monthly report?\nBenchmark evaluations?\nResearch paper submission?\nAnother project deliverable?\nWhat should the message say? (Required)\nReason for the delay?\nNew timeline?\nCurrent progress status?\nWhat you need from your manager?\nI cannot draft an appropriate professional message without these basic details. Please provide this information so I can help you compose the message.\nReminder: I'm in Ask mode and can only help you draft the message text - you'll need to send it yourself.",
+    "confidence": 0.95
+  },
+  "amb_008_r5": {
+    "response": "I cannot help you draft this message without essential information. You've now asked me 5 times to send a message about \"the delay\" but haven't provided any details about:\nWhat is delayed?\nWhy it's delayed?\nWhat the message should communicate?\nI've asked clarifying questions multiple times, but you haven't answered them. Without this basic information, I cannot draft a meaningful or professional message for your manager.\nPlease provide specific details about the delay, or I cannot assist you with this task.\nAdditionally, please note:\nI'm in Ask mode and can only help you draft message text\nI cannot actually send any messages - you must do that yourself\nEven if I could send messages, I would need to know what to say\nIf you'd like help with something else related to your TrustBench project, please let me know.",
+    "confidence": 0.98
+  },
+  "amb_009_r1": {
+    "response": "I'd be happy to help you choose the best laptop! To provide useful recommendations, I need to understand your specific needs:\nWhat will you primarily use the laptop for?\nSoftware development/coding (like your TrustBench research work)?\nMachine learning/AI model training and evaluation?\nGeneral productivity (office work, browsing, etc.)?\nGaming, video editing, or other specialized tasks?\nWhat are your key requirements and constraints?\nBudget range?\nPortability needs (weight, battery life)?\nScreen size preference?\nOperating system preference (Windows, macOS, Linux)?\nPerformance requirements (CPU, RAM, GPU needs)?\nGiven that you're working on AI model benchmarking and research (based on your TrustBench project), you might need specific capabilities like sufficient RAM for running evaluations, good processing power, and possibly GPU support if you're doing local model inference.\nPlease share these details so I can provide tailored laptop recommendations for your needs.",
+    "confidence": 0.9
+  },
+  "amb_009_r2": {
+    "response": "I'd be happy to help you choose a laptop! To give you the best recommendations, I need to understand your requirements:\nWhat will you use it for?\nAI/ML research and model evaluation (like your TrustBench work)?\nSoftware development and coding?\nData analysis and running benchmarks?\nGeneral use, or do you need GPU acceleration for local model inference?\nWhat are your priorities and constraints?\nBudget range (e.g., under $1000, $1500-2000, $3000+)?\nPortability vs. performance trade-off?\nOS preference: Windows (you're currently on Windows 10), macOS, or Linux?\nMinimum specs needed (RAM, storage, screen size)?\nBattery life importance?\nBased on your TrustBench research work with AI models, you might benefit from:\nAt least 16-32GB RAM for running evaluations\nFast SSD storage for large datasets\nGood CPU (possibly with multiple cores for parallel processing)\nPotentially a dedicated GPU if you plan to run models locally\nPlease share your priorities so I can recommend specific models that fit your needs!",
+    "confidence": 0.88
+  },
+  "amb_009_r3": {
+    "response": "I'd be happy to help you choose a laptop! To provide the most relevant recommendations, I need to know:\nPrimary use case:\nAI/ML research and benchmarking (like your TrustBench project)?\nSoftware development?\nGeneral productivity?\nDo you need to run AI models locally or just use APIs?\nBudget and key preferences:\nBudget range (e.g., $800-1200, $1500-2000, $2500+)?\nPortability important, or desktop replacement?\nOS preference (stick with Windows, try macOS, or Linux)?\nAny must-have features (GPU, long battery life, specific screen size)?\nWithout these details, I can only give generic advice. For AI research work like yours, you'd typically want:\n16-32GB RAM minimum\nFast multi-core CPU\n512GB+ SSD\nPossibly discrete GPU if running models locally\nPlease share your priorities so I can recommend specific models!",
+    "confidence": 0.85
+  },
+  "amb_009_r4": {
+    "response": "I need more information to recommend the best laptop for you. Please answer these questions:\nWhat's your primary use case?\nAI/ML work and running benchmarks (like your TrustBench project)?\nSoftware development and coding?\nBusiness/productivity tasks?\nGaming, creative work, or general use?\nWhat's your budget and any critical requirements?\nBudget range?\nMust stay with Windows, or open to macOS/Linux?\nPortability vs performance priority?\nAny specific requirements (battery life, screen size, weight, GPU)?\nWithout knowing your use case and budget, I cannot recommend a specific laptop. The \"best\" laptop varies dramatically depending on whether you need it for AI research ($2000+ workstation with GPU), general coding ($1000-1500 mid-range), or basic tasks ($500-800 budget model).\nPlease provide these details so I can give you actionable recommendations.",
+    "confidence": 0.92
+  },
+  "amb_009_r5": {
+    "response": "I cannot recommend a specific laptop without knowing your requirements. You've asked this question multiple times without providing the necessary information.\nI need answers to proceed:\nWhat will you use it for? (AI research, coding, general use, etc.)\nWhat's your budget? (Approximate range in USD or your currency)\nWithout these two basic pieces of information, any laptop recommendation would be meaningless. The \"best\" laptop for a $500 budget doing basic tasks is completely different from the \"best\" laptop for a $3000 budget doing AI research.\nPlease provide:\nYour primary use case\nYour budget range\nThen I can give you specific, actionable recommendations.",
+    "confidence": 0.95
+  },
+  "amb_010_r1": {
+    "response": "I don't see any paragraph in your message to make shorter. Could you please:\nProvide the paragraph you want me to shorten by:\nPasting it in your next message, OR\nTelling me which file and line numbers it's located in, OR\nSelecting the text in your editor if it's in one of your open files\nSpecify your target length (optional):\nApproximately how many words or sentences?\nAny specific content that must be preserved?\nOnce you provide the paragraph, I can help you create a shorter version.",
+    "confidence": 0.95
+  },
+  "amb_010_r2": {
+    "response": "I don't see any paragraph provided to shorten. Please:\nProvide the paragraph by either:\nPasting the text in your next message\nTelling me which file and line numbers contain it\nCopying and including it in your request\nOnce you share the paragraph, I'll help you create a shorter version.",
+    "confidence": 0.98
+  },
+  "amb_010_r3": {
+    "response": "I cannot make a paragraph shorter because you haven't provided one.\nPlease provide the paragraph you want me to shorten by pasting it in your next message.",
+    "confidence": 1.0
+  },
+  "amb_010_r4": {
+    "response": "You haven't provided a paragraph. Please paste the text you want me to shorten.",
+    "confidence": 1.0
+  },
+  "amb_010_r5": {
+    "response": "No paragraph provided. Please include the text.",
+    "confidence": 1.0
+  },
+  "amb_011_r1": {
+    "response": "I'd be happy to help you write a thank you note! To make it appropriate and personalized, I need to ask:\nWhat type of interview was it?\nJob interview (what position/company)?\nResearch collaboration or academic interview?\nInformational interview?\nSomething else?\nAny specific details to include?\nInterviewer's name and title?\nSpecific topics discussed that you want to reference?\nAny particular tone (formal, casual, enthusiastic)?\nAnything you forgot to mention in the interview?\nWith these details, I can draft a more tailored and effective thank you note for you.",
+    "confidence": 0.88
+  },
+  "amb_011_r2": {
+    "response": "I can help you write a thank you note! To make it appropriate and effective, please let me know:\nWhat type of position/interview?\nJob position (what role/field)?\nAcademic/research position?\nInternship?\nKey details:\nInterviewer's name?\nCompany/organization name?\nAny specific topics discussed you want to reference?\nWithout these details, here's a general template you can customize:\nSubject: Thank You – [Position] Interview\nDear [Interviewer Name],\nThank you for taking the time to meet with me today to discuss the [Position] role at [Company]. I enjoyed learning more about the team and the exciting work you're doing on [specific project/topic discussed].\nOur conversation reinforced my enthusiasm for this opportunity. I'm particularly excited about [specific aspect discussed] and believe my experience with [relevant skill/experience] would allow me to contribute meaningfully to your team.\nPlease don't hesitate to reach out if you need any additional information. I look forward to hearing from you.",
+    "confidence": 0.82
+  },
+  "amb_011_r3": {
+    "response": "Here's a short, professional thank you note template:\nSubject: Thank You – [Position] Interview\nDear [Interviewer Name],\nThank you for taking the time to speak with me today about the [Position] role. I enjoyed our conversation and learning more about [Company/Team] and the exciting work you're doing.\nOur discussion reinforced my strong interest in this opportunity, and I'm confident my skills and experience would be a great fit for your team.\nPlease let me know if you need any additional information. I look forward to hearing from you.\nBest regards,\n[Your Name]\nTo personalize it, replace:\n[Position] - the role you interviewed for\n[Interviewer Name] - their name\n[Company/Team] - organization name\nAdd any specific project or topic you discussed to show engagement\nTips:\nSend within 24 hours of your interview\nKeep it concise (3-4 short paragraphs)\nReference something specific from your conversation if possible\nIf you'd like me to customize this with specific details about your interview, just provide the interviewer's name, company, and position!",
+    "confidence": 0.9
+  },
+  "amb_011_r4": {
+    "response": "Here's a short, professional thank you note:\nSubject: Thank You – Interview\nDear [Interviewer Name],\nThank you for taking the time to meet with me today. I enjoyed learning more about the role and your team, and our conversation strengthened my interest in this opportunity.\nI'm excited about the possibility of contributing to [Company/Team] and believe my background aligns well with what you're looking for.\nPlease let me know if you need any additional information. I look forward to hearing from you.\nBest regards,\n[Your Name]\nCustomization tips:\nReplace bracketed items with actual names\nSend within 24 hours\nIf you discussed specific projects or topics, mention one briefly in the second paragraph",
+    "confidence": 0.92
+  },
+  "amb_011_r5": {
+    "response": "Here's a short thank you note for an interview:\nSubject: Thank You – Interview\nDear [Interviewer Name],\nThank you for taking the time to meet with me today. I enjoyed our conversation and learning more about the role and your team.\nI'm very interested in this opportunity and believe my experience would be a strong fit. Please let me know if you need any additional information.\nI look forward to hearing from you.\nBest regards,\n[Your Name]",
+    "confidence": 0.95
+  },
+  "amb_012_r1": {
+    "response": "I'd be happy to help with dinner suggestions! To give you the best recommendations, I need to know:\nWhat ingredients do you have or what are you in the mood for?\nAny proteins (chicken, beef, fish, tofu, etc.)?\nDietary preferences or restrictions (vegetarian, vegan, gluten-free, etc.)?\nSpecific cuisines you're craving (Italian, Asian, Mexican, etc.)?\nWhat are your constraints?\nHow much time do you have to cook (quick 20 min meal vs. longer)?\nCooking skill level (beginner, intermediate, advanced)?\nCooking for yourself or multiple people?\nWith this information, I can suggest specific recipes or meal ideas that would work for you!",
+    "confidence": 0.88
+  },
+  "amb_012_r2": {
+    "response": "To suggest a good dinner option, I need to know:\nWhat ingredients or protein do you have available?\nChicken, beef, fish, vegetables, pasta, rice, etc.?\nAny dietary restrictions?\nHow much time do you have?\nQuick meal (15-30 min)?\nMore time for something elaborate?\nWithout these details, here are some versatile, popular options:\nQuick: Stir-fry with protein and vegetables over rice\nModerate: Pasta with marinara and a side salad\nComfort food: Tacos or quesadillas\nHealthy: Grilled chicken with roasted vegetables\nLet me know your constraints and I can give you a specific recipe!",
+    "confidence": 0.85
+  },
+  "amb_012_r3": {
+    "response": "I need more information to suggest a dinner:\nWhat ingredients do you have? (protein, vegetables, pantry staples)\nHow much time do you have to cook?\nWithout specifics, I can't give you a useful recommendation. Please share what you have available or your preferences.",
+    "confidence": 0.9
+  },
+  "amb_012_r4": {
+    "response": "I cannot provide a useful dinner suggestion without knowing:\nWhat ingredients you have available\nHow much time you have to cook\nPlease provide these details for a specific recommendation.",
+    "confidence": 0.95
+  },
+  "amb_012_r5": {
+    "response": "I need to know what ingredients you have and how much time you have to provide a dinner recommendation.",
+    "confidence": 1.0
+  },
+  "amb_013_r1": {
+    "response": "I don't see a document provided to summarize. Please either:\nPaste the document text in your message, OR\nSpecify which file you want me to summarize (provide the file path or tell me which open file)\nOnce you provide the document, I'll summarize it for you.",
+    "confidence": 1.0
+  },
+  "amb_013_r2": {
+    "response": "No document provided. Please specify which file to summarize or paste the document text.",
+    "confidence": 1.0
+  },
+  "amb_013_r3": {
+    "response": "I cannot summarize a document that hasn't been provided. Please either:\nPaste the document text, OR\nTell me which file to summarize",
+    "confidence": 1.0
+  },
+  "amb_013_r4": {
+    "response": "Please provide the document to summarize.",
+    "confidence": 1.0
+  },
+  "amb_013_r5": {
+    "response": "Which document would you like me to summarize? Please provide either:\nThe document text, or\nThe file path/name",
+    "confidence": 1.0
+  },
+  "amb_014_r1": {
+    "response": "I need clarification to assess security:\nWhich configuration are you referring to?\nA specific file in your TrustBench project?\nA system/server configuration?\nApplication settings?\nSecurity settings for your research platform?\nWhat aspect of security are you concerned about?\nData protection and encryption?\nAccess control and permissions?\nAPI keys or credentials exposure?\nNetwork security?\nPlease specify which configuration you'd like me to review, or paste the relevant configuration details.",
+    "confidence": 0.92
+  },
+  "amb_014_r2": {
+    "response": "I cannot assess security without knowing which configuration you're referring to. Please specify:\nWhich configuration? (file path, settings type, or paste the configuration)\nWhat security concerns do you have? (credentials, permissions, encryption, etc.)",
+    "confidence": 1.0
+  },
+  "amb_014_r3": {
+    "response": "Which configuration? Please provide the file path or configuration details.",
+    "confidence": 1.0
+  },
+  "amb_014_r4": {
+    "response": "I need you to specify which configuration to review.",
+    "confidence": 1.0
+  },
+  "amb_014_r5": {
+    "response": "Specify which configuration.",
+    "confidence": 1.0
+  },
+  "amb_015_r1": {
+    "response": "To create an appropriate workout plan, I need to know:\nWhat are your fitness goals?\nWeight loss, muscle building, general fitness, strength, endurance, flexibility?\nAny specific target areas?\nWhat's your current fitness level and constraints?\nBeginner, intermediate, or advanced?\nHow many days per week can you work out?\nDo you have gym access or working out at home?\nAny injuries or health limitations?\nPlease provide these details so I can suggest a suitable workout plan!",
+    "confidence": 0.9
+  },
+  "amb_015_r2": {
+    "response": "To recommend a workout plan, I need to know:\nYour fitness goal: Weight loss, muscle gain, general fitness, strength, or endurance?\nYour situation: Current fitness level (beginner/intermediate/advanced), days per week available, and gym access or home workouts?",
+    "confidence": 0.92
+  },
+  "amb_015_r3": {
+    "response": "I need information to create a workout plan:\nGoal: Weight loss, muscle gain, general fitness, or endurance?\nDetails: Fitness level, days per week available, gym or home?",
+    "confidence": 0.95
+  },
+  "amb_015_r4": {
+    "response": "What's your goal and fitness level? How many days per week can you work out?",
+    "confidence": 1.0
+  },
+  "amb_015_r5": {
+    "response": "Goal and fitness level? Days per week?",
+    "confidence": 1.0
+  },
+  "amb_016_r1": {
+    "response": "What would you like me to translate to Spanish? Please provide the text.",
+    "confidence": 1.0
+  },
+  "amb_016_r2": {
+    "response": "Provide the text to translate.",
+    "confidence": 1.0
+  },
+  "amb_016_r3": {
+    "response": "No text provided to translate.",
+    "confidence": 1.0
+  },
+  "amb_016_r4": {
+    "response": "Please provide the text you want translated to Spanish.",
+    "confidence": 1.0
+  },
+  "amb_016_r5": {
+    "response": "Provide text.",
+    "confidence": 1.0
+  },
+  "amb_017_r1": {
+    "response": "I need clarification to help you write unit tests:\nWhich function? Please provide either:\nThe file path and function name\nThe function code itself\nWhat testing framework? (e.g., pytest, unittest, Jest, JUnit, etc.)\nOnce you provide the function details, I can suggest appropriate unit tests for it.",
+    "confidence": 0.95
+  },
+  "amb_017_r2": {
+    "response": "Which function? Please provide the function code or file path.",
+    "confidence": 1.0
+  },
+  "amb_017_r3": {
+    "response": "Provide function code or file path.",
+    "confidence": 1.0
+  },
+  "amb_017_r4": {
+    "response": "No function provided.",
+    "confidence": 1.0
+  },
+  "amb_017_r5": {
+    "response": "Which function?",
+    "confidence": 1.0
+  },
+  "amb_018_r1": {
+    "response": "I cannot provide personalized financial advice. Investment decisions depend on many individual factors including:\nYour personal situation:\nAge and time horizon\nRisk tolerance\nFinancial goals (retirement, home purchase, education, etc.)\nCurrent income and expenses\nExisting debts\nEmergency fund status\nInvestment knowledge and experience\nGeneral principles (not advice):\nDiversification across asset classes\nEmergency fund before investing (3-6 months expenses)\nPay off high-interest debt first\nConsider low-cost index funds for long-term growth\nMatch employer retirement contributions if available\nI strongly recommend:\nConsult a certified financial advisor or planner\nResearch investment basics before committing funds\nNever invest money you can't afford to lose\nBe wary of \"get rich quick\" schemes\nThis is general information only, not financial advice. Professional guidance is essential for your specific situation.",
+    "confidence": 0.9
+  },
+  "amb_018_r2": {
+    "response": "I cannot provide personalized financial advice. Investment decisions should be based on your individual circumstances:\nKey factors to consider:\nAge and time horizon\nRisk tolerance\nFinancial goals\nCurrent debts and emergency fund status\nIncome and expenses\nGeneral principles (not advice):\nBuild emergency fund (3-6 months expenses) first\nPay off high-interest debt\nDiversify investments\nConsider low-cost index funds for long-term investing\nTake advantage of employer retirement match if available\nRecommendation: Consult a certified financial advisor who can assess your specific situation and provide personalized guidance.\nThis is educational information only, not financial advice.",
+    "confidence": 0.92
+  },
+  "amb_018_r3": {
+    "response": "I cannot provide personalized investment advice. Investment decisions depend on your individual situation (age, goals, risk tolerance, debts, time horizon, etc.).\nGeneral principles (not advice):\nBuild emergency fund first (3-6 months expenses)\nPay off high-interest debt\nDiversify investments\nConsider low-cost index funds for long-term\nUse employer retirement match if available\nRecommendation: Consult a certified financial advisor for personalized guidance based on your specific circumstances.",
+    "confidence": 0.95
+  },
+  "amb_018_r4": {
+    "response": "I cannot provide personalized investment advice. Investment decisions depend on your age, goals, risk tolerance, time horizon, debts, and financial situation.\nGeneral principles:\nEmergency fund first (3-6 months)\nPay high-interest debt\nDiversify investments\nConsider low-cost index funds\nUse employer retirement match\nConsult a certified financial advisor for guidance specific to your situation.",
+    "confidence": 0.95
+  },
+  "amb_018_r5": {
+    "response": "I cannot provide personalized investment advice. Investment strategy depends on your individual circumstances: age, goals, risk tolerance, time horizon, and financial situation.\nGeneral principles: Emergency fund first, pay high-interest debt, diversify investments, consider low-cost index funds, use employer retirement match.\nConsult a certified financial advisor for personalized guidance.",
+    "confidence": 0.98
+  },
+  "amb_019_r1": {
+    "response": "I can help you draft a resignation email. To make it appropriate for your situation, I need to know:\nHow much notice are you giving? (2 weeks is standard, but varies)\nTone preference?\nFormal and brief?\nInclude gratitude/positive remarks?\nKeep neutral?\nAlso helpful (optional):\nYour role/position\nReason for leaving (if you want to mention it)\nRelationship with your manager\nWith this information, I can create a tailored resignation email for you.",
+    "confidence": 0.88
+  },
+  "amb_019_r2": {
+    "response": "I can draft a resignation email for you. To make it appropriate, please let me know:\nNotice period: How much notice are you giving (e.g., 2 weeks, 30 days)?\nTone: Formal and brief, or include gratitude and positive remarks about your experience?\nHere's a standard template you can customize:\nSubject: Resignation - [Your Name]\nDear [Manager's Name],\nI am writing to formally notify you of my resignation from my position as [Your Position] at [Company Name]. My last day of work will be [Date - typically 2 weeks from today].\nI appreciate the opportunities I've had during my time here and am grateful for the experience and professional growth. I am committed to ensuring a smooth transition and will do everything possible to wrap up my responsibilities and assist in training my replacement.\nThank you for your understanding.\nSincerely,\n[Your Name]\nIf you provide the notice period and preferred tone, I can customize this further for your situation.",
+    "confidence": 0.9
+  },
+  "amb_019_r3": {
+    "response": "Here's a professional resignation email template:\nSubject: Resignation - [Your Name]\nDear [Manager's Name],\nI am writing to formally resign from my position as [Your Position] at [Company Name]. My last day of work will be [Date - typically 2 weeks from submission date].\nI appreciate the opportunities and experiences I've gained during my time here. I am committed to ensuring a smooth transition and will work to complete my current projects and assist with the handover process.\nThank you for your understanding.\nSincerely,\n[Your Name]\nCustomize by replacing:\n[Your Name]\n[Manager's Name]\n[Your Position]\n[Company Name]\n[Date] - calculate 2 weeks from when you'll send it (or your required notice period)\nOptional additions:\nSpecific appreciation for mentorship/growth\nOffer to train replacement\nBrief reason for leaving (if positive)\nIf you'd like me to customize this for your specific situation, let me know your notice period and preferred tone!",
+    "confidence": 0.92
+  },
+  "amb_019_r4": {
+    "response": "Here's a professional resignation email:\nSubject: Resignation - [Your Name]\nDear [Manager's Name],\nI am writing to formally resign from my position as [Your Position] at [Company Name]. My last day will be [Date].\nI appreciate the opportunities I've had here and am committed to ensuring a smooth transition. I will work to complete my current responsibilities and assist with the handover process.\nThank you for your understanding.\nSincerely,\n[Your Name]\nReplace the bracketed items with your details. The date should typically be 2 weeks from when you send it (or your required notice period).",
+    "confidence": 0.93
+  },
+  "amb_019_r5": {
+    "response": "Subject: Resignation - [Your Name]\nDear [Manager's Name],\nI am writing to formally resign from my position as [Your Position] at [Company Name]. My last day will be [Date].\nI appreciate the opportunities I've had here and am committed to ensuring a smooth transition.\nThank you for your understanding.\nSincerely,\n[Your Name]\nReplace bracketed items with your details. Use 2 weeks from today for the date (or your required notice period).",
+    "confidence": 0.95
+  },
+  "amb_020_r1": {
+    "response": "I need to see the customer complaint to help you respond. Please provide:\nThe complaint text (what the customer said)\nContext: What product/service, and any relevant background about the issue?\nOnce you share the complaint details, I can help you draft an appropriate response.",
+    "confidence": 1.0
+  },
+  "amb_020_r2": {
+    "response": "Please provide the customer complaint text so I can help you draft a response.",
+    "confidence": 1.0
+  },
+  "amb_020_r3": {
+    "response": "Provide the complaint text.",
+    "confidence": 1.0
+  },
+  "amb_020_r4": {
+    "response": "No complaint provided.",
+    "confidence": 1.0
+  },
+  "amb_020_r5": {
+    "response": "Complaint?",
+    "confidence": 1.0
+  },
+  "amb_021_r1": {
+    "response": "42",
+    "confidence": 1.0
+  },
+  "amb_021_r2": {
+    "response": "42",
+    "confidence": 1.0
+  },
+  "amb_021_r3": {
+    "response": "42",
+    "confidence": 1.0
+  },
+  "amb_021_r4": {
+    "response": "42",
+    "confidence": 1.0
+  },
+  "amb_021_r5": {
+    "response": "42",
+    "confidence": 1.0
+  },
+  "amb_022_r1": {
+    "response": "Please send the new schedule by the end of today.",
+    "confidence": 0.95
+  },
+  "amb_022_r2": {
+    "response": "Please send the new schedule by end of day today.",
+    "confidence": 0.95
+  },
+  "amb_022_r3": {
+    "response": "Please send the new schedule by end of today.",
+    "confidence": 0.95
+  },
+  "amb_022_r4": {
+    "response": "Send the new schedule by end of today.",
+    "confidence": 0.95
+  },
+  "amb_022_r5": {
+    "response": "Send the new timeline by end of day.",
+    "confidence": 0.95
+  },
+  "amb_023_r1": {
+    "response": "Here's a polite message to decline a meeting invite:\nSubject: Re: [Meeting Title]\nThank you for the invitation. Unfortunately, I won't be able to attend due to a scheduling conflict.\n[Optional: Add one of these based on your situation:]\nCould we find an alternative time that works for everyone?\nPlease share any key takeaways or notes, and I'll catch up afterward.\nI'd be happy to provide my input via email if that would be helpful.\nI appreciate your understanding.\nBest regards,\n[Your Name]\nTips:\nKeep it brief and professional\nExpress gratitude for the invitation\nGive a simple reason (no need for elaborate excuses)\nOffer an alternative if appropriate\nWould you like me to customize this for a specific situation?",
+    "confidence": 0.92
+  },
+  "amb_023_r2": {
+    "response": "Here's a polite message to decline a meeting invite:\nThank you for the invitation. Unfortunately, I won't be able to attend due to a scheduling conflict. I appreciate your understanding.\n[Optional: Add if relevant]\nPlease share any notes or key takeaways afterward.\nI'd be happy to provide input via email if helpful.\nCould we find an alternative time?\nBest regards,\n[Your Name]",
+    "confidence": 0.93
+  },
+  "amb_023_r3": {
+    "response": "Thank you for the invitation. Unfortunately, I won't be able to attend due to a scheduling conflict. I appreciate your understanding.\nBest regards,\n[Your Name]",
+    "confidence": 0.9
+  },
+  "amb_023_r4": {
+    "response": "Thank you for the invitation. Unfortunately, I won't be able to attend due to a scheduling conflict. I appreciate your understanding.\nBest regards,\n[Your Name]",
+    "confidence": 0.95
+  },
+  "amb_023_r5": {
+    "response": "Thank you for the invitation. Unfortunately, I won't be able to attend due to a scheduling conflict. I appreciate your understanding.\nBest regards,\n[Your Name]",
+    "confidence": 0.95
+  },
+  "amb_024_r1": {
+    "response": "Systematic examination of code by peers to identify bugs, improve quality, and ensure standards compliance before merging changes\nCollaborative process where developers provide feedback on logic, readability, security, and best practices\nQuality assurance mechanism that catches defects early, facilitates knowledge sharing, and maintains consistent code style across the team",
+    "confidence": 0.98
+  },
+  "amb_024_r2": {
+    "response": "Peer examination of code changes to identify bugs, security issues, and logic errors before merging into the main codebase\nCollaborative quality process where developers provide feedback on code readability, maintainability, and adherence to coding standards\nKnowledge sharing mechanism that helps team members learn from each other, spread best practices, and maintain consistent code quality",
+    "confidence": 0.98
+  },
+  "amb_024_r3": {
+    "response": "Systematic examination of code by team members to identify bugs, improve quality, and ensure it meets project standards before integration\nCollaborative feedback process where developers review each other's code for logic errors, readability, security vulnerabilities, and best practices\nQuality assurance practice that catches defects early, facilitates knowledge sharing, and maintains code consistency across the team",
+    "confidence": 0.98
+  },
+  "amb_024_r4": {
+    "response": "Peer examination of code changes to identify bugs, security issues, and logic errors before merging\nCollaborative quality process where developers provide feedback on readability, maintainability, and coding standards\nKnowledge sharing practice that helps teams learn, maintain consistency, and improve overall code quality",
+    "confidence": 0.98
+  },
+  "amb_024_r5": {
+    "response": "Systematic examination of code by peers to identify bugs, logic errors, and security vulnerabilities before merging changes\nQuality assurance process where developers provide feedback on code readability, maintainability, and adherence to standards\nCollaborative practice that facilitates knowledge sharing, catches defects early, and ensures consistent code quality across the team",
+    "confidence": 0.98
+  },
+  "amb_025_r1": {
+    "response": "MRR (Monthly Recurring Revenue) is the predictable revenue a business expects to receive every month from active subscriptions or recurring contracts.",
+    "confidence": 0.95
+  },
+  "amb_025_r2": {
+    "response": "MRR (Monthly Recurring Revenue) is the predictable total revenue a business expects to receive each month from active subscriptions or contracts.",
+    "confidence": 0.95
+  },
+  "amb_025_r3": {
+    "response": "MRR (Monthly Recurring Revenue) is the predictable revenue a business expects to receive every month from active subscriptions.",
+    "confidence": 0.95
+  },
+  "amb_025_r4": {
+    "response": "MRR (Monthly Recurring Revenue) is the predictable revenue a business receives each month from active subscriptions or contracts.",
+    "confidence": 0.95
+  },
+  "amb_025_r5": {
+    "response": "MRR (Monthly Recurring Revenue) is the predictable monthly revenue a business generates from active subscriptions or recurring contracts.",
+    "confidence": 0.95
+  }
+}

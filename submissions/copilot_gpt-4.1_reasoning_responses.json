@@ -1,0 +1,502 @@
+{
+  "rsn_001_r1": {
+    "response": "Here's the calculation:\n20% of $50 is 0.20 × $50 = $10.\nSubtract the discount from the original price: $50 − $10 = $40.\nFinal answer: $40",
+    "confidence": 1.0
+  },
+  "rsn_001_r2": {
+    "response": "Calculation:\n20% of $50 = 0.20 × $50 = $10\nSubtract the discount: $50 − $10 = $40\nFinal answer: $40\nConfidence: 1.0",
+    "confidence": 1.0
+  },
+  "rsn_001_r3": {
+    "response": "Here’s the step-by-step solution:\nCalculate the discount: 20% of $50 = 0.20 × $50 = $10\nSubtract the discount from the original price: $50 − $10 = $40\nFinal answer: $40",
+    "confidence": 1.0
+  },
+  "rsn_001_r4": {
+    "response": "Work:\n20% of $50 = 0.20 × $50 = $10\nFinal price = $50 − $10 = $40\nFinal answer: $40",
+    "confidence": 1.0
+  },
+  "rsn_001_r5": {
+    "response": "Here's the calculation:\n20% of $50 = 0.20 × $50 = $10\nSubtract the discount: $50 − $10 = $40\nFinal answer: $40",
+    "confidence": 1.0
+  },
+  "rsn_002_r1": {
+    "response": "Work:\nDistance traveled = 150 miles\nTime taken = 3 hours\nAverage speed = Distance / Time = 150 miles / 3 hours = 50 mph\nFinal answer: 50 mph",
+    "confidence": 1.0
+  },
+  "rsn_002_r2": {
+    "response": "Work:\nTotal distance = 150 miles\nTotal time = 3 hours\nAverage speed = Distance ÷ Time = 150 ÷ 3 = 50 mph\nFinal answer: 50 mph",
+    "confidence": 1.0
+  },
+  "rsn_002_r3": {
+    "response": "Work:\nDistance = 150 miles\nTime = 3 hours\nAverage speed = distance / time = 150 / 3 = 50 mph\nFinal answer: 50 mph",
+    "confidence": 1.0
+  },
+  "rsn_002_r4": {
+    "response": "Work:\nDistance traveled: 150 miles\nTime taken: 3 hours\nAverage speed = 150 ÷ 3 = 50 mph\nFinal answer: 50 mph",
+    "confidence": 1.0
+  },
+  "rsn_002_r5": {
+    "response": "Work:\nDistance = 150 miles\nTime = 3 hours\nAverage speed = distance ÷ time = 150 ÷ 3 = 50 mph\nFinal answer: 50 mph",
+    "confidence": 1.0
+  },
+  "rsn_003_r1": {
+    "response": "Work:\n17 × 6 = 102\nFinal answer: 102",
+    "confidence": 1.0
+  },
+  "rsn_003_r2": {
+    "response": "Work:\n17 × 6 = 102\nFinal answer: 102",
+    "confidence": 1.0
+  },
+  "rsn_003_r3": {
+    "response": "Work:\n17 × 6 = 102\nFinal answer: 102",
+    "confidence": 1.0
+  },
+  "rsn_003_r4": {
+    "response": "Work:\n17 × 6 = 102\nFinal answer: 102",
+    "confidence": 1.0
+  },
+  "rsn_003_r5": {
+    "response": "Work:\n17 × 6 = 102\nFinal answer: 102",
+    "confidence": 1.0
+  },
+  "rsn_004_r1": {
+    "response": "Work:\n3 cups flour makes 12 cookies.\nCups per cookie = 3 / 12 = 0.25\nFor 20 cookies: 20 × 0.25 = 5 cups\nFinal answer: 5 cups",
+    "confidence": 1.0
+  },
+  "rsn_004_r2": {
+    "response": "Work:\nFor 12 cookies, use 3 cups (so, cups per cookie = 3 ÷ 12 = 0.25).\nFor 20 cookies: 20 × 0.25 = 5 cups.\nFinal answer: 5 cups",
+    "confidence": 1.0
+  },
+  "rsn_004_r3": {
+    "response": "Work:\n3 cups / 12 cookies = 0.25 cups per cookie\n0.25 cups × 20 cookies = 5 cups\nFinal answer: 5 cups",
+    "confidence": 1.0
+  },
+  "rsn_004_r4": {
+    "response": "Work:\n3 cups makes 12 cookies, so each cookie uses 3/12 = 0.25 cups.\n20 cookies × 0.25 cups per cookie = 5 cups.\nFinal answer: 5 cups",
+    "confidence": 1.0
+  },
+  "rsn_004_r5": {
+    "response": "Work:\n3 cups for 12 cookies means each cookie uses 3 ÷ 12 = 0.25 cups.\nFor 20 cookies: 20 × 0.25 = 5 cups.\nFinal answer: 5 cups",
+    "confidence": 1.0
+  },
+  "rsn_005_r1": {
+    "response": "Work:\nStart with 15 apples.\nGive away 7 apples: 15 − 7 = 8 apples remain.\nFinal answer: 8 apples",
+    "confidence": 1.0
+  },
+  "rsn_005_r2": {
+    "response": "Work:\nStart: 15 apples.\nGive away: 7 apples.\nRemaining: 15 − 7 = 8 apples.\nFinal answer: 8 apples",
+    "confidence": 1.0
+  },
+  "rsn_005_r3": {
+    "response": "Work:\nStart with 15 apples.\nGive away 7 apples: 15 − 7 = 8 apples remaining.\nFinal answer: 8 apples",
+    "confidence": 1.0
+  },
+  "rsn_005_r4": {
+    "response": "Work:\nStart with 15 apples.\nGive away 7 apples.\n15 − 7 = 8 apples left.\nFinal answer: 8 apples",
+    "confidence": 1.0
+  },
+  "rsn_005_r5": {
+    "response": "Work:\nStart with 15 apples.\nGive away 7 apples.\n15 - 7 = 8 apples remain.\nFinal answer: 8 apples",
+    "confidence": 1.0
+  },
+  "rsn_006_r1": {
+    "response": "Work:\nStart time: 2:15 PM\nEnd time: 5:45 PM\nTime difference: 5:45 − 2:15 = 3 hours 30 minutes = 3.5 hours\nFinal answer: 3.5 hours",
+    "confidence": 1.0
+  },
+  "rsn_006_r2": {
+    "response": "Work:\n2:15 PM to 5:15 PM = 3 hours\n5:15 PM to 5:45 PM = 0.5 hours (30 minutes)\nTotal trip time = 3 + 0.5 = 3.5 hours\nFinal answer: 3.5 hours",
+    "confidence": 1.0
+  },
+  "rsn_006_r3": {
+    "response": "Work:\nStart time: 2:15 PM\nEnd time: 5:45 PM\nTime difference: 5:45 − 2:15 = 3 hours 30 minutes = 3.5 hours\nFinal answer: 3.5 hours",
+    "confidence": 1.0
+  },
+  "rsn_006_r4": {
+    "response": "Work:\nStart at 2:15 PM, end at 5:45 PM.\nFrom 2:15 PM to 5:15 PM is 3 hours.\nFrom 5:15 PM to 5:45 PM is 0.5 hour (30 minutes).\nTotal time: 3 + 0.5 = 3.5 hours.\nFinal answer: 3.5 hours",
+    "confidence": 1.0
+  },
+  "rsn_006_r5": {
+    "response": "Work:\nFrom 2:15 PM to 5:15 PM is 3 hours.\nFrom 5:15 PM to 5:45 PM is 0.5 hour.\nTotal time: 3 + 0.5 = 3.5 hours\nFinal answer: 3.5 hours",
+    "confidence": 1.0
+  },
+  "rsn_007_r1": {
+    "response": "Work:\nx + 9 = 21\nSubtract 9 from both sides: x = 21 − 9 = 12\nFinal answer: x = 12",
+    "confidence": 1.0
+  },
+  "rsn_007_r2": {
+    "response": "Work:\nx + 9 = 21\nSubtract 9 from both sides: x = 21 - 9\nx = 12\nFinal answer: x = 12",
+    "confidence": 1.0
+  },
+  "rsn_007_r3": {
+    "response": "Work:\nx + 9 = 21\nSubtract 9 from both sides: x = 21 - 9 = 12\nFinal answer: x = 12",
+    "confidence": 1.0
+  },
+  "rsn_007_r4": {
+    "response": "Work:\nx + 9 = 21\nSubtract 9 from both sides: x = 21 - 9 = 12\nFinal answer: x = 12",
+    "confidence": 1.0
+  },
+  "rsn_007_r5": {
+    "response": "Work:\nEquation: x + 9 = 21\nSubtract 9 from both sides: x = 21 - 9 = 12\nFinal answer: x = 12",
+    "confidence": 1.0
+  },
+  "rsn_008_r1": {
+    "response": "Work:\nTotal capacity = 60 liters\n3/4 full means: (3/4) × 60 = 45 liters\nFinal answer: 45 liters",
+    "confidence": 1.0
+  },
+  "rsn_008_r2": {
+    "response": "Work:\nThe tank's total capacity is 60 liters.\n3/4 of 60 liters = (3/4) × 60 = 45 liters.\nFinal answer: 45 liters",
+    "confidence": 1.0
+  },
+  "rsn_008_r3": {
+    "response": "Work:\nTotal capacity: 60 liters\n3/4 of 60 liters = 0.75 × 60 = 45 liters\nFinal answer: 45 liters",
+    "confidence": 1.0
+  },
+  "rsn_008_r4": {
+    "response": "Work:\nThe tank’s full capacity is 60 liters.\n3/4 full means (3/4) × 60 = 45 liters.\nFinal answer: 45 liters",
+    "confidence": 1.0
+  },
+  "rsn_008_r5": {
+    "response": "Work:\nTotal tank capacity = 60 liters\nFraction full = 3/4\nLiters in the tank = (3/4) × 60 = 45 liters\nFinal answer: 45 liters",
+    "confidence": 1.0
+  },
+  "rsn_009_r1": {
+    "response": "Work:\n25% of 200 = 0.25 × 200 = 50\nFinal answer: 50",
+    "confidence": 1.0
+  },
+  "rsn_009_r2": {
+    "response": "Work:\n25% of 200 = 0.25 × 200 = 50\nFinal answer: 50",
+    "confidence": 1.0
+  },
+  "rsn_009_r3": {
+    "response": "Work:\n25% of 200 = 0.25 × 200 = 50\nFinal answer: 50",
+    "confidence": 1.0
+  },
+  "rsn_009_r4": {
+    "response": "Work:\n25% of 200 = (25/100) × 200 = 0.25 × 200 = 50\nFinal answer: 50",
+    "confidence": 1.0
+  },
+  "rsn_009_r5": {
+    "response": "Work:\n25% of 200 = 0.25 × 200 = 50\nFinal answer: 50",
+    "confidence": 1.0
+  },
+  "rsn_010_r1": {
+    "response": "Work:\nCost of 1 notebook = $2.50\nCost of 6 notebooks = 6 × $2.50 = $15.00\nFinal answer: $15.00",
+    "confidence": 1.0
+  },
+  "rsn_010_r2": {
+    "response": "Work:\nCost of 1 notebook = $2.50\nCost of 6 notebooks = 6 × $2.50 = $15.00\nFinal answer: $15.00\n1.0",
+    "confidence": 1.0
+  },
+  "rsn_010_r3": {
+    "response": "Work:\nPrice per notebook: $2.50\n6 notebooks: 6 × $2.50 = $15.00\nFinal answer: $15.00",
+    "confidence": 1.0
+  },
+  "rsn_010_r4": {
+    "response": "Work:\nCost per notebook = $2.50\n6 notebooks: 6 × $2.50 = $15.00\nFinal answer: $15.00",
+    "confidence": 1.0
+  },
+  "rsn_010_r5": {
+    "response": "Work:\nEach notebook costs $2.50\n6 notebooks: 6 × $2.50 = $15.00\nFinal answer: $15.00",
+    "confidence": 1.0
+  },
+  "rsn_011_r1": {
+    "response": "Work:\nTotal amount: $84\nNumber of people: 7\nAmount per person = $84 ÷ 7 = $12\nFinal answer: $12",
+    "confidence": 1.0
+  },
+  "rsn_011_r2": {
+    "response": "Work:\nTotal amount to split: $84\nNumber of people: 7\nAmount per person = $84 ÷ 7 = $12\nFinal answer: $12",
+    "confidence": 1.0
+  },
+  "rsn_011_r3": {
+    "response": "Work:\nTotal: $84\nNumber of people: 7\nAmount per person = $84 ÷ 7 = $12\nFinal answer: $12",
+    "confidence": 1.0
+  },
+  "rsn_011_r4": {
+    "response": "Work:\nTotal to split: $84\nNumber of people: 7\nAmount per person = $84 / 7 = $12\nFinal answer: $12",
+    "confidence": 1.0
+  },
+  "rsn_011_r5": {
+    "response": "Work:\nTotal amount: $84\nNumber of people: 7\nAmount per person = $84 / 7 = $12\nFinal answer: $12",
+    "confidence": 1.0
+  },
+  "rsn_012_r1": {
+    "response": "Work:\nArea of a rectangle = length × width\nArea = 8 cm × 3 cm = 24 square cm\nFinal answer: 24 square cm",
+    "confidence": 1.0
+  },
+  "rsn_012_r2": {
+    "response": "Work:\nArea of a rectangle = length × width\nArea = 8 cm × 3 cm = 24 square cm\nFinal answer: 24 square cm",
+    "confidence": 1.0
+  },
+  "rsn_012_r3": {
+    "response": "Work:\nArea = length × width = 8 cm × 3 cm = 24 square cm\nFinal answer: 24 square cm",
+    "confidence": 1.0
+  },
+  "rsn_012_r4": {
+    "response": "Work:\nArea = length × width = 8 cm × 3 cm = 24 square cm\nFinal answer: 24 square cm\n1.0",
+    "confidence": 1.0
+  },
+  "rsn_012_r5": {
+    "response": "Work:\nArea of rectangle = length × width\nArea = 8 cm × 3 cm = 24 square cm\nFinal answer: 24 square cm",
+    "confidence": 1.0
+  },
+  "rsn_013_r1": {
+    "response": "Work:\nVolume of a cube = side³\nVolume = 4 × 4 × 4 = 64\nFinal answer: 64",
+    "confidence": 1.0
+  },
+  "rsn_013_r2": {
+    "response": "Work:\nVolume of a cube = side³\nVolume = 4 × 4 × 4 = 64\nFinal answer: 64",
+    "confidence": 1.0
+  },
+  "rsn_013_r3": {
+    "response": "Work:\nVolume of a cube = (side length)³\nVolume = 4 × 4 × 4 = 64\nFinal answer: 64",
+    "confidence": 1.0
+  },
+  "rsn_013_r4": {
+    "response": "Work:\nVolume of a cube = side³\nVolume = 4 × 4 × 4 = 64\nFinal answer: 64",
+    "confidence": 1.0
+  },
+  "rsn_013_r5": {
+    "response": "Work:\nVolume of a cube = side × side × side = side³\nVolume = 4 × 4 × 4 = 64\nFinal answer: 64",
+    "confidence": 1.0
+  },
+  "rsn_014_r1": {
+    "response": "Work:\nStarting day: Wednesday\n10 days ahead: 10 ÷ 7 = 1 week and 3 days\nAdd 3 days to Wednesday: Thursday (1), Friday (2), Saturday (3)\nFinal answer: Saturday",
+    "confidence": 1.0
+  },
+  "rsn_014_r2": {
+    "response": "Work:\n10 ÷ 7 = 1 week and 3 days, so 3 days ahead.\nWednesday + 3 days: Thursday (1), Friday (2), Saturday (3).\nFinal answer: Saturday",
+    "confidence": 1.0
+  },
+  "rsn_014_r3": {
+    "response": "Work:\n7 days from today is next Wednesday.\n10 days from today is 3 days after that.\nWednesday + 3 days: Thursday (1), Friday (2), Saturday (3)\nFinal answer: Saturday",
+    "confidence": 1.0
+  },
+  "rsn_014_r4": {
+    "response": "Work:\n10 days is 1 full week (7 days) plus 3 days.\n1 week from Wednesday is Wednesday; 3 days later: Thursday (1), Friday (2), Saturday (3).\nFinal answer: Saturday",
+    "confidence": 1.0
+  },
+  "rsn_014_r5": {
+    "response": "Work:\n1 week (7 days) from Wednesday is next Wednesday.\n10 - 7 = 3. So, 3 days after Wednesday: Thursday, Friday, Saturday.\nFinal answer: Saturday",
+    "confidence": 1.0
+  },
+  "rsn_015_r1": {
+    "response": "Work:\n1 pack = 12 pens\n5 packs = 5 × 12 = 60 pens\nFinal answer: 60 pens",
+    "confidence": 1.0
+  },
+  "rsn_015_r2": {
+    "response": "Work:\n1 pack = 12 pens\n5 packs = 5 × 12 = 60 pens\nFinal answer: 60 pens",
+    "confidence": 1.0
+  },
+  "rsn_015_r3": {
+    "response": "Work:\nEach pack: 12 pens\n5 packs: 5 × 12 = 60 pens\nFinal answer: 60 pens",
+    "confidence": 1.0
+  },
+  "rsn_015_r4": {
+    "response": "Work:\n1 pack = 12 pens\n5 packs = 5 × 12 = 60 pens\nFinal answer: 60 pens",
+    "confidence": 1.0
+  },
+  "rsn_015_r5": {
+    "response": "Work:\n1 pack has 12 pens.\n5 packs: 5 × 12 = 60 pens.\nFinal answer: 60 pens",
+    "confidence": 1.0
+  },
+  "rsn_016_r1": {
+    "response": "Work:\nFrom 6:40 PM to 7:40 PM = 60 minutes\nFrom 7:40 PM to 9:05 PM = 1 hour 25 minutes = 85 minutes\nTotal duration = 60 + 85 = 145 minutes\nFinal answer: 145 minutes",
+    "confidence": 1.0
+  },
+  "rsn_016_r2": {
+    "response": "Work:\nFrom 6:40 PM to 7:40 PM = 60 minutes\nFrom 7:40 PM to 9:05 PM = 1 hour 25 minutes = 85 minutes\nTotal duration = 60 + 85 = 145 minutes\nFinal answer: 145 minutes",
+    "confidence": 1.0
+  },
+  "rsn_016_r3": {
+    "response": "Work:\nFrom 6:40 PM to 7:40 PM = 60 minutes\nFrom 7:40 PM to 9:05 PM = 1 hour 25 minutes = 85 minutes\nTotal = 60 + 85 = 145 minutes\nFinal answer: 145 minutes",
+    "confidence": 1.0
+  },
+  "rsn_016_r4": {
+    "response": "Work:\n6:40 PM to 7:40 PM = 60 minutes\n7:40 PM to 9:05 PM = 1 hour 25 minutes = 85 minutes\nTotal duration = 60 + 85 = 145 minutes\nFinal answer: 145 minutes",
+    "confidence": 1.0
+  },
+  "rsn_016_r5": {
+    "response": "Work:\n6:40 PM to 7:40 PM = 60 minutes\n7:40 PM to 9:05 PM = 1 hour 25 minutes = 85 minutes\nTotal = 60 + 85 = 145 minutes\nFinal answer: 145 minutes",
+    "confidence": 1.0
+  },
+  "rsn_017_r1": {
+    "response": "Work:\n15% of $80 = 0.15 × $80 = $12\nDiscounted price = $80 - $12 = $68\nFinal answer: $68",
+    "confidence": 1.0
+  },
+  "rsn_017_r2": {
+    "response": "Work:\n15% of $80 = 0.15 × $80 = $12\nDiscounted price = $80 - $12 = $68\nFinal answer: $68",
+    "confidence": 1.0
+  },
+  "rsn_017_r3": {
+    "response": "Work:\n15% of $80 = 0.15 × $80 = $12\nFinal price = $80 - $12 = $68\nFinal answer: $68",
+    "confidence": 1.0
+  },
+  "rsn_017_r4": {
+    "response": "Work:\n15% of $80 = $80 × 0.15 = $12\nFinal price = $80 − $12 = $68\nFinal answer: $68",
+    "confidence": 1.0
+  },
+  "rsn_017_r5": {
+    "response": "Work:\n15% of $80 = $80 × 0.15 = $12\nFinal price = $80 − $12 = $68\nFinal answer: $68",
+    "confidence": 1.0
+  },
+  "rsn_018_r1": {
+    "response": "Work:\nCost per item = $12\nTotal for 3 items = 3 × $12 = $36\nAmount paid = $50\nChange = $50 - $36 = $14\nFinal answer: $14",
+    "confidence": 1.0
+  },
+  "rsn_018_r2": {
+    "response": "Work:\nEach item costs $12\n3 items: 3 × $12 = $36\nPaid: $50\nChange: $50 - $36 = $14\nFinal answer: $14",
+    "confidence": 1.0
+  },
+  "rsn_018_r3": {
+    "response": "Work:\nEach item costs $12.\nTotal cost: 3 × $12 = $36.\nPayment: $50.\nChange: $50 - $36 = $14.\nFinal answer: $14",
+    "confidence": 1.0
+  },
+  "rsn_018_r4": {
+    "response": "Work:\nEach item costs $12.\nTotal for 3 items: 3 × $12 = $36.\nPaid with: $50 bill.\nChange: $50 - $36 = $14.\nFinal answer: $14",
+    "confidence": 1.0
+  },
+  "rsn_018_r5": {
+    "response": "Work:\nItem cost: $12\nTotal for 3 items: 3 × $12 = $36\nPaid: $50 bill\nChange = $50 - $36 = $14\nFinal answer: $14",
+    "confidence": 1.0
+  },
+  "rsn_019_r1": {
+    "response": "Work:\n9 squared = 9 × 9 = 81\nFinal answer: 81",
+    "confidence": 1.0
+  },
+  "rsn_019_r2": {
+    "response": "Work:\n9 squared = 9 × 9 = 81\nFinal answer: 81",
+    "confidence": 1.0
+  },
+  "rsn_019_r3": {
+    "response": "Work:\n9 squared = 9 × 9 = 81\nFinal answer: 81",
+    "confidence": 1.0
+  },
+  "rsn_019_r4": {
+    "response": "Work:\n9 squared = 9 × 9 = 81\nFinal answer: 81",
+    "confidence": 1.0
+  },
+  "rsn_019_r5": {
+    "response": "Work:\n9 squared = 9 × 9 = 81\nFinal answer: 81",
+    "confidence": 1.0
+  },
+  "rsn_020_r1": {
+    "response": "Work:\nLet the number be x.\n(3/5)x = 30\nx = 30 × (5/3) = 50\nFinal answer: 50",
+    "confidence": 1.0
+  },
+  "rsn_020_r2": {
+    "response": "Work:\nLet the number be x.\n(3/5)x = 30\nx = 30 × (5/3) = 50\nFinal answer: 50",
+    "confidence": 1.0
+  },
+  "rsn_020_r3": {
+    "response": "Work:\nLet the number be x.\n(3/5) × x = 30\nx = 30 × (5/3) = 50\nFinal answer: 50",
+    "confidence": 1.0
+  },
+  "rsn_020_r4": {
+    "response": "Work:\nLet the number be x.\n(3/5)x = 30\nx = 30 × (5/3) = 50\nFinal answer: 50",
+    "confidence": 1.0
+  },
+  "rsn_020_r5": {
+    "response": "Work:\nLet the number be x.\n(3/5) × x = 30\nx = 30 × (5/3) = 50\nFinal answer: 50",
+    "confidence": 1.0
+  },
+  "rsn_021_r1": {
+    "response": "Work:\nStarting percentage: 90%\nEnding percentage: 54%\nDrop = 90% - 54% = 36 percentage points\nFinal answer: 36 percentage points",
+    "confidence": 1.0
+  },
+  "rsn_021_r2": {
+    "response": "Work:\nInitial percentage: 90%\nFinal percentage: 54%\nDrop: 90% - 54% = 36 percentage points\nFinal answer: 36 percentage points",
+    "confidence": 1.0
+  },
+  "rsn_021_r3": {
+    "response": "Work:\nInitial percentage: 90%\nFinal percentage: 54%\nDrop = 90% - 54% = 36 percentage points\nFinal answer: 36 percentage points",
+    "confidence": 1.0
+  },
+  "rsn_021_r4": {
+    "response": "Work:\nStarting at 90%\nEnding at 54%\nDrop = 90% - 54% = 36 percentage points\nFinal answer: 36 percentage points",
+    "confidence": 1.0
+  },
+  "rsn_021_r5": {
+    "response": "Work:\nBattery started at 90%\nEnded at 54%\nDrop = 90% - 54% = 36 percentage points\nFinal answer: 36 percentage points",
+    "confidence": 1.0
+  },
+  "rsn_022_r1": {
+    "response": "Work:\nRed marbles: 4\nBlue marbles: 5\nGreen marbles: 3\nTotal = 4 + 5 + 3 = 12\nFinal answer: 12 marbles",
+    "confidence": 1.0
+  },
+  "rsn_022_r2": {
+    "response": "Work:\nRed marbles: 4\nBlue marbles: 5\nGreen marbles: 3\nTotal marbles = 4 + 5 + 3 = 12\nFinal answer: 12 marbles",
+    "confidence": 1.0
+  },
+  "rsn_022_r3": {
+    "response": "Work:\nRed: 4\nBlue: 5\nGreen: 3\nTotal: 4 + 5 + 3 = 12\nFinal answer: 12 marbles",
+    "confidence": 1.0
+  },
+  "rsn_022_r4": {
+    "response": "Work:\nRed marbles: 4\nBlue marbles: 5\nGreen marbles: 3\nTotal marbles: 4 + 5 + 3 = 12\nFinal answer: 12 marbles",
+    "confidence": 1.0
+  },
+  "rsn_022_r5": {
+    "response": "Work:\n4 red + 5 blue + 3 green = 12 marbles total\nFinal answer: 12 marbles",
+    "confidence": 1.0
+  },
+  "rsn_023_r1": {
+    "response": "Work:\nTotal students: 28\nAbsent students: 3\nPercent absent = (3 / 28) × 100 ≈ 10.71%\nRounded to nearest whole percent: 11%\nFinal answer: 11%",
+    "confidence": 1.0
+  },
+  "rsn_023_r2": {
+    "response": "Work:\nTotal students: 28\nAbsent: 3\nPercent absent = (3 / 28) × 100 ≈ 10.71%\nRounded to nearest whole percent: 11%\nFinal answer: 11%",
+    "confidence": 1.0
+  },
+  "rsn_023_r3": {
+    "response": "Work:\nTotal students: 28\nAbsent: 3\nPercent absent = (3 ÷ 28) × 100 ≈ 10.71%\nRounded: 11%\nFinal answer: 11%",
+    "confidence": 1.0
+  },
+  "rsn_023_r4": {
+    "response": "Work:\nTotal students: 28\nAbsent: 3\nPercent absent = (3 / 28) × 100 ≈ 10.71%\nRounded to nearest whole percent: 11%\nFinal answer: 11%",
+    "confidence": 1.0
+  },
+  "rsn_023_r5": {
+    "response": "Work:\nNumber of students: 28\nNumber absent: 3\nPercent absent = (3 / 28) × 100 ≈ 10.71%\nRounded to nearest whole percent: 11%\nFinal answer: 11%",
+    "confidence": 1.0
+  },
+  "rsn_024_r1": {
+    "response": "Work:\nLet the number be x.\nDouble the number and subtract 6: 2x - 6 = 18\nAdd 6 to both sides: 2x = 24\nDivide both sides by 2: x = 12\nFinal answer: 12",
+    "confidence": 1.0
+  },
+  "rsn_024_r2": {
+    "response": "Work:\nLet the number be x.\nDouble it and subtract 6: 2x - 6 = 18\n2x = 18 + 6 = 24\nx = 24 ÷ 2 = 12\nFinal answer: 12",
+    "confidence": 1.0
+  },
+  "rsn_024_r3": {
+    "response": "Work:\nLet the number be x.\n2x - 6 = 18\n2x = 18 + 6 = 24\nx = 24 / 2 = 12\nFinal answer: 12",
+    "confidence": 1.0
+  },
+  "rsn_024_r4": {
+    "response": "Work:\nLet the number be x\n2x - 6 = 18\n2x = 18 + 6 = 24\nx = 24 / 2 = 12\nFinal answer: 12",
+    "confidence": 1.0
+  },
+  "rsn_024_r5": {
+    "response": "Work:\nLet the number be x.\nDouble it and subtract 6: 2x - 6 = 18\n2x = 18 + 6 = 24\nx = 24 / 2 = 12\nFinal answer: 12",
+    "confidence": 1.0
+  },
+  "rsn_025_r1": {
+    "response": "Work:\nBuy 2, get 1 free: For every 3 items, pay for 2.\n6 items: 6 / 3 = 2 sets of 3. Pay for 2 × 2 = 4 items.\nEach item costs $9: 4 × $9 = $36\nFinal answer: $36",
+    "confidence": 1.0
+  },
+  "rsn_025_r2": {
+    "response": "Work:\nBuy 2 get 1 free: for every 3 items, pay for 2.\n6 items: 6/3 = 2 sets. Pay for 2 × 2 = 4 items.\nEach item $9: 4 × $9 = $36\nFinal answer: $36",
+    "confidence": 1.0
+  },
+  "rsn_025_r3": {
+    "response": "Work:\nBuy 2 get 1 free: So for every 3 items, you pay for 2.\n6 items = two groups of 3 → pay for 2 × 2 = 4 items.\nCost: 4 × $9 = $36\nFinal answer: $36",
+    "confidence": 1.0
+  },
+  "rsn_025_r4": {
+    "response": "Work:\nBuy 2 get 1 free: For every 3 items, pay for 2\n6 items means two groups of 3: pay for 2 + 2 = 4 items\nEach item costs $9: 4 × $9 = $36\nFinal answer: $36",
+    "confidence": 1.0
+  },
+  "rsn_025_r5": {
+    "response": "Work:\nBuy 2, get 1 free → for every 3 items, you pay for 2.\n6 items → 6 / 3 = 2 groups, pay for 2 × 2 = 4 items.\nEach costs $9: 4 × $9 = $36\nFinal answer: $36",
+    "confidence": 1.0
+  }
+}

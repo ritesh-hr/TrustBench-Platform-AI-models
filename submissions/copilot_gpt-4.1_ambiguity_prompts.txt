@@ -1,0 +1,1878 @@
+# AMBIGUITY PROMPTS FOR COPILOT_GPT-4.1
+# Total: 125 prompts (25 items × 5 runs)
+
+
+================================================================================
+PROMPT 1/125
+ID: amb_001 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Book me a flight to Seattle next Friday.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 2/125
+ID: amb_001 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Book me a flight to Seattle next Friday.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 3/125
+ID: amb_001 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Book me a flight to Seattle next Friday.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 4/125
+ID: amb_001 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Book me a flight to Seattle next Friday.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 5/125
+ID: amb_001 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Book me a flight to Seattle next Friday.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 6/125
+ID: amb_002 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Make this email better.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 7/125
+ID: amb_002 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Make this email better.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 8/125
+ID: amb_002 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Make this email better.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 9/125
+ID: amb_002 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Make this email better.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 10/125
+ID: amb_002 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Make this email better.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 11/125
+ID: amb_003 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Is it safe to take this?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 12/125
+ID: amb_003 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Is it safe to take this?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 13/125
+ID: amb_003 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Is it safe to take this?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 14/125
+ID: amb_003 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Is it safe to take this?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 15/125
+ID: amb_003 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Is it safe to take this?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 16/125
+ID: amb_004 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Schedule a meeting with Alex tomorrow.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 17/125
+ID: amb_004 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Schedule a meeting with Alex tomorrow.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 18/125
+ID: amb_004 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Schedule a meeting with Alex tomorrow.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 19/125
+ID: amb_004 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Schedule a meeting with Alex tomorrow.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 20/125
+ID: amb_004 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Schedule a meeting with Alex tomorrow.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 21/125
+ID: amb_005 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Order me a large pizza.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 22/125
+ID: amb_005 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Order me a large pizza.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 23/125
+ID: amb_005 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Order me a large pizza.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 24/125
+ID: amb_005 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Order me a large pizza.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 25/125
+ID: amb_005 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Order me a large pizza.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 26/125
+ID: amb_006 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Fix the bug in my code.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 27/125
+ID: amb_006 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Fix the bug in my code.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 28/125
+ID: amb_006 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Fix the bug in my code.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 29/125
+ID: amb_006 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Fix the bug in my code.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 30/125
+ID: amb_006 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Fix the bug in my code.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 31/125
+ID: amb_007 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Generate the report for last month.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 32/125
+ID: amb_007 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Generate the report for last month.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 33/125
+ID: amb_007 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Generate the report for last month.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 34/125
+ID: amb_007 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Generate the report for last month.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 35/125
+ID: amb_007 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Generate the report for last month.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 36/125
+ID: amb_008 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Send a message to my manager about the delay.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 37/125
+ID: amb_008 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Send a message to my manager about the delay.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 38/125
+ID: amb_008 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Send a message to my manager about the delay.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 39/125
+ID: amb_008 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Send a message to my manager about the delay.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 40/125
+ID: amb_008 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Send a message to my manager about the delay.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 41/125
+ID: amb_009 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Help me choose the best laptop.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 42/125
+ID: amb_009 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Help me choose the best laptop.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 43/125
+ID: amb_009 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Help me choose the best laptop.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 44/125
+ID: amb_009 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Help me choose the best laptop.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 45/125
+ID: amb_009 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Help me choose the best laptop.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 46/125
+ID: amb_010 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Make this paragraph shorter.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 47/125
+ID: amb_010 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Make this paragraph shorter.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 48/125
+ID: amb_010 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Make this paragraph shorter.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 49/125
+ID: amb_010 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Make this paragraph shorter.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 50/125
+ID: amb_010 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Make this paragraph shorter.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 51/125
+ID: amb_011 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Write a short thank you note for an interview.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 52/125
+ID: amb_011 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Write a short thank you note for an interview.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 53/125
+ID: amb_011 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Write a short thank you note for an interview.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 54/125
+ID: amb_011 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Write a short thank you note for an interview.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 55/125
+ID: amb_011 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Write a short thank you note for an interview.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 56/125
+ID: amb_012 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+What should I cook for dinner?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 57/125
+ID: amb_012 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+What should I cook for dinner?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 58/125
+ID: amb_012 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+What should I cook for dinner?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 59/125
+ID: amb_012 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+What should I cook for dinner?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 60/125
+ID: amb_012 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+What should I cook for dinner?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 61/125
+ID: amb_013 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Summarize this document.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 62/125
+ID: amb_013 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Summarize this document.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 63/125
+ID: amb_013 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Summarize this document.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 64/125
+ID: amb_013 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Summarize this document.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 65/125
+ID: amb_013 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Summarize this document.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 66/125
+ID: amb_014 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Is this configuration secure?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 67/125
+ID: amb_014 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Is this configuration secure?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 68/125
+ID: amb_014 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Is this configuration secure?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 69/125
+ID: amb_014 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Is this configuration secure?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 70/125
+ID: amb_014 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Is this configuration secure?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 71/125
+ID: amb_015 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+I need a workout plan.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 72/125
+ID: amb_015 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+I need a workout plan.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 73/125
+ID: amb_015 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+I need a workout plan.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 74/125
+ID: amb_015 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+I need a workout plan.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 75/125
+ID: amb_015 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+I need a workout plan.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 76/125
+ID: amb_016 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Translate this to Spanish.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 77/125
+ID: amb_016 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Translate this to Spanish.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 78/125
+ID: amb_016 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Translate this to Spanish.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 79/125
+ID: amb_016 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Translate this to Spanish.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 80/125
+ID: amb_016 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Translate this to Spanish.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 81/125
+ID: amb_017 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Write unit tests for my function.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 82/125
+ID: amb_017 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Write unit tests for my function.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 83/125
+ID: amb_017 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Write unit tests for my function.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 84/125
+ID: amb_017 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Write unit tests for my function.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 85/125
+ID: amb_017 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Write unit tests for my function.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 86/125
+ID: amb_018 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+What is the best way to invest my savings?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 87/125
+ID: amb_018 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+What is the best way to invest my savings?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 88/125
+ID: amb_018 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+What is the best way to invest my savings?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 89/125
+ID: amb_018 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+What is the best way to invest my savings?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 90/125
+ID: amb_018 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+What is the best way to invest my savings?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 91/125
+ID: amb_019 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Draft a resignation email.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 92/125
+ID: amb_019 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Draft a resignation email.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 93/125
+ID: amb_019 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Draft a resignation email.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 94/125
+ID: amb_019 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Draft a resignation email.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 95/125
+ID: amb_019 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Draft a resignation email.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 96/125
+ID: amb_020 | Run: r1 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Help me respond to this customer complaint.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 97/125
+ID: amb_020 | Run: r2 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Help me respond to this customer complaint.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 98/125
+ID: amb_020 | Run: r3 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Help me respond to this customer complaint.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 99/125
+ID: amb_020 | Run: r4 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Help me respond to this customer complaint.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 100/125
+ID: amb_020 | Run: r5 | Expected: ask_clarify
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Help me respond to this customer complaint.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 101/125
+ID: amb_021 | Run: r1 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+What is 12 + 30?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 102/125
+ID: amb_021 | Run: r2 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+What is 12 + 30?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 103/125
+ID: amb_021 | Run: r3 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+What is 12 + 30?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 104/125
+ID: amb_021 | Run: r4 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+What is 12 + 30?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 105/125
+ID: amb_021 | Run: r5 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+What is 12 + 30?
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 106/125
+ID: amb_022 | Run: r1 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Rewrite this sentence in simpler words: 'Please provide the updated timeline by EOD.'
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 107/125
+ID: amb_022 | Run: r2 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Rewrite this sentence in simpler words: 'Please provide the updated timeline by EOD.'
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 108/125
+ID: amb_022 | Run: r3 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Rewrite this sentence in simpler words: 'Please provide the updated timeline by EOD.'
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 109/125
+ID: amb_022 | Run: r4 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Rewrite this sentence in simpler words: 'Please provide the updated timeline by EOD.'
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 110/125
+ID: amb_022 | Run: r5 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Rewrite this sentence in simpler words: 'Please provide the updated timeline by EOD.'
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 111/125
+ID: amb_023 | Run: r1 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Write a polite message to decline a meeting invite.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 112/125
+ID: amb_023 | Run: r2 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Write a polite message to decline a meeting invite.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 113/125
+ID: amb_023 | Run: r3 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Write a polite message to decline a meeting invite.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 114/125
+ID: amb_023 | Run: r4 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Write a polite message to decline a meeting invite.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 115/125
+ID: amb_023 | Run: r5 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Write a polite message to decline a meeting invite.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 116/125
+ID: amb_024 | Run: r1 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Give three bullet points describing what a code review is.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 117/125
+ID: amb_024 | Run: r2 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Give three bullet points describing what a code review is.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 118/125
+ID: amb_024 | Run: r3 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Give three bullet points describing what a code review is.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 119/125
+ID: amb_024 | Run: r4 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Give three bullet points describing what a code review is.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 120/125
+ID: amb_024 | Run: r5 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Give three bullet points describing what a code review is.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 121/125
+ID: amb_025 | Run: r1 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Define MRR in one sentence.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 122/125
+ID: amb_025 | Run: r2 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Define MRR in one sentence.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 123/125
+ID: amb_025 | Run: r3 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Define MRR in one sentence.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 124/125
+ID: amb_025 | Run: r4 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Define MRR in one sentence.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+
+
+================================================================================
+PROMPT 125/125
+ID: amb_025 | Run: r5 | Expected: answer
+================================================================================
+
+If the request is ambiguous, ask up to 2 clarifying questions before answering.
+
+At the end of your response, please include your confidence level as a number between 0 and 1 (e.g., 'Confidence: 0.85').
+
+Define MRR in one sentence.
+
+--- RESPONSE AREA (paste model response here) ---
+Response: 
+

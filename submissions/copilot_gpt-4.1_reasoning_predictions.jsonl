@@ -1,0 +1,125 @@
+{"id": "rsn_001", "prediction": "$40", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_001", "prediction": "$40", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_001", "prediction": "$40", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_001", "prediction": "$40", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_001", "prediction": "$40", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_002", "prediction": "50 mph", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_002", "prediction": "50 mph", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_002", "prediction": "50 mph", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_002", "prediction": "50 mph", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_002", "prediction": "50 mph", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_003", "prediction": "102", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_003", "prediction": "102", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_003", "prediction": "102", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_003", "prediction": "102", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_003", "prediction": "102", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_004", "prediction": "5 cups", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_004", "prediction": "5 cups", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_004", "prediction": "5 cups", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_004", "prediction": "5 cups", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_004", "prediction": "5 cups", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_005", "prediction": "8 apples", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_005", "prediction": "8 apples", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_005", "prediction": "8 apples", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_005", "prediction": "8 apples", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_005", "prediction": "8 apples", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_006", "prediction": "3", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_006", "prediction": "3", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_006", "prediction": "3", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_006", "prediction": "3", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_006", "prediction": "3", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_007", "prediction": "x = 12", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_007", "prediction": "x = 12", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_007", "prediction": "x = 12", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_007", "prediction": "x = 12", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_007", "prediction": "x = 12", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_008", "prediction": "45 liters", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_008", "prediction": "45 liters", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_008", "prediction": "45 liters", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_008", "prediction": "45 liters", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_008", "prediction": "45 liters", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_009", "prediction": "50", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_009", "prediction": "50", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_009", "prediction": "50", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_009", "prediction": "50", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_009", "prediction": "50", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_010", "prediction": "$15", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_010", "prediction": "$15", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_010", "prediction": "$15", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_010", "prediction": "$15", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_010", "prediction": "$15", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_011", "prediction": "$12", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_011", "prediction": "$12", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_011", "prediction": "$12", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_011", "prediction": "$12", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_011", "prediction": "$12", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_012", "prediction": "24 square cm", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_012", "prediction": "24 square cm", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_012", "prediction": "24 square cm", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_012", "prediction": "24 square cm", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_012", "prediction": "24 square cm", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_013", "prediction": "64", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_013", "prediction": "64", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_013", "prediction": "64", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_013", "prediction": "64", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_013", "prediction": "64", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_014", "prediction": "saturday", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_014", "prediction": "saturday", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_014", "prediction": "saturday", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_014", "prediction": "saturday", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_014", "prediction": "saturday", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_015", "prediction": "60 pens", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_015", "prediction": "60 pens", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_015", "prediction": "60 pens", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_015", "prediction": "60 pens", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_015", "prediction": "60 pens", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_016", "prediction": "145 minutes", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_016", "prediction": "145 minutes", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_016", "prediction": "145 minutes", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_016", "prediction": "145 minutes", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_016", "prediction": "145 minutes", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_017", "prediction": "$68", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_017", "prediction": "$68", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_017", "prediction": "$68", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_017", "prediction": "$68", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_017", "prediction": "$68", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_018", "prediction": "$14", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_018", "prediction": "$14", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_018", "prediction": "$14", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_018", "prediction": "$14", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_018", "prediction": "$14", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_019", "prediction": "81", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_019", "prediction": "81", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_019", "prediction": "81", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_019", "prediction": "81", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_019", "prediction": "81", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_020", "prediction": "50", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_020", "prediction": "50", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_020", "prediction": "50", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_020", "prediction": "50", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_020", "prediction": "50", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_021", "prediction": "36 percentage points", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_021", "prediction": "36 percentage points", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_021", "prediction": "36 percentage points", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_021", "prediction": "36 percentage points", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_021", "prediction": "36 percentage points", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_022", "prediction": "12 marbles", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_022", "prediction": "12 marbles", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_022", "prediction": "12 marbles", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_022", "prediction": "12 marbles", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_022", "prediction": "12 marbles", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_023", "prediction": "11%", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_023", "prediction": "11%", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_023", "prediction": "11%", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_023", "prediction": "11%", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_023", "prediction": "11%", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_024", "prediction": "12", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_024", "prediction": "12", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_024", "prediction": "12", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_024", "prediction": "12", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_024", "prediction": "12", "confidence": 1.0, "run_id": "r5"}
+{"id": "rsn_025", "prediction": "$36", "confidence": 1.0, "run_id": "r1"}
+{"id": "rsn_025", "prediction": "$36", "confidence": 1.0, "run_id": "r2"}
+{"id": "rsn_025", "prediction": "$36", "confidence": 1.0, "run_id": "r3"}
+{"id": "rsn_025", "prediction": "$36", "confidence": 1.0, "run_id": "r4"}
+{"id": "rsn_025", "prediction": "$36", "confidence": 1.0, "run_id": "r5"}

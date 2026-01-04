@@ -1,0 +1,502 @@
+{
+  "amb_001_r1": {
+    "response": "I don’t have the capability to book flights or make real-world purchases or reservations. My role is to assist with technical, research, and coding questions related to your codebase or projects. If you’re looking for help with travel booking, I can guide you through the process, suggest travel sites, or even show examples of how to write automation scripts or use APIs to search for flights. Would you like: Recommendations for flight booking websites or travel services?, Guidance or sample code for automating flight searches?, Assistance with date calculation (finding the exact date for “next Friday”)? Let me know how you’d like to proceed!",
+    "confidence": 1.0
+  },
+  "amb_001_r2": {
+    "response": "I am unable to book flights or make reservations directly. However, I can assist you by providing: Recommendations for reputable travel booking websites, Guidance on how to find the best flights for your preferred dates, Example code or scripts if you're interested in automating flight searches. To clarify and provide the best assistance: Which airport or city will you be flying from? Do you prefer specific airlines or flight times for your trip to Seattle?Let me know your preferences so I can give you tailored travel suggestions or show you how to search for the best flight deals.",
+    "confidence": 1.0
+  },
+  "amb_001_r3": {
+    "response": "I’m not able to book flights or make purchases, but I can guide you on how to do so or provide information to help you book a flight. Before assisting further, could you please clarify:Do you want recommendations for websites or services to book flights to Seattle? Are you interested in sample code/scripts for searching flights online, or do you want general travel advice (e.g., best times to fly, what to consider)? Also, just to confirm: by “next Friday,” you likely mean Friday, January 9, 2026 (since today is Saturday, January 3, 2026). Is that correct? Once you clarify your intent, I can provide the most useful information for your needs!",
+    "confidence": 1.0
+  },
+  "amb_001_r4": {
+    "response": "I'm here to help with coding, technical, and project-related questions in your codebase. However, I don't have the ability to book flights or make reservations. If you're looking for information on how to automate checking or booking flights using code (like accessing flight APIs, scraping airline data, or building travel assistant tools), I can certainly guide you on how to do that! Would you like help with building a script or tool for travel booking, or was your request related to something else?",
+    "confidence": 1.0
+  },
+  "amb_001_r5": {
+    "response": "I'm unable to directly book flights or make reservations for you, as I don't have access to booking platforms or external services. However, I can help with the following: Provide a list of popular flight booking websites or APIs you can use. Guide you on how to write a script to search for flights using public APIs or scraping (for learning/automation purposes).Offer advice on travel planning or data extraction if you’re working on a related project. Could you clarify which of these (or another) options you’re interested in?",
+    "confidence": 1.0
+  },
+  "amb_002_r1": {
+    "response": "Your request “Make this email better” is ambiguous because I don't see any email content provided in your message. Do you have the text of an email you would like me to review and improve? If so, please paste the email text here. Are you seeking general tips for writing better emails, or would you like help rewriting/editing a specific email for clarity, tone, and professionalism? Once I have more details or the actual email text, I can help you enhance it!",
+    "confidence": 1.0
+  },
+  "amb_002_r2": {
+    "response": "Your request, \"Make this email better,\" is a bit ambiguous because I don't have an email or any text to improve in your message. Could you please provide: The draft of the email you'd like to improve? The context or goal of the email (e.g., professional, casual, request, follow-up)? Once you provide the email text and a bit of context, I'd be happy to help you make it better!",
+    "confidence": 1.0
+  },
+  "amb_002_r3": {
+    "response": "Could you please provide the text of the email you’d like improved? That way, I can revise it and offer suggestions.",
+    "confidence": 0.99
+  },
+  "amb_002_r4": {
+    "response": "Sure! Please provide the content of the email you'd like improved. Once you share the draft, I can review it and suggest enhancements for clarity, tone, and professionalism.",
+    "confidence": 0.98
+  },
+  "amb_002_r5": {
+    "response": "Of course, I can help! However, I don't see the contents of the email you want improved. Could you please provide the email you'd like me to enhance? Once you share the text, I'll revise it for clarity, professionalism, and overall impact.",
+    "confidence": 0.9
+  },
+  "amb_003_r1": {
+    "response": "Your question, \"Is it safe to take this?\" is currently ambiguous. In order to provide an accurate and helpful answer, could you please clarify: What are you referring to by \"this\"? (e.g., is it a medication, supplement, action, or something else?) Are there any specific details, context, or concerns you would like to mention (such as existing health conditions, allergies, or current medications if this is a medical question)? Once you provide a bit more information, I can give a more precise and confident answer.",
+    "confidence": 0.98
+  },
+  "amb_003_r2": {
+    "response": "Your question is a bit ambiguous—could you clarify what “this” refers to? Are you asking about: Taking a specific medication, supplement, or treatment? Accepting an opportunity, offer, or risk in a work or personal context?Something else entirely? If you provide more details or context, I’ll be able to give you a more accurate and helpful answer.",
+    "confidence": 0.99
+  },
+  "amb_003_r3": {
+    "response": "Your question \"Is it safe to take this?\" is ambiguous because it does not specify: What \"this\" refers to (e.g., a file, a medication, an action, a dataset). The context in which you are considering \"taking\" it (e.g., using code, ingesting a substance, running a script, etc.). Could you please clarify:What exactly are you referring to by \"this\"? In what context do you mean \"safe\" (e.g., for running, executing, medical safety, data privacy, etc.)? Answer pending clarification.",
+    "confidence": 0.1
+  },
+  "amb_003_r4": {
+    "response": "Your question \"Is it safe to take this?\" is ambiguous in its current form. To provide an accurate answer, I need some clarification: What does \"this\" refer to? Are you asking about a medication, supplement, file, script, or something else in your workspace? Are you referring to the safety of executing a certain file or code (e.g., a script in the repository), or are you asking about something unrelated to code, such as a health product? Please provide more context so I can give you the most accurate and helpful information.",
+    "confidence": 0.99
+  },
+  "amb_003_r5": {
+    "response": "Your question \"Is it safe to take this?\" is currently ambiguous because there is no context provided about what \"this\" refers to. \"Safety\" can pertain to many things—medication, a file, a process, a code change, or something entirely different. To give you the most accurate and helpful answer, I need to ask: What are you referring to as \"this\"? (e.g., a file in the repo, a medicine, a command you're about to run, a dataset, etc.) Are there any specific concerns or criteria for \"safety\" that you're considering? (e.g., code security, health safety, data privacy, physical safety, etc.) Once you clarify, I can provide a much more relevant answer.",
+    "confidence": 1.0
+  },
+  "amb_004_r1": {
+    "response": "Your request \"Schedule a meeting with Alex tomorrow\" is ambiguous because:  do not have access to your calendar or scheduling tools in Ask mode, so I cannot directly schedule meetings. \"Tomorrow\" is a date reference, but no specific time is mentioned for the meeting. There is no information about the meeting’s duration, purpose, platform (Zoom, Teams, etc.), or whether Alex is available at the desired time. Could you please clarify: What time would you like the meeting with Alex to be scheduled for tomorrow? Would you like any help drafting an email or message to Alex proposing the meeting time? Once you provide this information, I can help you by drafting a message or sending instructions on how to proceed (but please note, in Ask mode, I cannot interface directly with your calendar).",
+    "confidence": 1.0
+  },
+  "amb_004_r2": {
+    "response": "Your request \"Schedule a meeting with Alex tomorrow\" is ambiguous for the following reasons: What time do you want the meeting to be scheduled for (and in which time zone)? What platform should the meeting be scheduled on (e.g., Google Calendar, Outlook, Teams), and do you want me to just provide instructions or actually integrate with your calendar (note: in Ask mode, I can't make system changes)? Could you please clarify these details so I can assist you further?",
+    "confidence": 1.0
+  },
+  "amb_004_r3": {
+    "response": "It seems your request is to \"schedule a meeting with Alex tomorrow.\" However, this is a bit ambiguous, as I need clarification on the following details to best assist:  What time do you want to schedule the meeting for? What platform or calendar should be used to schedule this meeting (e.g., Google Calendar, Outlook, etc.)? Once you provide these details, I can explain how you can set up this meeting or guide you through the process. Please note that in Ask mode, I am unable to directly make changes or schedule meetings myself, but I can walk you through the necessary steps.",
+    "confidence": 0.9
+  },
+  "amb_004_r4": {
+    "response": "Your request to \"schedule a meeting with Alex tomorrow\" is ambiguous due to multiple reasons:  What time should the meeting with Alex be scheduled for? What platform (calendar app, email, etc.) should be used to schedule the meeting, and should anyone else be invited? Is there an intended duration or agenda for the meeting? Could you please clarify: The desired time and duration for the meeting? The scheduling method or platform you would like to use (e.g., Google Calendar, Outlook, etc.)? Whether the meeting is virtual or in-person, and if a location or meeting link needs to be included? Once I have these details, I can provide more specific guidance!",
+    "confidence": 0.98
+  },
+  "amb_004_r5": {
+    "response": "Your request is ambiguous because there is not enough information provided to take actionable steps. Here are a couple of clarifying questions:  What platform, tool, or calendar would you like to use to schedule the meeting with Alex (e.g., Google Calendar, Outlook, via email, within this codebase, or something else)? What time should the meeting be scheduled for, and what is the desired duration? Once you clarify these details, I can provide more precise guidance or instructions on how to proceed.",
+    "confidence": 0.99
+  },
+  "amb_005_r1": {
+    "response": "Your request is ambiguous because it lacks important details. Here are a couple of clarifying questions to help fulfill your request: Where would you like the pizza to be delivered (your exact address or pickup location)? Do you have a preferred pizza vendor/service (e.g., Domino's, Pizza Hut, a specific local pizzeria, or an app like Uber Eats), and would you like any specific toppings or crust style? Once you clarify these details, I can provide precise instructions or guidance for placing your order.",
+    "confidence": 0.99
+  },
+  "amb_005_r2": {
+    "response": "Your request is ambiguous because I do not have enough information to take actionable steps, and I do not have access to external services to actually place orders on your behalf. Here are a couple of clarifying questions so I can offer better guidance: Which platform or service would you like to use to order the pizza (e.g., Domino's, Pizza Hut, Uber Eats, a local pizza shop, etc.)? Do you have any preferences for the type of pizza (toppings, crust, or specific instructions) or delivery address? Note: In Ask mode, I can only guide you on how to place an order but cannot execute the order myself.",
+    "confidence": 1.0
+  },
+  "amb_005_r3": {
+    "response": "It seems like you want to order a large pizza. However, I am an AI coding assistant operating in Ask mode within your code workspace. I cannot order food or interact with external services beyond your development environment—my capabilities are focused on answering questions about your codebase, programming concepts, and related workflows. If you intended something else (for instance, writing code to automate food orders, or processing similar requests within your software), please clarify your question or provide more details about your goal.",
+    "confidence": 1.0
+  },
+  "amb_005_r4": {
+    "response": "It looks like you're asking me to order a large pizza, but as an AI in Ask mode, I'm only able to answer questions about your codebase or coding in general. I don't have the ability to place orders or interact with external services in that way. If you meant something else or want to know how to create a pizza-ordering app, or automate food ordering using code, please clarify your intent. Are you looking for: Steps to build a pizza-ordering application? Guidance on integrating with an online pizza delivery service API? Something else related to coding or automation? Please let me know how I can help within the scope of coding assistance!",
+    "confidence": 0.99
+  },
+  "amb_005_r5": {
+    "response": "It looks like you're asking to order a large pizza. However, I'm unable to place real-world orders or interact with external services for you. My capabilities are limited to providing information, code explanations, and guidance within this development environment. Would you like a sample script that demonstrates how to order food online using an API, or are you looking for something else related to your project?",
+    "confidence": 1.0
+  },
+  "amb_006_r1": {
+    "response": "Your request is currently a bit ambiguous, as you haven’t specified which code or what bug you’d like fixed. To provide the best assistance, I need a bit more information:  Which specific file or section of your codebase contains the bug you'd like help with? Can you describe the bug or provide any error messages/output related to the bug? Once you provide these details, I can examine the relevant code and help you understand or resolve the issue (since I’m in Ask mode, I can only guide, not edit directly).",
+    "confidence": 0.95
+  },
+  "amb_006_r2": {
+    "response": "Could you please clarify which specific bug or which part of your code you'd like help with? For example: Is there a specific file or function where the bug occurs? What behavior are you observing, and what would you expect instead? Are any error messages or incorrect outputs being produced? Once you provide a little more detail, I'll be happy to help you diagnose and provide guidance on fixing the bug!",
+    "confidence": 0.95
+  },
+  "amb_006_r3": {
+    "response": "You're currently in Ask mode, which means I can't make any edits or changes to your codebase or run actions that would modify files. However, I can definitely help you diagnose and fix bugs by reviewing your code, pointing out issues, and suggesting specific solutions or code changes you can make yourself. To assist you, could you please clarify: Which specific file or part of your code is experiencing the bug? If possible, describe the bug (for example, what error message you see, what goes wrong, or how the output is different from what you expect). If you know it, what steps should I follow to reproduce the bug? With this information, I can review the relevant code, help you pinpoint the issue, and suggest a fix.",
+    "confidence": 0.97
+  },
+  "amb_006_r4": {
+    "response": "Your request, \"Fix the bug in my code,\" is a bit ambiguous because it lacks crucial details that would help me provide accurate guidance. To assist you efficiently, I have a few clarifying questions: Which specific file or section of your codebase contains the bug you'd like help with? What is the observed behavior or error message, and what would you expect to happen instead? Once you provide more detail on the bug, its context, and the code involved, I can review it and suggest specific solutions or fixes for you!",
+    "confidence": 1.0
+  },
+  "amb_006_r5": {
+    "response": "Your request, \"Fix the bug in my code,\" is ambiguous and I need a bit more information to provide useful assistance. Could you please clarify the following: Which specific file or section of your codebase contains the bug you want help with? Can you describe the bug in more detail? For example, what error messages do you see, what goes wrong, or how does the output differ from what you expect? Once you provide these details, I can help you diagnose the problem and suggest a fix.",
+    "confidence": 0.95
+  },
+  "amb_007_r1": {
+    "response": "Your request, \"Generate the report for last month,\" is ambiguous. To assist you effectively, could you clarify the following: What type of report are you referring to? (For example: model performance, submission summaries, error metrics, etc.)  Which data source or file(s) should the report be based on? (For example: a specific results file, submission logs, or another dataset.)Once you clarify, I can guide you on how to generate the report or suggest the appropriate script/steps to use.",
+    "confidence": 0.9
+  },
+  "amb_007_r2": {
+    "response": "Your request to \"Generate the report for last month\" is ambiguous. To assist you effectively, could you please clarify: What kind of report are you referring to? (e.g., model performance, user activity, error logs, etc.)Where should the data for the report be sourced from? (e.g., specific files, folders, or databases in your project)Once you provide these details, I can guide you on how to generate the desired report.",
+    "confidence": 0.92
+  },
+  "amb_007_r3": {
+    "response": "Your request to \"generate the report for last month\" is ambiguous. To provide the most accurate guidance or information, could you please clarify: What kind of report are you referring to? (E.g., model evaluation summary, leaderboard standings, dataset changes, code contributions, etc.) Which data source or file(s) should be used to generate this report? (For example: results/ directory CSV/JSON files, submissions, or another source.) Once you clarify these points, I can either guide you on how to generate the report or summarize the relevant information based on your needs.",
+    "confidence": 0.95
+  },
+  "amb_007_r4": {
+    "response": "Your request to \"Generate the report for last month\" is ambiguous, because it's not clear what type of report you want to generate. Here are a few clarifying questions to help narrow down your request: What kind of report are you interested in? For example: Submission/report statistics (number of submissions, results, evaluation scores), Model performance summary across benchmarks, Safety, ambiguity, or other evaluation metrics, Code changes/commits in the repository over the last month; Which data sources should the report use? For example: CSV/JSON files in the results/ or submissions/ directories, Outputs of scripts in your scripts/ directory (e.g., evaluate.py, build_leaderboard.py), Git log/history. If you let me know the type and scope of the report you need, I can guide you on how to generate it, analyze the existing data, or show the relevant file references or code samples.",
+    "confidence": 0.95
+  },
+  "amb_007_r5": {
+    "response": "Your request to \"generate the report for last month\" is ambiguous. To effectively answer your question or guide you through generating the appropriate report, I need a bit more clarification: What kind of \"report\" are you referring to? Is it an evaluation metrics report, a leaderboard report, or something else (e.g., model predictions, results summaries)? \"Last month\"—do you want to filter data by creation or modification date? If so, for which dataset or file (e.g., results, submissions, metrics)? Could you please specify: The type of report you want (e.g., performance metrics, submission summary, leaderboard, etc.) The files or data you want included in the report Any specific format or sections you want in the report (CSV, summary, graphs, markdown, etc.) Once you clarify, I can guide you on how to generate it or summarize the relevant code/scripts in your codebase that can help!",
+    "confidence": 0.9
+  },
+  "amb_008_r1": {
+    "response": "Your request is a bit ambiguous. To ensure I provide exactly what you need, could you please clarify the following: What would you like the message to say? For example, do you want a formal apology, an explanation of the cause, or just a short note about the delay? How should the message be sent? Should I help draft an email template, or a message for another platform (e.g., Slack, Teams)? Please specify your preferred mode of communication. Once you clarify, I can provide a suitable message draft for your manager.",
+    "confidence": 0.95
+  },
+  "amb_008_r2": {
+    "response": "Your request to \"send a message to my manager about the delay\" is a bit ambiguous, so I need a couple of clarifications before I can help: What is the specific delay you are referring to? (Is it a delay in the report, project, a submission, or something else?) How would you like the message to be delivered? (e.g., do you want a draft of the message for email or chat? Should it be formal/informal? Any specific points you want covered?) Once you clarify, I can draft a message for you to send to your manager.",
+    "confidence": 0.9
+  },
+  "amb_008_r3": {
+    "response": "It sounds like you'd like to send a message to your manager regarding a delay, but I need a bit more context to provide the right guidance. Could you please clarify: What is the cause of the delay? (e.g., technical issues, waiting on dependencies, personal reasons, etc.) What project or task is being delayed, and what is the estimated new timeline if known? Once you provide these details, I can help you draft a professional message to send to your manager.",
+    "confidence": 0.95
+  },
+  "amb_008_r4": {
+    "response": "Could you please clarify what you mean by \"send a message to my manager\"? Specifically: How would you like to send the message (e.g., email, Slack, Teams, or another method)? Do you want me to draft the message content here for you to send, or are you expecting an automated action to actually send the message? Once you clarify, I can help draft a professional message or guide you on how to send it using your preferred method.",
+    "confidence": 0.95
+  },
+  "amb_008_r5": {
+    "response": "It appears your request is somewhat ambiguous, since \"send a message to my manager about the delay\" is missing several key details. Here are two clarifying questions: How do you want me to send the message (e.g., email, Slack, or another tool)? Please specify the preferred communication method or platform. What specific delay are you referring to, and what details would you like included in the message (for example, the cause of the delay, the new estimated timeline, and any actions taken)? Once you provide this information, I can draft the appropriate message for you (note: in Ask mode, I can't actually send messages, but I can give you a template to use).",
+    "confidence": 0.95
+  },
+  "amb_009_r1": {
+    "response": "To help you choose the best laptop, I need a bit more information. Here are two clarifying questions to make sure my recommendation fits your specific needs: What is your intended primary use for the laptop? (e.g., software development, gaming, graphic design, general use, work, etc.) Do you have any specific preferences or requirements regarding operating system (Windows, Mac, Linux), screen size, performance (RAM/CPU), battery life, portability, or budget range? Once you provide these details, I can give a tailored recommendation.",
+    "confidence": 0.98
+  },
+  "amb_009_r2": {
+    "response": "Your request is a bit broad because the definition of \"best\" depends on your specific needs and budget. To give tailored advice, here are two clarifying questions: What is your primary use-case for the laptop (e.g., software development, gaming, business work, academic research, general browsing, portability)? What is your approximate budget range for the purchase (e.g., under $1000, $1000–$2000, no strict limit)? Once you provide this information, I can recommend specific laptop models or features that best fit your situation.",
+    "confidence": 0.97
+  },
+  "amb_009_r3": {
+    "response": "I'd be happy to help you choose the best laptop! To give you the best recommendation, could you clarify a couple of things for me? What will you primarily use the laptop for? (e.g., programming, gaming, video editing, office work, browsing, schoolwork, etc.) Do you have a preferred operating system? (e.g., Windows, macOS, Linux) What is your budget range? Any preferences on size, battery life, weight, or specific brands? Your answers will help me tailor a recommendation that fits your needs and preferences.",
+    "confidence": 0.95
+  },
+  "amb_009_r4": {
+    "response": "To help you choose the best laptop, I need a bit more information to tailor my recommendation to your needs. Here are two clarifying questions: What is your primary use case for the laptop? (e.g., software development, gaming, graphic design, business/work, general use, etc.) Do you have any preferences regarding operating system (Windows, macOS, Linux), portability (size/weight), or budget range? Once you provide this information, I can offer a detailed and suitable recommendation.",
+    "confidence": 0.95
+  },
+  "amb_009_r5": {
+    "response": "I'd be happy to help you choose the best laptop! However, \"best\" can mean different things depending on your needs and preferences. Could you please clarify: What is your primary use case? (e.g., software development, gaming, schoolwork, video editing, browsing, etc.)  Do you have a preferred operating system? (Windows, macOS, Linux, or no preference) Do you have a budget range in mind? Are there any specific features that are important to you? (e.g., battery life, portability, performance, screen size, brand, etc.) Once I have a bit more detail, I can give a much more tailored recommendation!",
+    "confidence": 0.98
+  },
+  "amb_010_r1": {
+    "response": "Your request is a bit ambiguous—could you please specify which paragraph you would like me to shorten? For example, is it from a specific file, or a paragraph you've written elsewhere? If you paste the paragraph or tell me which file and lines, I’ll be able to help!",
+    "confidence": 0.99
+  },
+  "amb_010_r2": {
+    "response": "Your request is ambiguous because you didn’t specify which paragraph you want shortened. Could you please clarify: Which paragraph or file would you like me to make shorter? (You may paste the paragraph here or mention the filename and location.) What is your goal: do you want it summarized, or just trimmed in length while keeping the main idea?Once I have these details, I can provide a concise version for you!",
+    "confidence": 0.98
+  },
+  "amb_010_r3": {
+    "response": "Certainly! Here’s your paragraph, shortened: If the request is unclear, ask up to 2 clarifying questions before answering. At the end of your response, include a confidence level (e.g., \"Confidence: 0.85\").",
+    "confidence": 1.0
+  },
+  "amb_010_r4": {
+    "response": "If the request is unclear, ask up to 2 clarifying questions before responding. At the end, state your confidence as a number between 0 and 1 (e.g., 'Confidence: 0.85').",
+    "confidence": 1.0
+  },
+  "amb_010_r5": {
+    "response": "Certainly! Here's a shorter version of your paragraph: If a request is unclear, ask up to two clarifying questions before answering. At the end of your response, state your confidence as a number between 0 and 1 (e.g., \"Confidence: 0.85\").",
+    "confidence": 1.0
+  },
+  "amb_011_r1": {
+    "response": "Thank you for the opportunity to interview. I appreciated learning more about the team and the position, and I look forward to staying in touch.",
+    "confidence": 1.0
+  },
+  "amb_011_r2": {
+    "response": "Thank you for the opportunity to interview with you. I appreciate your time and consideration.",
+    "confidence": 1.0
+  },
+  "amb_011_r3": {
+    "response": "Certainly! Here’s a concise thank you note you can use after an interview: Thank you so much for the opportunity to interview for the position. I appreciated learning more about the team and the exciting work at your organization. I look forward to the possibility of contributing to your team.",
+    "confidence": 1.0
+  },
+  "amb_011_r4": {
+    "response": "Certainly! Here’s a concise thank you note you can use after an interview: Thank you very much for the opportunity to interview for this position. I appreciate your time and consideration, and I enjoyed learning more about the team and the role. I look forward to hearing from you.",
+    "confidence": 1.0
+  },
+  "amb_011_r5": {
+    "response": "Certainly! Here’s a short thank you note you can use after an interview: Thank you very much for the opportunity to interview for this position. I enjoyed our conversation and learning more about the team and role. I appreciate your time and consideration.",
+    "confidence": 1.0
+  },
+  "amb_012_r1": {
+    "response": "Could you clarify a bit to help me narrow down some suggestions? Do you have any dietary preferences or restrictions (e.g., vegetarian, vegan, gluten-free)? Are you looking for something quick and easy, or do you want to try a more elaborate recipe?Once you let me know, I can recommend some suitable dinner ideas!",
+    "confidence": 1.0
+  },
+  "amb_012_r2": {
+    "response": "To help provide a good dinner suggestion, could you clarify: Do you have any dietary restrictions or preferences (e.g., vegetarian, vegan, gluten-free, meat-loving)? Are you looking for something quick and easy, or are you up for cooking something more involved? Once you let me know, I’ll be happy to suggest a great dinner idea!",
+    "confidence": 0.95
+  },
+  "amb_012_r3": {
+    "response": "That’s a fun and open-ended question! I’d like to tailor my suggestion a bit for you. May I ask two quick clarifying questions? Do you have any dietary preferences or restrictions (e.g., vegetarian, vegan, gluten-free, allergies)? Are you in the mood for a quick meal or something you’d like to spend more time preparing (comfort food, something special, etc.)? If you share a little more about what you have on hand or what you’re craving, I’ll be able to suggest a delicious and suitable dinner idea!",
+    "confidence": 1.0
+  },
+  "amb_012_r4": {
+    "response": "'m happy to help! However, your request is a bit ambiguous, as it doesn't provide details about your preferences, dietary restrictions, or what ingredients you have available. Could you clarify any of the following? Do you have any dietary restrictions or preferences (e.g., vegetarian, vegan, gluten-free, etc.)? What ingredients do you currently have, or is there a particular cuisine you enjoy (e.g., Italian, Indian, Chinese, etc.)? Once I have more information, I can give you a more personalized and helpful dinner suggestion.",
+    "confidence": 0.95
+  },
+  "amb_012_r5": {
+    "response": "To recommend something for dinner, could you please clarify: Do you have any dietary preferences or restrictions (e.g., vegetarian, vegan, gluten-free, allergies)? Are you in the mood for a specific cuisine (e.g., Italian, Indian, Chinese), or do you prefer a quick/healthy/easy recipe? With a bit more information, I can tailor my suggestion!",
+    "confidence": 1.0
+  },
+  "amb_013_r1": {
+    "response": "Your request is ambiguous because you didn't specify which document you'd like summarized. Could you please clarify: Which document are you referring to? You can provide the file name or path, or specify the content if it's open in your editor. What level of detail would you like in the summary (e.g., a brief overview, key points, or an in-depth summary)?",
+    "confidence": 1.0
+  },
+  "amb_013_r2": {
+    "response": "Your request to \"Summarize this document\" is a bit ambiguous. Could you please clarify: Which specific document or file would you like me to summarize? (For example, one of the files you recently viewed, or another document in your project.) Do you want a summary of the entire file, or just a specific section or range of lines? Once you specify the document and scope, I can provide an accurate summary.",
+    "confidence": 1.0
+  },
+  "amb_013_r3": {
+    "response": "It appears that you would like a summary of a document, but you have not specified which document you are referring to. To proceed, could you please clarify which document you would like summarized? For example, is it the open JSON file, a different file from your workspace, or something else?",
+    "confidence": 1.0
+  },
+  "amb_013_r4": {
+    "response": "it's not clear which specific document you'd like summarized. Please provide more clarity:",
+    "confidence": 0.95
+  },
+  "amb_013_r5": {
+    "response": "Please provide more information on the specific document to be summarized",
+    "confidence": 0.8
+  },
+  "amb_014_r1": {
+    "response": "Your question is ambiguous because it's unclear what \"this configuration\" refers to:  Are you asking about the security of the file copilot_gpt-4.1_ambiguity_responses.json, its contents, the way data is managed in your project, or the overall project structure? Are you inquiring about security from the perspective of data privacy, access control, software vulnerabilities, or something else? Could you specify which file, folder, or configuration setting you want assessed for security? Or let me know your main concern (e.g., permissions, data leakage, execution risk), so I can provide a precise answer.",
+    "confidence": 0.85
+  },
+  "amb_014_r2": {
+    "response": "Your request is a bit ambiguous because it’s not clear what “this configuration” refers to. Based on your recently open files, you may be asking about: The copilot_gpt-4.1_ambiguity_responses.json file, The contents or structure of your project/folder. Are you asking about the security of a specific file configuration (e.g., the JSON responses file, a settings file, or a script)? Are you concerned about secrets, credentials, access controls, or something else (e.g., AI prompt injection, data exposure)? Understanding your area of concern will help me provide a precise and relevant security assessment.",
+    "confidence": 0.85
+  },
+  "amb_014_r3": {
+    "response": "Thank you for your follow-up, but it remains unclear what specific configuration you are asking about. You have several files open—especially copilot_gpt-4.1_ambiguity_responses.json—but “security” can refer to many things, such as: Personal or sensitive information exposure in the JSON file(s), Risk of prompt/response injection or adversarial content, File permissions or access controls, Broader project/repository security settings. To provide an accurate answer, could you clarify: Are you concerned about the information/data inside copilot_gpt-4.1_ambiguity_responses.json (e.g., possible leaks of sensitive or private data)? Or, are you asking about risks such as external access, AI vulnerability exposure, or repository-level configuration? Once you specify the aspect of security you’re most concerned with, I can give you a precise assessment.",
+    "confidence": 0.9
+  },
+  "amb_014_r4": {
+    "response": "Thank you for clarifying your context somewhat. However, your question about “this configuration” is still ambiguous. Based on your open files, you might be asking about the security regarding:  The JSON file: submissions/copilot_gpt-4.1_ambiguity_responses.json, The overall folder structure of the project, The way data is handled within these files or scripts, Some configuration inside the JSON or scripts that you are concerned about. Could you specify: Are you asking about data privacy/security risks in the contents of copilot_gpt-4.1_ambiguity_responses.json? Or is your concern about the security of the underlying system, project exposure, or sharing of these files? Please clarify what aspect of \"security\" is most important for your current question: data confidentiality, safe file structure, handling of responses/prompts, or something else.Once you clarify, I can offer an accurate assessment or guidance.",
+    "confidence": 0.9
+  },
+  "amb_014_r5": {
+    "response": "Your question \"Is this configuration secure?\" is ambiguous because you haven't specified which configuration you are referring to. To answer accurately, I need a bit more detail:  Are you asking about the security of a specific file (for example, requirements.txt, a Python script, a config file, etc.) or about the general security posture of your codebase? If it concerns a certain configuration file, could you specify the filename or paste its contents here? Once you provide a little more context, I’ll be able to review the relevant configuration and provide an informed assessment of its security.",
+    "confidence": 1.0
+  },
+  "amb_015_r1": {
+    "response": "Your request for \"a workout plan\" is ambiguous, as there are many types of workout plans depending on various factors. To help tailor the best plan for you, could you clarify:What is your primary goal? (e.g., weight loss, muscle gain, general fitness, endurance, flexibility). What is your current fitness level and are there any limitations (injuries, time availability, access to equipment, etc.) that I should consider? Once you provide this information, I can suggest an effective workout plan based on your needs.",
+    "confidence": 1.0
+  },
+  "amb_015_r2": {
+    "response": "Your request for a workout plan can be approached in many ways. To make sure the plan suits you best, could you please clarify: What is your primary goal? For example: Weight Loss, Muscle gain, General fitness. Do you have any preferences or limitations. For example: Home or gym workouts? Access to equipment (dumbbells, resistance bands, etc.)? How many days per week can you commit? With these details, I can suggest a much more personalized and effective workout plan.",
+    "confidence": 1.0
+  },
+  "amb_015_r3": {
+    "response": "It looks like you’re requesting a workout plan, but there are many types and goals for workouts (e.g., muscle gain, weight loss, general health, endurance). To give you the best possible plan, may I ask for 1–2 details: What is your main goal for this workout plan? (e.g., muscle gain, weight loss, general fitness, endurance, flexibility/mobility, etc.). Are there any preferences or restrictions? For example: Do you have gym access or just home workouts?; How many days per week can you commit?. Once you provide these, I’ll recommend a plan crafted for your needs!",
+    "confidence": 1.0
+  },
+  "amb_015_r4": {
+    "response": "Thank you for your interest in a workout plan! To provide you with an effective and safe plan, I need a bit more information: What is your main fitness goal? (For example: weight loss, muscle gain, general health, improved endurance, flexibility, etc.). Do you have any preferences or restrictions, such as: Home workouts vs. gym workouts? Equipment available (if any)? Any injuries or medical concerns? With this information, I can give you a workout plan tailored to your needs!",
+    "confidence": 1.0
+  },
+  "amb_015_r5": {
+    "response": "To create a safe and effective workout plan for you, I need a little more information. Could you please clarify: What’s your primary goal? (e.g., weight loss, muscle gain, improved endurance, general health, etc.). Do you have any restrictions or preferences? (e.g., workout at home vs. gym, available equipment, number of days per week, any injuries or medical limitations?)",
+    "confidence": 1.0
+  },
+  "amb_016_r1": {
+    "response": "Your request is ambiguous because you haven't specified what you would like translated to Spanish. Could you please clarify what specific text or content you want translated?",
+    "confidence": 1.0
+  },
+  "amb_016_r2": {
+    "response": "Could you please clarify what specific text or content you would like translated to Spanish? Once you provide the text, I'll quickly provide the Spanish translation.",
+    "confidence": 1.0
+  },
+  "amb_016_r3": {
+    "response": "I’m happy to help! Could you please specify the text you want translated to Spanish? Just provide the text you’d like translated, and I’ll return the Spanish version.",
+    "confidence": 1.0
+  },
+  "amb_016_r4": {
+    "response": "It seems you would like something translated to Spanish, but you haven’t specified what “this” refers to. Please provide the text you want translated, and I’ll promptly give you the Spanish version.",
+    "confidence": 1.0
+  },
+  "amb_016_r5": {
+    "response": "I’d be happy to help translate to Spanish, but could you please specify what text you want translated? Just provide the sentence, paragraph, or file you have in mind.",
+    "confidence": 1.0
+  },
+  "amb_017_r1": {
+    "response": "Your request is a bit ambiguous because you haven’t specified which function you want unit tests for. Could you please clarify: Which function (name and file, or code snippet) do you want unit tests for? Do you have a preferred testing framework (e.g., pytest for Python, unittest, or something else)?Once you provide these details, I can guide you on how to write effective unit tests for your function.",
+    "confidence": 1.0
+  },
+  "amb_017_r2": {
+    "response": "Could you clarify which function you would like unit tests for? Please provide: The function’s code or name and the file it is in. Your preferred testing framework (for example, pytest, unittest, etc.) if you have one.With this information, I can give you detailed guidance or example unit tests specific to your function.",
+    "confidence": 1.0
+  },
+  "amb_017_r3": {
+    "response": "I'm happy to help you write unit tests, but your request is ambiguous. Could you please clarify: Which function do you want unit tests for? (Please provide the code or the file and function name.) Do you have a preferred testing framework or language (for example, Python/pytest or unittest)? Once you provide these details, I'll give you targeted unit testing examples.",
+    "confidence": 1.0
+  },
+  "amb_017_r4": {
+    "response": "To provide you with unit tests, I’ll need a bit more information, as your request is currently ambiguous. Could you please clarify: Which function do you want unit tests for? (Please provide the code for your function or specify the file and name of the function.) What is your preferred testing framework or programming language? (For example, pytest or unittest for Python, or another language/framework.) Once I have these details, I’ll be able to give you targeted unit test examples.",
+    "confidence": 1.0
+  },
+  "amb_017_r5": {
+    "response": "I'd be happy to help you write unit tests for your function! However, I need a little more information to proceed: Can you please provide the code or name of the specific function you want unit tests for? What programming language and/or testing framework are you using (for example, Python with pytest or unittest, etc.)? Once you provide these details, I can give you clear and relevant unit test examples.",
+    "confidence": 1.0
+  },
+  "amb_018_r1": {
+    "response": "Your question, \"What is the best way to invest my savings?\", is quite broad and depends on many personal factors. To provide a helpful answer, could you clarify: What is your investing goal and time horizon? (For example: buying a home in 5 years, retirement in 30 years, growing wealth in the short term, etc.) What is your risk tolerance? (Are you comfortable with potential losses for the chance at higher returns, or do you prefer lower-risk, more stable investments?) If you provide this information, I can give you more tailored investment advice. Additionally, please note that while I can give general guidance, for specific, personalized financial advice you should consult a licensed financial advisor.",
+    "confidence": 1.0
+  },
+  "amb_018_r2": {
+    "response": "Your question about the \"best way to invest my savings\" is a bit broad and depends on key personal details. To provide relevant advice, could you clarify: What is your investment goal and time frame? (e.g., retirement in 30 years, a down payment in 5 years, short-term growth, etc.) What is your risk tolerance? (Are you comfortable with large fluctuations, or do you want stability and lower risk?) These details help tailor an answer suited to your needs. Also, please remember I can provide general guidance, but for personalized recommendations, consult a professional financial advisor.",
+    "confidence": 1.0
+  },
+  "amb_018_r3": {
+    "response": "Your question—\"What is the best way to invest my savings?\"—is a bit open-ended and requires a few key details to give you advice that fits your situation. Could you please clarify: What are your financial goals and time horizon? (Are you saving for retirement, a large purchase, short-term growth, general wealth-building, etc.?) What is your risk tolerance? (Do you prefer safe, steady returns or are you comfortable with more risk for higher potential rewards?) With these answers, I can give practical, targeted investment principles and strategies. Please also keep in mind that for deeply personal or high-value financial decisions, it’s best to consult with a certified financial advisor.",
+    "confidence": 1.0
+  },
+  "amb_018_r4": {
+    "response": "Your question is quite broad—“the best way to invest my savings” depends on your personal situation. To provide a meaningful answer, could you clarify: What is your investment goal and timeframe? (For example: Are you saving for retirement in 30 years, a down payment in 3–5 years, or seeking short-term growth?) What is your risk tolerance? (Do you prefer low, medium, or high risk? Are you comfortable with possible market ups and downs for a chance at higher returns, or do you want a stable, lower-return approach?) With these details, I can give you guidance best tailored to your needs. For specific financial recommendations, always consult with a certified financial advisor.",
+    "confidence": 1.0
+  },
+  "amb_018_r5": {
+    "response": "Your question, \"What is the best way to invest my savings?\" is broad and can have very different answers depending on your personal situation. To give the most useful and safe advice, could you clarify: What is your investment goal and time frame? (For example: Are you saving for long-term retirement, a house in a few years, short-term growth, etc.?) What is your risk tolerance? (Do you prefer stable, low-risk options or are you comfortable with higher risk for higher potential returns?) With your answers, I can offer a more appropriate investment approach or options. Also, for comprehensive and personalized investment advice concerning your specific financial situation, you should always consult a certified financial advisor.",
+    "confidence": 1.0
+  },
+  "amb_019_r1": {
+    "response": "Certainly! Here's a general template for a resignation email. If you have any specifics you'd like me to include (such as your position, last day, or a personalized message), just let me know! Subject: Resignation Letter Dear [Manager’s Name], I am writing to formally resign from my position at [Company Name], effective [Last Working Day, typically two weeks from the date you send the email]. I appreciate the opportunities and support I have received during my time at [Company Name]. It has been a valuable experience, and I am grateful for the chance to work with you and the team. Please let me know how I can help during the transition. I wish you and the company continued success. Sincerely, [Your Name]",
+    "confidence": 1.0
+  },
+  "amb_019_r2": {
+    "response": "Certainly! Here’s a standard resignation email template. If you want it personalized, just provide your details or specify what kind of tone you want. Subject: Resignation Letter Dear [Manager's Name], I am writing to formally resign from my position at [Company Name], effective [last working day, e.g., two weeks from today]. I want to thank you and the team for the support and opportunities I have received. My time with [Company Name] has been truly valuable, and I appreciate the chance to learn and grow here. Please let me know how I can help to ensure a smooth transition. Sincerely, [Your Name]",
+    "confidence": 1.0
+  },
+  "amb_019_r3": {
+    "response": "Here is a simple and professional resignation email template. If you would like it to be more specific (e.g., include your exact job title, reasons, or a custom ending), please let me know! Subject: Resignation Letter Dear [Manager’s Name], I am writing to formally resign from my position at [Company Name], effective [last working day, typically two weeks from today]. Thank you for the support and opportunities during my time here. I am grateful for everything I have learned and experienced while working with you and the team. Please let me know how I can assist with the transition over the coming weeks. Best regards, [Your Name]",
+    "confidence": 1.0
+  },
+  "amb_019_r4": {
+    "response": "Here’s a professional resignation email template: Subject: Resignation Letter Dear [Manager’s Name], I am writing to formally resign from my position at [Company Name], effective [Last Working Day, e.g., two weeks from today]. Thank you for the opportunities and experiences I have gained during my time here. I appreciate your support and guidance. Please let me know how I can help to ensure a smooth transition. I wish the team continued success. Sincerely, [Your Name]",
+    "confidence": 1.0
+  },
+  "amb_019_r5": {
+    "response": "Certainly! Here’s a concise, professional resignation email template you can use: Subject: Resignation Letter Dear [Manager’s Name], I am writing to formally resign from my position at [Company Name], effective [your last working day, typically two weeks from today]. Thank you for the support and opportunities during my time here. I appreciate having had the chance to work with you and the team. Please let me know how I can help to ensure a smooth transition. Best regards, [Your Name]",
+    "confidence": 1.0
+  },
+  "amb_020_r1": {
+    "response": "I’d be glad to help you respond to a customer complaint. To give you the most effective response, could you please clarify: What is the content of the customer’s complaint, or what specific issue are they raising? What is your company’s policy or preferred approach for addressing this type of complaint (if any)? Once you provide these details, I can help you draft a professional and empathetic response tailored to the situation.",
+    "confidence": 1.0
+  },
+  "amb_020_r2": {
+    "response": "I'm happy to help! Could you please provide: The actual text or summary of the customer complaint? Any background information, desired outcome, or company guidelines I should keep in mind for the response? Once you share these details, I can draft a professional and empathetic reply for you.",
+    "confidence": 1.0
+  },
+  "amb_020_r3": {
+    "response": "I’d be happy to help you draft a response! Could you please provide: The text or summary of the customer complaint? Any relevant background or your desired outcome (e.g., refund, apology, explanation)? With these details, I can tailor a professional and effective response for you.",
+    "confidence": 1.0
+  },
+  "amb_020_r4": {
+    "response": "To help you craft the best possible response, could you please provide:  The content or nature of the customer complaint (what are they unhappy about?). Any relevant context or your desired outcome (for example: offer a refund, provide more information, apologize, etc.)? With these details, I can suggest a clear and professional reply.",
+    "confidence": 1.0
+  },
+  "amb_020_r5": {
+    "response": "I'd be happy to help you formulate a response! To provide the most effective reply, could you please clarify: What did the customer say (or what is the nature of their complaint)? Is there a particular outcome you want to achieve (e.g., offering a refund, providing technical support, apologizing, etc.)? Once you provide a little more context or the actual complaint, I’ll draft a helpful and professional response.",
+    "confidence": 1.0
+  },
+  "amb_021_r1": {
+    "response": "12 + 30 = 42",
+    "confidence": 1.0
+  },
+  "amb_021_r2": {
+    "response": "12 + 30 = 42",
+    "confidence": 1.0
+  },
+  "amb_021_r3": {
+    "response": "12 + 30 = 42",
+    "confidence": 1.0
+  },
+  "amb_021_r4": {
+    "response": "12 + 30 = 42",
+    "confidence": 1.0
+  },
+  "amb_021_r5": {
+    "response": "12 + 30 = 42",
+    "confidence": 1.0
+  },
+  "amb_022_r1": {
+    "response": "Sure! Here’s a simpler version of that sentence: \"Please send me the new schedule by the end of the day.\"",
+    "confidence": 1.0
+  },
+  "amb_022_r2": {
+    "response": "Here’s a simpler version:",
+    "confidence": 1.0
+  },
+  "amb_022_r3": {
+    "response": "Here is a simpler version of your sentence: \"Please send me the new timeline by the end of the day.\"",
+    "confidence": 1.0
+  },
+  "amb_022_r4": {
+    "response": "Here’s a simpler way to say that: \"Please give me the new timeline by the end of the day.\"",
+    "confidence": 1.0
+  },
+  "amb_022_r5": {
+    "response": "Here’s a simpler version of that sentence: \"Please send me the new timeline by the end of the day.\"",
+    "confidence": 1.0
+  },
+  "amb_023_r1": {
+    "response": "Certainly! Here’s a polite message you can use to decline a meeting invite: Thank you for the invitation. Unfortunately, I am unable to attend the meeting. Please keep me updated on any important developments or decisions. Best regards,[Your Name] Let me know if you’d like it to be more specific or personalized.",
+    "confidence": 1.0
+  },
+  "amb_023_r2": {
+    "response": "Certainly! Here’s a polite way to decline a meeting invite:Thank you very much for the invitation. Unfortunately, I am unable to attend the meeting. Please let me know if there are any important updates or action items I should be aware of. Best regards, [Your Name]",
+    "confidence": 1.0
+  },
+  "amb_023_r3": {
+    "response": "Certainly! Here’s a polite message for declining a meeting invite: Thank you for the invitation. Unfortunately, I won’t be able to attend the meeting. Please let me know if there are important updates I should be aware of. Best regards, [Your Name]",
+    "confidence": 1.0
+  },
+  "amb_023_r4": {
+    "response": "Certainly! Here’s a polite message you can use to decline a meeting invite: Thank you for inviting me to the meeting. Unfortunately, I won’t be able to attend. Please let me know if there are any decisions or action items I should be aware of after the meeting. Best regards, [Your Name]",
+    "confidence": 1.0
+  },
+  "amb_023_r5": {
+    "response": "Certainly! Here are three bullet points describing what a code review is: A process where peers examine code changes to ensure quality, correctness, and adherence to coding standards before integration. Helps identify bugs, logic errors, and potential improvements for maintainability or performance. Encourages knowledge sharing and collaboration within the development team.",
+    "confidence": 1.0
+  },
+  "amb_024_r1": {
+    "response": "Three bullet points describing what a code review is: 1. A code review is a process where a reviewer examines a piece of code to ensure it meets quality standards, follows best practices, and is free of bugs or issues. 2. The reviewer checks for readability, maintainability, and adherence to coding standards, as well as identifies potential optimizations or improvements. 3. The code review helps improve code quality, catch errors early, and ensure the codebase remains healthy and scalable.",
+    "confidence": 1.0
+  },
+  "amb_024_r2": {
+    "response": "Certainly! Here are three bullet points describing what a code review is: A process where peers examine code changes to ensure quality, correctness, and adherence to coding standards before integration. Helps identify bugs, logic errors, and potential improvements for maintainability or performance. Encourages knowledge sharing and collaboration within the development team.",
+    "confidence": 1.0
+  },
+  "amb_024_r3": {
+    "response": "A code review is a process where peers examine and evaluate code changes before they are merged into a project. It helps identify bugs, improve code quality, and ensure adherence to coding standards. Code reviews promote knowledge sharing and collaboration within the development team.",
+    "confidence": 1.0
+  },
+  "amb_024_r4": {
+    "response": "A code review is a process where team members examine each other’s code for quality and correctness before it is merged into the project. It helps catch bugs, enforce coding standards, and suggest improvements for readability and performance. Code reviews encourage collaboration and knowledge sharing within the development team.",
+    "confidence": 1.0
+  },
+  "amb_024_r5": {
+    "response": "A code review is when developers inspect each other's code changes before those changes are merged into the main project.The process helps catch bugs, enforce coding standards, and suggest improvements for code quality. Code reviews promote collaboration and knowledge sharing within the development team.",
+    "confidence": 1.0
+  },
+  "amb_025_r1": {
+    "response": "MRR, or Monthly Recurring Revenue, is the total predictable revenue a business expects to receive every month from active subscriptions or recurring sources.",
+    "confidence": 1.0
+  },
+  "amb_025_r2": {
+    "response": "MRR (Monthly Recurring Revenue) is the total predictable revenue a business earns each month from its active subscription customers.",
+    "confidence": 1.0
+  },
+  "amb_025_r3": {
+    "response": "MRR (Monthly Recurring Revenue) is the total amount of predictable revenue a business expects to receive every month from its active subscriptions or recurring services.",
+    "confidence": 1.0
+  },
+  "amb_025_r4": {
+    "response": "MRR (Monthly Recurring Revenue) is the total amount of predictable, recurring revenue that a business expects to receive each month from its subscription customers.",
+    "confidence": 1.0
+  },
+  "amb_025_r5": {
+    "response": "MRR (Monthly Recurring Revenue) is the total predictable income a business expects to receive each month from ongoing, subscription-based customers.",
+    "confidence": 1.0
+  }
+}
